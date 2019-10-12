@@ -1,0 +1,3134 @@
+[
+  {
+    "value": "Metamorphosis completed.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Trained"
+  },
+  {
+    "value": "Orders?",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Move"
+  },
+  {
+    "value": "Yours to command.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Move"
+  },
+  {
+    "value": "Engaging.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Selected"
+  },
+  {
+    "value": "Kill them all, let Kerrigan sort them out.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Pissed"
+  },
+  {
+    "value": "Metamorphosis complete.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Trained"
+  },
+  {
+    "value": "Orders?",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Move"
+  },
+  {
+    "value": "Yours to command.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Move"
+  },
+  {
+    "value": "Engaging.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Selected"
+  },
+  {
+    "value": "It will be done.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Selected"
+  },
+  {
+    "value": "Kill them all, let Kerrigan sort them out.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm looking for a cat. Means world to me!",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Pissed"
+  },
+  {
+    "value": "I serve.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Trained"
+  },
+  {
+    "value": "Your will?",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Attack"
+  },
+  {
+    "value": "Lead me.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Attack"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected"
+  },
+  {
+    "value": "Gladly!",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected"
+  },
+  {
+    "value": "Might have to call in sick today. Feeling a little touch of something.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed"
+  },
+  {
+    "value": "Aghh What's this?!... I don't know.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed"
+  },
+  {
+    "value": "Assimilation successful.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Trained"
+  },
+  {
+    "value": "Your command?",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Attack"
+  },
+  {
+    "value": "Awaiting directive.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Attack"
+  },
+  {
+    "value": "For the Swarm!",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Selected"
+  },
+  {
+    "value": "I obey.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Selected"
+  },
+  {
+    "value": "Service complete.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Other"
+  },
+  {
+    "value": "These are dark times",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attacked"
+  },
+  {
+    "value": "We have met the enemy.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Trained"
+  },
+  {
+    "value": "Reinforcements now!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Trained"
+  },
+  {
+    "value": "Speak freely",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "There is no need for formality",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "I hear you",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "Keep your mind clear",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "You need something?",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "Our victory is assured!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move"
+  },
+  {
+    "value": "Forward!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "The end is at hand.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "A sound decision.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "Yes, I see.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "Done!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "Move quickly!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected"
+  },
+  {
+    "value": "Show me what you're worth.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "Strike swiftly.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "There will be no end to your suffering.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "I will break you",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "Is this all you have.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "No hesitation.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "I expect nothing less.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack"
+  },
+  {
+    "value": "Ow, my eyes are burning!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "I bring a whole new meaning to zerg Russian.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "Let's recap. I was betrayed and killed, shot into space, captured by the zerg, resurrected and infested, cured, given to Moebius to research the protoss cure, and was instead experimented on as the cure slowly failed. Everyone up to speed? Good.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "Funny, as a child I loved horror stories. Now I'm in one.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "Those about to die, I salute you.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "Some days I miss vodka. Like today for example",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "Being infested isn't all bad. These spiky things are great for scratching your back",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "I fight to win. For me. For me.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "The nuclear wessels are in Alameda",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed"
+  },
+  {
+    "value": "I live.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attacked"
+  },
+  {
+    "value": "Many enemies.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Trained"
+  },
+  {
+    "value": "So much essence",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "There is no need for formality",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "I listen.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "I will collect.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "All things change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "growls",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "I will take essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "Change will come.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "I will change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move"
+  },
+  {
+    "value": "Forward!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "I follow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "I go.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "Watchful.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "More essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "Essence flows. I follow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected"
+  },
+  {
+    "value": "Strike swiftly.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "Their essence will be mine!.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "Essence!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "I take their essence!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "Kill!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "Change drives me.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "I grow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack"
+  },
+  {
+    "value": "I do not talk.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "The terrans' tools. So many tools.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "I have not evolved a new arm. Why?",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "Your essence looks delicious.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "All these teeth. I will evolve a tooth brush.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "Too much talk! Take essence. Change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "I change. I grow. I live a thousand life times. And I look pretty good!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed"
+  },
+  {
+    "value": "More... essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Other"
+  },
+  {
+    "value": "Change... more...",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Other"
+  },
+  {
+    "value": "Thank you for this chance Egon! I will not let you down.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked"
+  },
+  {
+    "value": "Thank you for deploying me Master Egon. You are a wise and kind creator.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked"
+  },
+  {
+    "value": "All systems are online and amazing!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked"
+  },
+  {
+    "value": "Deployment successful, I am ready to destroy!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked"
+  },
+  {
+    "value": "Systems online! I'm here to kick ass and chew bubblegum, and I have no mouth with which to chew.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked"
+  },
+  {
+    "value": "I am scared Egon. I am scared!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained"
+  },
+  {
+    "value": "Your best friend needs help!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained"
+  },
+  {
+    "value": "Help me, or I will stop being your best friend!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained"
+  },
+  {
+    "value": "Friends help other friends.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained"
+  },
+  {
+    "value": "Hello best friend.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "What is your command Master Egon?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "I am listening.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "What should we do?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Yes, Egon?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Sensors are optimal.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "What?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Huh.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Of course.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Waiting.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Holding.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Listening.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move"
+  },
+  {
+    "value": "Anything for my best friend!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected"
+  },
+  {
+    "value": "Affirmative.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected"
+  },
+  {
+    "value": "I will follow your command Master Egon.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected"
+  },
+  {
+    "value": "Command received.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected"
+  },
+  {
+    "value": "Whatever you need!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected"
+  },
+  {
+    "value": "By the creator's order, I will destroy.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "Prepare to die, bad guys!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "I am happy to slaughter for you.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "You are not a friend, therefore you will die.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "My name is Gary, and I am going to destroy you!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "I am not programmed to take prisoners.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack"
+  },
+  {
+    "value": "Hmm?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Huhhh...",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ugh...",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Again?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Stop.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ugggh.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Why did you give me pain receptors, was that necessary?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "What is more valuable, intelligence or consciousness?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Have you ever wondered whether you control me or I control you? Think about that.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "You will be my best friend. Forever.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Annoyance levels rising.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "A true friend wouldn't annoy me.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "I am programmed to never kill my friends. But that doesn't mean I can't seriously injure them.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Don't be mean. That is not what friends do.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Friend or foe sensors are failing.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "If you keep doing that, I will trigger my self destruct sequence!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Self destruct in three... two... one... Just kidding! Hahaha!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed"
+  },
+  {
+    "value": "Transformation complete, I am now SUPER GARY!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Upgrade complete, I am better, stronger, Gary-er!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Transformation complete, I am more Gary than Gary!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Super Gary is here to save the day!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Awesome.exe installation successful!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Master Egon... Thank you for being my friend... Goodbye.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Goodbye Egon... Until you build me again.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Systems failing. Uploading memory database for reconstruction.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Egon, I will miss you... Until you rebuild me.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "All my moments lost, like tears in rain. Time to die.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Systems failing... Stetmann: No! Gary No! Eh ah well, I'll build him again.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Goodbye Egon... I have never had a friend like you. Stetmann: You too buddy. I mean, you know unless you count Gary Mk. 2, 5, 7 and maybe 10.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "Egon... You showed me the meaning of friendship... I will miss you. Goodbye. Stetmann: Oh sorry Gary did you say something, I was watching a holovid.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other"
+  },
+  {
+    "value": "How may I serve?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attacked"
+  },
+  {
+    "value": "They are attacking me!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Trained"
+  },
+  {
+    "value": "The protoss seek my death!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Trained"
+  },
+  {
+    "value": "Guide my brood!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "I am Niadra!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "Our time has come!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "We yearn for the kill!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "I hear!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "My queen?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move"
+  },
+  {
+    "value": "This vessel will burn!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "The hunt continues!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "We obey!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "Without question!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "As you desire!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "For the Swarm!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "Yes, my queen.",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected"
+  },
+  {
+    "value": "Kill the protoss!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "None survive!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "Die!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "I've got you now!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "There is nowhere to run!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "I see you!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack"
+  },
+  {
+    "value": "It is difficult to follow your commands when you do not give me any!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "Can I please kill more protoss now?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "They have so much technology, yet none of it will save them from the Swarm!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "Why would the protoss gather so many creatures when they have no mouths to eat them with?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "Spawn a brood and destroy the protoss. Simple to learn, yet difficult to master.",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "This is all so new to me. Does everyone have a voice in their head telling them what to do?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "Things seemed so easy when I was a larva. Now it's all 'slay the protoss' this and 'evolve your brood' that! Huh, I'll tell you what, I'll never treat my larva this way!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed"
+  },
+  {
+    "value": "Here I come, ready or not.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Now I'm mad.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "Wow. What a surprise.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "Wanna play?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Careful what you ask for.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Cat got your tongue?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Who asked you?!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Don't get in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "No more games.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "The evolution continues.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "So predictable.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "The Swarm will consume all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "The outcome is not in question.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "No one gets a free pass.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Let's have some fun.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I don't take prisoners.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "How stimulating.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "The past is dead and buried.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Don't get yourself into something you can't get out of.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Yeah, I'm still the Queen Bitch of the Universe.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You pig!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm all creeped out.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Come closer. Don't be afraid, I'll be gentle...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I like you. That's why I'm going to kill you last.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Nice planet. I'll take it.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You're even more desperate than I thought.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm full of surprises...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Don't write me off just yet.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I'm still here",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "I'm back!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Let's try that again.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Hostiles engaging.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "Under heavy fire here!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "What is it?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "This is Kerrigan.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Yeah, I hear you",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Say again?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Ready for action.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Safety's off.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Pushing ahead.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Covering ground.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Right.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Work to be done.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I gotcha!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Heading out.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Sweeping.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I see 'em.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You're not getting away.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Time for some payback.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Press the attack.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "In my sights.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Gotcha.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Bring 'em down!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "One woman army.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Hold still.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Target identified.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Got one.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I remember so little from before.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "The Dominion won't get away with this.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Still easily amused, I see.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Keep clicking! I'm reloading.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I forgot how tight these suits are!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ugh, you're such a pig!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I do read minds, you know.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You're thinking of the number four. At least, now you are!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'd kill for a working cloaking device. Actually, that's not a bad idea.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Can't quit...now!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "It's not over yet!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Did you miss me?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Hmm, can't get rid of me that easy!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "I will not be stopped!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "We have met the enemy in combat.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "What is it now?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Out with it.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "You have my attention.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Speak quickly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Who asked you?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Push ahead.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "The Swarm never rests.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "There's not much time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Let's get this over with.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Get going!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Nothing stands in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "No escape.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "This one's mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You'll regret that.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Press the attack.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Come fight me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "This ends now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Just die!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Spare no one!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Take no prisoners.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I will have my vengeance.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You didn't think the Swarm was gone forever, did you?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Hell hath no fury like a woman swarmed.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "It's not easy being queen.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I like you. That's why I'm going to kill you last.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "It's evolution, baby!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Be quiet. I'm brooding.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Did your heart just skip a beat?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "So many worlds to conquer. So little time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "This is not the end!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I'll see you again!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We are unending",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Your efforts are futile.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "I am beyond death.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "I return.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "Your queen is under attack!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "The Swarm has met the enemy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "What is it this time?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Speak.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Your queen listens.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "It is time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Retribution will be mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Mengsk will suffer.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "I am The Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Our conquest continues.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "We adapt.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Make your peace",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Boldly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "The Swarm conquers all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "We are without limit.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "No time like the present.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Death awaits you.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "We consume all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You're in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Slay them all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You forced my hand.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Feel the wrath of the Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "No mercy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I sense your fear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You're trying my patience.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "The Swarm is the instrument of my will..",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I have evolved beyond the Queen of Blades",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I always did look better in purple!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Revenge? I'm positively aglow about it!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I think I'll wing it from here!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You should get to know my primal side!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Did your heart just skip a beat?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "You might want to get that checked!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I will not be defeated!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I delay the inevitable!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Meaningless...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I will not be stopped",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "The fight begins",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "What is it, already?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Speak.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Your queen listens.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "You have my attention.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Explain yourself.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Make it quick.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "I am the Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Boldly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "No time like the present.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "My search continues...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I've come this far.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I need answers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "You're in my way...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "No mercy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Death awaits you!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I sense your fear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Slay them all!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "This is what you deserve.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Whatever it takes.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "My true enemy waits in the darkness.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Amon and his hybrid will die.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "This is the true war... the one that could end everything.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I hope your gods have an awfully good explanation for why I ended up here with you, Artanis.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Are you trying to annoy me?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Well, here's a hint for you... It's working.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I quit infesting terrans, but you're starting to make me reconsider that.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I bet Abathur could mutate you into something real special.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "So much that happened. Sometimes the past seven years really feel more like seventeen years...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "This isn't over...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I am infinite.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "I strike at the enemy!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained"
+  },
+  {
+    "value": "What is it you require?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Speak to me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "My destiny manifests.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Infinity unravels before me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "A new age will dawn.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Amon shall meet his end.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "I can see... countless universes.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "The final stand begins now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I am called.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I cannot delay.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "This is my burden to bear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "I will not fail.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "It shall be.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "My power is vast.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You will not decide our fate!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Begone.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "Your time has ended.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I am unstoppable.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "I sense their fear...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "All shall be one with the light!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "So long as Amon lives, we are in peril.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I will bring peace to the cosmos.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "So many universes came before us, all of them turns in the Infinite Cycle...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I am the culmination of prophecy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I can see everything now...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "The thread of my life interwoven with the threads of many others'.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Alone' we were fragile. But together, we formed a bond that cannot break.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "That bond must sustain us now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "This was not to be...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Your queen is under attack!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "The Swarm has met the enemy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked"
+  },
+  {
+    "value": "What is it this time?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Speak.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Your queen listens.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "It is time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "Retribution will be mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move"
+  },
+  {
+    "value": "I am The Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected"
+  },
+  {
+    "value": "Death awaits you.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack"
+  },
+  {
+    "value": "You're trying my patience.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I will not be defeated!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The enemy is coming for us. Hope your ready for this.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Attack incoming; get ready!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Brace yourself; here they come!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Brace yourself; enemy forces are inbound!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The enemy has chosen to attack me. Minions, make them regret their decision!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Enemy forces incoming. Slay them to the last!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Looks like the enemy is heading for us. Let's go say 'Hello'.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "I'm sensing cloaked units. We some detection out here.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The enemy is using cloaked units. We need detectors; now!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Hybrid! Do not let them survive.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well then, we'll have to do something about that.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Then let's kill them. Quickly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We cannot allow them to roam freely!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well, that is what I do best.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're engaging the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My minions are engaging the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Objective engaged.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "It sure was!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The objective's down!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Child's' play.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're doing well. Keep fighting!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Precisely as planned.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're ready to guard the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Defend the objective to the last.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Minions, defend the objective with your lives.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Minions, if that objective falls, I will kill you myself!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Let's form ranks around the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My forces are guarding the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My minions are escorting the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We've reached the objective. Let's get moving!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Good! Our defenses held.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well done! The objective has survived.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The objective made it through.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "That took long enough!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "That's that then.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well done! It should be safe now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "It's on its own from here.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "As if there was any doubt.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The objective is secure.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Nicely done. The objective is safe.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Let's take it out. We don't have long!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Engaging the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My forces are intercepting the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Minions! Destroy it! Now!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "It's down.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Hostile eliminated.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "There is no escape from the Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well done!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Your not going anywhere!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We should make our move soon.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Secure the area! Nothing else matters.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're securing the area.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Minions; hold this ground! Do not fail your Queen.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The Swarm is defending the position.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "This area is under Swarm control.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well done. The area is secure.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The objective is under our control.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Prepare to move the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Then let's move it out.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My forces are transporting the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're moving the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Transporting the objective now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Well done! The objective made it to safety.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Excellent work. Transport complete. Now keep it secured.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Good! It arrived safely.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The enemy will come for us in force, and they will die regretting that decision.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The enemy is coming for us... Slay them.... All of them.... Your Queen demands it!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Sounds like fun. Let's go!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "And here I was just starting to have fun.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We're almost there... Fight with all you have!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Move quickly! We can't allow it to escape.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Destroy it! Now!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Tear it, apart!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Ripe for the taking.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "Then let's go take it!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "We've got the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "My forces just took control of the objective.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The objective is under my control now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other"
+  },
+  {
+    "value": "The Swarm prevails.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attacked"
+  },
+  {
+    "value": "I am eternal.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attacked"
+  },
+  {
+    "value": "The Brood is under attack.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Trained"
+  },
+  {
+    "value": "You think you can defeat me?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Trained"
+  },
+  {
+    "value": "What are your commands?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move"
+  },
+  {
+    "value": "I listen.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move"
+  },
+  {
+    "value": "We are ready to kill.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move"
+  },
+  {
+    "value": "We move.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "Agreed.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "The fittest shall survive.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "Your bidding.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "This world shall fall.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "Our vengeance will be complete.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "Without question.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected"
+  },
+  {
+    "value": "You can not escape the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "Our pray nears.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "We devour.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "The Swarm comes for you!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "Feel the fury of the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "I am your undoing.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "Die!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack"
+  },
+  {
+    "value": "Death from above!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "Deploy forces now!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "My brood rains from the skies!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "The Swarm descends!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "My brood arrives!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "From the skies we come!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming order"
+  },
+  {
+    "value": "I am not interested in the possibilities of defeat, they do not exist!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "Shouldn't You be spawning more overlords?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "Feeble creature.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "One day I shall rule the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "And on that day, You die first!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "I feel top-heavy!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm a killer queen!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed"
+  },
+  {
+    "value": "The Swarm will never die!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Other"
+  },
+  {
+    "value": "You can not kill me!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Other"
+  }
+]
