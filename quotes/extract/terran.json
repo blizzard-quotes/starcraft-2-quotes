@@ -3,127 +3,127 @@
     "value": "\"Engines screaming.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Mayday! Mayday!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Holla back.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Loud and clear.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I got my ears on.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Call the ball.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yeah?\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Receiving.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Roger that.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Done and done!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Can do.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"In bound!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"That's fine.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I got this!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Fine...\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Right.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No problem!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Weapons hot!\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Confirmed.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Turbines to full.\"\n",
     "faction": "Terran",
     "unit": "Banshee",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Rolling thunder.\"\n",
@@ -255,133 +255,133 @@
     "value": "\"Who called in the fleet?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"It's a trap!\" (Custom game only)\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Abandon ship!\" (Campaign only)\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Well?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You hailed?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Patching you through.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes, commander?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Oh really?\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Course laid in.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Engage.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Acknowledged.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes sir.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Squadron en route.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Okay.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Whatever that means...\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Take it slow.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Roger!\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'm on it.\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes commander...\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"En route!\"\n",
     "faction": "Terran",
     "unit": "Battlecruiser",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Weapons charged and ready!\"\n",
@@ -513,115 +513,115 @@
     "value": "\"Systems go, Cyclone ready for action!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Optics online, let's go kill something!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Eject!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Takin' some fire here!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Enemy contact!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"You got coordinates or what?\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Show me who you want to die.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"This oughta be good.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Channel's clear, boss.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Cyclone receiving.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got a target in mind?\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Comm's open.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Moving into position.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nothing will stop me!\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I getcha.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Cyclone en route.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"In gear.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh, i'll get there.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Adjusting for new coordinates.\"\n",
     "faction": "Terran",
     "unit": "Cyclone",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Target locked.\n",
@@ -699,109 +699,109 @@
     "value": "\"Ghost reporting.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"It's getting too hot!\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"You sure about that?\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Out with it!\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Give me the sitrep.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Come again?\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Go...\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Solo operative, right?\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Copy that...\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nothing to it.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You're on.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Deploying...\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'm on it.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sounds like a plan.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Confirmed.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Roger.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Okay...\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Target in my sights.\"\n",
@@ -969,85 +969,85 @@
     "value": "\"Ghost reporting.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Hostile contact.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "You look like you've seen a ghost.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say again?\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Confirm that last?\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm reading you.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Status report.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Repeat last transmission.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Out of sight, out of mind.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Affirmative.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Orders received.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Understood.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Copy that.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On the move.\"\n",
     "faction": "Terran",
     "unit": "Ghost",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Target acquired.\"\n",
@@ -1251,73 +1251,73 @@
     "value": "\"Talk to me.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Gettin' fired up here boss.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's the story?\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I hear you.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Let's set sum on fire.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hot footin' it out there.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Hell yeah.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Here we go.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Word.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Done and done.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"In motion.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Can't wait.\"\n",
     "faction": "Terran",
     "unit": "Hellbat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's give 'em hell.\"\n",
@@ -1425,121 +1425,121 @@
     "value": "\"Ready to raise some hell!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Uhh... I'm in a heap of trouble!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Talk to me, boss!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Daylight's burnin'!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Are you ready for this?\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Where's the hot action?\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Light it up!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm waitin' on ya.\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Burnin' rubber!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"HELL yeah!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Let's do this!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Word...\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Is that it?\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Sound's sweet!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"I'm goin' in!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Pedal to the metal!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Right on!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Absolutely!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"All day long!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Sssmokin'!\"\n",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Like a bat out of...ah, forget it...\"\n",
@@ -1611,115 +1611,115 @@
     "value": "\"Liberation is at hand.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Reporting for action.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Standing by.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We have you on-screen.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Need something liberated?\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes sir?\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Flight plan is locked.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Incoming orders.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got freedom?\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"How can we help?\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We read you.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Attention.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ah, Commander.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Full speed.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Of course.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"As you say.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Easy.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Initiating.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Course set.\"\n",
     "faction": "Terran",
     "unit": "Liberator",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Unleash hell.\"\n",
@@ -1827,145 +1827,145 @@
     "value": "\"Let's have a blast!\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"KABOOM, baby!\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Ohhh, it's on.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"It's go time!\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"It's about to get heavy.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"I'm in a world of hurt!\"\n",
     "faction": "Terran",
     "unit": "Marauder",
     "action": " Trained\n"
   },
   {
-    "value": "\"Just say when...\"\n",
+    "value": "\"It's go time!\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Go on...\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Say the word, baby...\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Time's a wastin'...\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Don't leave me hanging!\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Gotta WHOLE lotta love!\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Ohhh, it's on.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Selected\n"
-  },
-  {
-    "value": "\"Believe it.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Selected\n"
-  },
-  {
-    "value": "\"I'm all about that.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Selected\n"
-  },
-  {
-    "value": "\"Let's do this.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Selected\n"
-  },
-  {
-    "value": "\"It's go time.\"\n",
-    "faction": "Terran",
-    "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"It's about to get heavy.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
+    "action": " Trained\n"
+  },
+  {
+    "value": "\"I'm in a world of hurt!\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " When attacked\n"
+  },
+  {
+    "value": "\"Just say when...\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
     "action": " Selected\n"
+  },
+  {
+    "value": "\"Go on...\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Say the word, baby...\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Time's a wastin'...\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Don't leave me hanging!\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Gotta WHOLE lotta love!\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Ohhh, it's on.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"Believe it.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"I'm all about that.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"Let's do this.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"It's go time.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"It's about to get heavy.\"\n",
+    "faction": "Terran",
+    "unit": "Marauder",
+    "action": " Move order\n"
   },
   {
     "value": "\"First round's on me.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Got it.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sure.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sure thing.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Why not?\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Of course.\"\n",
     "faction": "Terran",
     "unit": "Marauder",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Blow them all to hell!\"\n",
@@ -2073,211 +2073,211 @@
     "value": "\"You want a piece of me, boy?\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"Armed and ready!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"Go, go, go!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"This better be good...\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " When attacked\n"
-  },
-  {
-    "value": "\"We could use some help here!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
     "action": " Trained\n"
   },
   {
     "value": "\"Armed and ready!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Move order\n"
+    "action": " Trained\n"
   },
   {
-    "value": "\"By the numbers, boys.\"\n",
+    "value": "\"Go, go, go!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Bring it!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Medic!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Been waitin' on you.\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " Move order\n"
-  },
-  {
-    "value": "\"Who wants some?!\"\n",
-    "faction": "Terran",
-    "unit": "Marine",
-    "action": " Move order\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"This better be good...\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Move order\n"
+    "action": " Trained\n"
+  },
+  {
+    "value": "\"We could use some help here!\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " When attacked\n"
+  },
+  {
+    "value": "\"Armed and ready!\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"By the numbers, boys.\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Bring it!\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Medic!\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Been waitin' on you.\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Who wants some?!\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"This better be good...\"\n",
+    "faction": "Terran",
+    "unit": "Marine",
+    "action": " Selected\n"
   },
   {
     "value": "\"You gonna give me orders?\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Roger that!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Why not?\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"That's fine.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I feel ya.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Got it.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Orders received.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Aye aye, sir!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Lookin' forward to it.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Boo ya!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Gangway, comin' through!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Affirmative.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Keep your shirt on, Sparky.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sure thing!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Outstanding!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You got it!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Of course!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes sir!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sure!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Ten-four.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Go go go!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do.\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'm on it!\"\n",
     "faction": "Terran",
     "unit": "Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Get some!\"\n",
@@ -2415,133 +2415,133 @@
     "value": "\"Ready for dust-off.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Somebody get me out of this mess!\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Ready for pick up?\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Picking up or dropping off...\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Where's the emergency?\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Talk to me.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Waitin' on you.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Life flights here.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Now what?\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Heading out.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do, command.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I heard that.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Well hallelujah!\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"In bound.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Loud and clear.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On my way.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Understood.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Acknowledged.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"In the pipe, five by five.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"ETA. One minute.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Confirmed.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's go.\"\n",
     "faction": "Terran",
     "unit": "Medivac",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Who's gonna rescue me?!\"\n",
@@ -2709,115 +2709,115 @@
     "value": "\"Raven online.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"This vessel requires assistance!\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Awaiting orders.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"State your request.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Command.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Scanning battlefield conditions.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Engineering at your disposal.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ready for service.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Confirming order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Job confirmed.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Understood.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Commencing.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Under way.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Immediately.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"This vessel will comply.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Order accepted.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Command authority registered.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Order acknowledged.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Right away.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Systems primed.\"\n",
     "faction": "Terran",
     "unit": "Raven",
-    "action": " Selected\n"
+    "action": " Confirming order\n"
   },
   {
     "value": "\"Logic capacitor. Offline.\"\n",
@@ -2913,121 +2913,121 @@
     "value": "\"The Grim Reaper has arrived.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"We're screwed.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Death from above.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm listenin'.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What? You want somethin'?\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Time to get it on.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's it worth?\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Fear the Reaper man!\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got something for me to kill?\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"All right.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'm goin'! I'm goin'!\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Done.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Fair enough.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Agreed.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes, indeed.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh, that's all?\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh yeah, baby!\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On the way.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nothing I can't handle.\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's do this!\"\n",
     "faction": "Terran",
     "unit": "Reaper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Here comes the pain!\"\n",
@@ -3159,175 +3159,175 @@
     "value": "\"SCV ready.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "(computer) \"Our SCVs are under attack.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"I'm too young to die!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Help!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Not what I had in mind!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What's goin' on?\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Bad news?\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Huh?\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Aak! Ya scared me.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"In the rear with the gear.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Big job, huh?\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Go ahead.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm goin'!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yeah whatever.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yep.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Gotcha.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yessir!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Move it!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yeah, yeah.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yo...\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Woo hoo! Overtime!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You're da boss.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"We hear ya.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Uh-huh...\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It's your dime...\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Well, butter my biscuit!\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yeah.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Roger.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do.\"\n",
     "faction": "Terran",
     "unit": "SCV",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"What, you run out of marines?\"\n",
@@ -3429,169 +3429,169 @@
     "value": "\"Fueled up, ready to go!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Ready to roll out!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I'm in deep!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Give us your best shot!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's our target?\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Go ahead.\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's that?\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Laaay it on me!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got no patience for sittin' around!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Need something blowed up? (sic)\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak up!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Oh, IT'S ON!!!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Rollin' out!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On my way!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Move it!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Rock and roll!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Rock on!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I never tread lightly...\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Can do!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yessir!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Heavy metal.\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's roll!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll give it my best shot!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Definitely.\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It's on me!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Rollin'!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Ab-Sol-Lutely!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Af-fir-ma-tive!\"\n",
     "faction": "Terran",
     "unit": "Siege_Tank",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Goo-d night now!\"\n",
@@ -3705,133 +3705,133 @@
     "value": "\"Thor is here.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "(Adjutant) \"Your forces are under attack.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "Ja! Come and fight me! (Mad laugh)\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Fix me up, will ya?\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hit me!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I hear you!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am here, click me!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hear the thunder!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm heavy metal!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got something for me?\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Get me back into the fight!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm wasting away here!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Can do.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Now, now, now!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No problem.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"All over it.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Stick around.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll be back.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's go!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Watch this.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"OK, baby.\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Right!\"\n",
     "faction": "Terran",
     "unit": "Thor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Ohh, it's on!\"\n",
@@ -3981,109 +3981,109 @@
     "value": "\"Ready to plunder.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Can't hold them alone!\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Fight or flight? Yeah right.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Transformation systems primed.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You ready for war?\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Let's get into the fight.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Made for battle.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Haha!\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Alright.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Inbound.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Agreed.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes indeed.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Victory.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No one lives forever.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Bold...\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Very well.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I like it.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Certainly.\"\n",
     "faction": "Terran",
     "unit": "Viking",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Fortune favors the bold!\"\n",
@@ -4215,103 +4215,103 @@
     "value": "\"I hear you needed a mercenary, eh?\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I have the enemy's attention.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Is that so?\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Oh my.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Go on.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You sweet talker.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Are you always this convincing?\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I like the sound of that.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Amuse me.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hmm?\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"How suggestive.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll try anything.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Just for fun.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Leave the business to me.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I like the sound of that.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I can commit to that.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Almost there.\"\n",
     "faction": "Terran",
     "unit": "Assault_Galleon",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You've never seen upgrades like this.\"\n",
@@ -4401,97 +4401,97 @@
     "value": "\"What needs killing?\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Get me outta here!\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Huh?\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's on your mind?\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Go on.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's the plan?\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Mhm... mhm... What?\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"At the ready!\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm waiting!\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Of course.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I like it.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"How devious.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"My pleasure.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Excellent.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On the move.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Victory is ours!.\"\n",
     "faction": "Terran",
     "unit": "Diamondback",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Unleash the hounds!\"\n",
@@ -4605,91 +4605,91 @@
     "value": "\"Need a light?\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Mmmm...My goose is getting cooked!\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Ready to roast!\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Fight fire with fire.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say the word.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You got my attention.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Fueled up!\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ready to fry.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Mmmm... Let's get cookin'!\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Well done.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Smokin'!\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's do this.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Barbeque time.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Humm... scorched earth.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Smells like... victory.\"\n",
     "faction": "Terran",
     "unit": "Firebat",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"FLAME ON!\"\n",
@@ -4833,73 +4833,73 @@
     "value": "\"Goliath online.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Assistance required.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Go ahead, TACCOM.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Comm-link online.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Channel open.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Systems functional.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Acknowledged H.Q.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nav-comm locked.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Confirmed.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Target designated.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Affirmative.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Data received, TACCOM.\"\n",
     "faction": "Terran",
     "unit": "Goliath",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Weapons hot.\"\n",
@@ -5001,49 +5001,49 @@
     "value": "\"Ay, laddie!\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"If I die, I'll kill ya!\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Move it, move it, come on.\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yeah?\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Oh, don't get your knickers in a bunch.\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Okay.\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Roger.\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Easy...\"\n",
     "faction": "Terran",
     "unit": "Hercules",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Get in my hold!\"(load) \n",
@@ -5085,91 +5085,91 @@
     "value": "\"The doctor is in.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Umm. Better send some body bags!\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Where does it hurt?\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Is it critical?\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You rang?\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Please state the nature of your medical emergency.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Standing by.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Need some triage?\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Just relax.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll take care of it.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Not a problem.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Ooh! How serious!\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Hm. That's a serious outbreak.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Must be an emergency.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On my way.\"\n",
     "faction": "Terran",
     "unit": "Medic",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll fix you!\"\n",
@@ -5337,67 +5337,67 @@
     "value": "\"Explorer reporting.\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I'm in a pickle!\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Ah, greetings command.\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Transmit orders.\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Receiving, headquarters.\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We have you on visual.\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Explorer reporting\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Excellent!\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Commencing!\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Affirmative sir!\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's roll!\"\n",
     "faction": "Terran",
     "unit": "Science_Vessel",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I like the cut of your jib.\"\n",
@@ -5469,85 +5469,85 @@
     "value": "\"I have awakened.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Where's my backup?\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Bring it!\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Feed the rage\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's your call?\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Enlighten me\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Come on already.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm tired of waiting\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"One step ahead.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Mercy is for the weak.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The time has come.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'm already there.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Just stay out of my way.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I sense their fear.\"\n",
     "faction": "Terran",
     "unit": "Spectre",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"(cackle) Execute.\"\n",
@@ -5721,73 +5721,73 @@
     "value": "\"(Bike engine starts up) Alright! Bring it on!\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"How about lending a hand?\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Yeah?\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I read ya... Sir...\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Somethin' on your mind?\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Whadda you want?!\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yeah, I'm goin!\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Dig it.\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No problemo.\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh... Is that it?\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Born to be wild.\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The road's callin'.\"\n",
     "faction": "Terran",
     "unit": "Vulture",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Lets rumble.\"\n",
@@ -5889,85 +5889,85 @@
     "value": "\"Whoah-hah, now online.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Comm receiving.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What can I do for ya?\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm listnin'.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say it loud and proud son.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Whadya want?\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Movin'.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sounds good.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sure, why not?\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I got ya.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Alright with me.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Not a problem.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Understood.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Skiddy on the way.\"\n",
     "faction": "Terran",
     "unit": "Warhound",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Light 'em up!\"\n",
@@ -6081,73 +6081,73 @@
     "value": "\"Wraith awaiting orders.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Whoa, they're all over me!\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Go ahead, commander.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Transmit coordinates.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Standing by.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Reporting in.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Coordinates received.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Attack formation.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Roger.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Vector, locked in.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Will do, command.\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Thrusters to maximum!\"\n",
     "faction": "Terran",
     "unit": "Wraith",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Targeting systems primed!\"\n",
@@ -6261,133 +6261,133 @@
     "value": "\"Here's the beef!\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"This ain't no bull! I'm in trouble!\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Got zerg on my left flank.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Milked up and good to go.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Are you gonna give me udders?\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"This codpiece gives me tenderloins.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"The name's T-bone. Chuck T-bone.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You will call me Sir... Loin.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Nice rack... ain't it.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Call me leather neck.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's up beef jerky?\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Beefy!\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'll hoof it from here.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Don't have a cow, man.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Give me something to chew.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Don't prod me, boy.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Steer me this way.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You're the Matador.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"MOOve!\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Stop staring on me like I'm some piece of meat.\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Head 'um up, move 'em out\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"MOOOOve out!\"\n",
     "faction": "Terran",
     "unit": "Tauren_Marine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"COWABUNGA!!!\"\n",
@@ -6555,109 +6555,109 @@
     "value": "\"Humanity must advance!\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"True science requires courage.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Help, they are firing at me!\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Why are they attacking me?\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Oh.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I just had an idea.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What if, no.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"This had best be important.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What is it you need?\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Science department responding.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hmm, ready to proceed.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"A curious proposal.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Huh, let's get this over with\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes, I see.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Are you certain?\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll be there shortly.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Right, right.\"\n",
     "faction": "Terran",
     "unit": "Scientist",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This is highly unorthodox!\"\n",
@@ -6741,127 +6741,127 @@
     "value": "\"Rig startup complete.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Let's get cracking.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Not doing so hot over here, boss!\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Hey, things are getting real, real fast here!\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Speak up, boss.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I read ya.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Whatcha need, man?\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Hmm?\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Got some work for me?\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Finally, some work orders.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yo.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's up tough guy?\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Alrighty, I'm moving.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Got it.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh, I see it.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Book'n and hook'n.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Hey, you're the boss.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Site's this way.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Heading that way.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No problemo.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No skin off my back.\"\n",
     "faction": "Terran",
     "unit": "HERC",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This guy's in for a shock.\"\n",
@@ -6987,115 +6987,115 @@
     "value": "\"Some will die so that others may live.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Safeguarding the future.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Taking fire.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Engaging hostiles!\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Yes command?\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Huh, com's a little fuzzy.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Awaiting orders.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You got my attention.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ten-two receiving.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ready to serve.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Trooper standing by.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"With vigilance.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Eyes open.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Moving out.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Orders are orders.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I will comply.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Understood.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Not a problem.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On patrol.\"\n",
     "faction": "Terran",
     "unit": "Trooper",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I do what must be done.\"\n",
@@ -7203,73 +7203,73 @@
     "value": "\"Commander?\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Game over, man! I'm done! Done! Don't wanna play anymore!\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Just fascinating!\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Need help, sir?\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Back off man, I'm a scientist.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"-Sing a song-\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I have a plan.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Riiight... oh, I mean, yes sir.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh, just my luck.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You sure about this?\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh fiddle sticks.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Terran",
     "unit": "Egon_Stetmann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Me? Attack?\"\n",
@@ -7305,97 +7305,97 @@
     "value": "\"Failure is never an option.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Request immediate evac!\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Nova here.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say again?\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Confirm that last?\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm reading you.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Status report.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Strictly business.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Acknowledged.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"En route.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Got it.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Loud and clear.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On the move.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll make it happen.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Executing.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Consider it done.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Preparing to terminate.\"\n",
@@ -7509,97 +7509,97 @@
     "value": "\"Ready for action.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Engaging enemy.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Nova here.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say again?\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Confirm that last?\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I'm reading you.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Status report.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Strictly business.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Acknowledged.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"En route.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Got it.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Loud and clear.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"On the move.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I'll make it happen.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Executing.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Consider it done.\"\n",
     "faction": "Terran",
     "unit": "Nova",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Preparing to terminate.\"\n",
@@ -7731,109 +7731,109 @@
     "value": "\"Let's make it count.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I'm getting buried here!\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"This don't look good.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Fat lady's about to sing.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What's up.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Talk to me.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's the plan?\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Break it down.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Sell me.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Whatever's clever.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It's aaall good.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It is what it is.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Aaall day long.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Take it to the limit.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sounds like a plan.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You can count on me.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Raiders roll.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Time to man up.\"\n",
     "faction": "Terran",
     "unit": "Jim_Raynor",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Charge it.\"\n",
@@ -7959,61 +7959,61 @@
     "value": "\"What's up, cowboy?\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Hey give me a hand, will ya!\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Any time you're ready.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Is that it?\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Let's show 'em what we got.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"No time for chat, cowboy. What's up?\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Damn straight.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I got it, hotshot.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yeah yeah I'm doin' it.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Oh that's just great.\"\n",
     "faction": "Terran",
     "unit": "Rory_Swann",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Hey, leave some for me.\"\n",
@@ -8091,85 +8091,85 @@
     "value": "\"It's about damn time!\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Get your head out of your six!\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Get the lead out!\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"I'm a bad man.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Don't provoke me.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You're gonna bark all day?\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Don't waste my time.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's in it for me?\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Walk the walk.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"A man's gotta do what a man's gotta do.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Whatever it takes.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": " \"You can't fix stupid.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Okay, armchair general.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I didn't hear no magic word.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Full auto!\"\n",
@@ -8319,55 +8319,55 @@
     "value": "\"Love at first sight.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Just arrivin' in style.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Hope this thing's insured.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"It followed me home. Can I keep it?\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Let's see what this baby's got.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I like it.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Heavy duty.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This'll get 'er done.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Make room for the big dog.\"\n",
     "faction": "Terran",
     "unit": "Tychus_Findlay",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Squash 'em like bugs!\"\n",
@@ -8427,97 +8427,97 @@
     "value": "\"Killin' time!\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Gonna be a ghost for real.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"You got me into this. Get me out!\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"You askin', or tellin'?\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": " \"Open your mind.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I know it before you see it.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Out with it.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Talk is cheap.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Convince me.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What's crackin'?\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Let's do this.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's just see about that.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Damn straight.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Maybe yes, maybe no.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": " \"Irie.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I do, what I wanna do.\"\n",
     "faction": "Terran",
     "unit": "Gabriel_Tosh",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Bad mojo on the way.\"\n",
@@ -8613,109 +8613,109 @@
     "value": "\"Hyperion: Online and prepped\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"We’re under heavy fire here!\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Contain that hull breach!\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Hyperion Actual.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Radio Check, over.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Communications online.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Awaiting Confirmation.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Horner responding.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Receiving transmission.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Course Laid in.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nice and easy\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Make it so.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Bring us around.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Locked in.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Confirmed.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Easy thrusters.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Keep your eyes open.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Systems are go.\"\n",
     "faction": "Terran",
     "unit": "Matt_Horner",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Focus all batteries.\"\n",

@@ -9,19 +9,19 @@
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Kill them all, let Kerrigan sort them out.\"\n",
@@ -39,25 +39,25 @@
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It will be done.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.\"\n",
@@ -81,25 +81,25 @@
     "value": "\"Your will?\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Lead me.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Attack order\n"
   },
   {
     "value": "\"Gladly!\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Attack order\n"
   },
   {
     "value": "\"Might have to call in sick today. Feeling a little touch of something.\"\n",
@@ -123,25 +123,25 @@
     "value": "\"Your command?\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Awaiting directive.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"For the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Attack order\n"
   },
   {
     "value": "\"I obey.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Attack order\n"
   },
   {
     "value": "\"Service complete.\" (when killed)\n",
@@ -153,91 +153,91 @@
     "value": "\"These are dark times\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"We have met the enemy.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Reinforcements now!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Speak freely\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"There is no need for formality\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I hear you\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Keep your mind clear\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You need something?\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Our victory is assured!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Forward!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The end is at hand.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"A sound decision.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes, I see.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Done!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Move quickly!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Show me what you're worth.\"\n",
@@ -339,109 +339,109 @@
     "value": "\"I live.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Many enemies.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"So much essence\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"There is no need for formality\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I listen.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I will collect.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"All things change.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "growls\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I will take essence.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Change will come.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I will change.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Forward!\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I follow.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I go.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Watchful.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"More essence.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Essence flows. I follow.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "(growl)\n",
@@ -549,163 +549,163 @@
     "value": "\"Thank you for this chance Egon! I will not let you down.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Thank you for deploying me Master Egon. You are a wise and kind creator.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"All systems are online and amazing!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Deployment successful, I am ready to destroy!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Systems online! I'm here to kick ass and chew bubblegum, and I have no mouth with which to chew.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I am scared Egon. I am scared!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Your best friend needs help!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Help me, or I will stop being your best friend!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Friends help other friends.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Hello best friend.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What is your command Master Egon?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am listening.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What should we do?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes, Egon?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Sensors are optimal.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"What?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Huh.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Of course.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Waiting.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Holding.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Listening.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Anything for my best friend!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Affirmative.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I will follow your command Master Egon.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Command received.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Whatever you need!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"By the creator's order, I will destroy.\"\n",
@@ -927,97 +927,97 @@
     "value": "\"How may I serve?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"They are attacking me!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"The protoss seek my death!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Guide my brood!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am Niadra!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Our time has come!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We yearn for the kill!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I hear!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"My queen?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"This vessel will burn!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The hunt continues!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"We obey!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Without question!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"As you desire!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"For the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Yes, my queen.\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Kill the protoss!\"\n",
@@ -1107,73 +1107,73 @@
     "value": "\"Here I come, ready or not.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Now I'm mad.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Wow. What a surprise.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Wanna play?\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Careful what you ask for.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Cat got your tongue?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Who asked you?!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Don't get in my way.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No more games.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The evolution continues.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"So predictable.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The Swarm will consume all.\"\n",
@@ -1281,115 +1281,115 @@
     "value": "\"I'm still here\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I'm back!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Let's try that again.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Hostiles engaging.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"Under heavy fire here!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"This is Kerrigan.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yeah, I hear you\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Say again?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Ready for action.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Safety's off.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Pushing ahead.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Covering ground.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Right.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Work to be done.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I gotcha!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Heading out.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Sweeping.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I see 'em.\"\n",
@@ -1527,109 +1527,109 @@
     "value": "\"Did you miss me?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Hmm, can't get rid of me that easy!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I will not be stopped!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"We have met the enemy in combat.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it now?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Out with it.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You have my attention.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak quickly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Who asked you?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Push ahead.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The Swarm never rests.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"There's not much time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Let's get this over with.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Get going!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Nothing stands in my way.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No escape.\"\n",
@@ -1755,133 +1755,133 @@
     "value": "\"We are unending\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Your efforts are futile.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I am beyond death.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I return.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"Your queen is under attack!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"The Swarm has met the enemy.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it this time?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Your queen listens.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"It is time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Retribution will be mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Mengsk will suffer.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am The Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Our conquest continues.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"We adapt.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Make your peace\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Boldly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The Swarm conquers all.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"We are without limit.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No time like the present.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Death awaits you.\"\n",
@@ -2007,91 +2007,91 @@
     "value": "\"I will not be stopped\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"The fight begins\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it, already?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Your queen listens.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"You have my attention.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Explain yourself.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Make it quick.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am the Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Boldly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"No time like the present.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"My search continues...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I've come this far.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I need answers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You're in my way...\"\n",
@@ -2199,91 +2199,91 @@
     "value": "\"I am infinite.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I strike at the enemy!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What is it you require?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak to me.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"My destiny manifests.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Infinity unravels before me.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"A new age will dawn.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Amon shall meet his end.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I can see... countless universes.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"The final stand begins now.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I am called.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I cannot delay.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This is my burden to bear.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"I will not fail.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"It shall be.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"My power is vast.\"\n",
@@ -2397,43 +2397,43 @@
     "value": "\"What is it this time?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Speak.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Your queen listens.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"It is time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"Retribution will be mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I am The Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Death awaits you.\"\n",
@@ -2925,91 +2925,91 @@
     "value": "\"The Swarm prevails.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"I am eternal.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " When attacked\n"
+    "action": " Trained\n"
   },
   {
     "value": "\"The Brood is under attack.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"You think you can defeat me?\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Trained\n"
+    "action": " When attacked\n"
   },
   {
     "value": "\"What are your commands?\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"I listen.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We are ready to kill.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Selected\n"
   },
   {
     "value": "\"We move.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Agreed.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"The fittest shall survive.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Your bidding.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"This world shall fall.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Our vengeance will be complete.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"Without question.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Move order\n"
   },
   {
     "value": "\"You can not escape the Swarm!\"\n",

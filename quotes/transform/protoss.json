@@ -3,121 +3,121 @@
     "value": "The Firstborn shall persevere.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Glory to the Daelaam.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "I have met the enemy!",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Glorious combat is upon us!",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Combat awaits.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Aiur shall be reclaimed.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Give us your command.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Yes, Executor?",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Na ja'kar mena.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We serve with pride.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Where shall we march?",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Let your will be heard.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Faith before fear.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Forward.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The Templar march.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Let none deter us.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We are of one mind.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Por zalah.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It shall be done.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "To glory.",
     "faction": "Protoss",
     "unit": "Adept",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I am the will of the Hierarch.",
@@ -237,73 +237,73 @@
     "value": "The merging is complete.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Dispersing.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "What guidance?",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We...BURN!",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Power overwhelming!",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We NEED focus!",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Destroy.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Annihilate.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Obliterate.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Eradicate.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It will be.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Mok tar'idan.",
     "faction": "Protoss",
     "unit": "Archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Dominate.",
@@ -387,109 +387,109 @@
     "value": "Carrier has arrived!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We are in peril!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We have met the enemy!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Uhn anak paru.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are ready.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are poised for victory.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Let us proceed.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Awaiting the call.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Victory awaits!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The time is now.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Zhara ku'nuul.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "To victory!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Na hazuum.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Agreed.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Prepare to engage.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The Khala is served!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Justice is served!",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The battle is won.",
     "faction": "Protoss",
     "unit": "Carrier",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Engaging the enemy!",
@@ -573,109 +573,109 @@
     "value": "From the shadows I come!",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "I...cannot maintain!",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Battle is upon us!",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "What would you ask of us?",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "You seek our service?",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Nas beru uhn'adarr?",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I bask in the twilight.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Fear is an illusion...",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The darkness writhes.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Zhakul ihnaac.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I will comply.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "By the Void.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Clever.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Khatum",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I am intrigued.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I am but a phantom.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I am the blade of Shakuras.",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I am the blade of the Nerazim",
     "faction": "Protoss",
     "unit": "Dark Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Darkness descends!",
@@ -759,97 +759,97 @@
     "value": "I live on.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Consciousness awakened.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Our foes surround us.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Presiding.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Ancient glory reborn.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We begin anew.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Your demands?",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Speak and be heard.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Obedience.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I comprehend.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "With honor.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It is known.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Darai de khassar.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Eternal service.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So be it.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Veritably.",
     "faction": "Protoss",
     "unit": "Disruptor",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The Firstborn will triumph!",
@@ -945,97 +945,97 @@
     "value": "Khassar de Templari!",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We cannot hold!",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We are the light of the Khala!",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We seek enlightenment.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our minds are as one.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Uhn ore'ki atum.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We shall stand against the darkness.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "My charge?",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are focused.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "En Taro Tassadar.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I heed the call.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Thus I serve.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I will comply.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "O'lak natahl.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We are unanimous.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "In unity, there is strength.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We shall not falter.",
@@ -1161,103 +1161,103 @@
     "value": "Khassar de Templari!",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Our foe strikes!",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We shall endure",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Wisdom though adversity.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our spirit is indomitable.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are focused once more.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our power shall serve.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The darkness will be repelled.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Your thoughts are clear.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "En Taro Tassadar.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I heed the call.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As ever I serve.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I will comply.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "O'lak natahl.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We continue on.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Unity through purpose.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For Artanis.",
     "faction": "Protoss",
     "unit": "High Templar",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We shall not falter.",
@@ -1383,103 +1383,103 @@
     "value": "I return to serve.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "The enemy closes.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "I feel your presence.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I hear the call.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our duty is eternal.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Uhn dara ma'nakai.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "O sharas shi'el.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Glory is eternal.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our duty is unending.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We shall serve forever!",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "It is destined.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ik sha'bi.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Khala dora.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Por zalah.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "There shall be a reckoning.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our cannons shall sing.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We march to victory.",
     "faction": "Protoss",
     "unit": "Immortal",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For the ancients!",
@@ -1587,109 +1587,109 @@
     "value": "Justice has come!",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Defensive systems failing.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Breach in progress! We are undone!",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "As all are one.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Ki nala atum.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Guide us.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We await.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Direct us.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Psi-web established.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Reinforcing Psi-web.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Downloading orders.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Rono hashiik.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Directive confirmed.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Endi beruki.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We proceed.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "By the heart of Aiur.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "With purpose.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We agree.",
     "faction": "Protoss",
     "unit": "Mothership Mothership Core",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As the Khala wills.",
@@ -1785,103 +1785,103 @@
     "value": "Teleport successful.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "They've broken through.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Engaging the enemy.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Time for battle.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Warp field online.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The skies await.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Zira'vek kryor!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Where do our enemies lurk?",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am eager to strike!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Anan pokahl!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "On the wings of justice!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Sha'zu du templari!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For honor!",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Understood.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I will stalk through the stars.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I will comply.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Na ferash.",
     "faction": "Protoss",
     "unit": "Phoenix",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I soar to victory.",
@@ -2007,103 +2007,103 @@
     "value": "I am here in the shadows.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Fall back to the shadows!",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Let our enemy know our fury.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "State thy bidding.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am the voice of the eclipse.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "You require my skills?",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am the heart of darkness.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Cold is the Void...",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are one with the shadows.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Intriguing...",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Very wise.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I serve... for now.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Very well.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Veraku.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We move unseen.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For the reckoning!",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It shall be as you say.",
     "faction": "Protoss",
     "unit": "Stalker",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Forever sleep!",
@@ -2253,103 +2253,103 @@
     "value": "Prismatic core online.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Peradak kural.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Prismatic core failing; we require assistance!",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We face the enemy.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Channel the light of Aiur!",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Phase crystals charged.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are at full power.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "This vessel shall avenge.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Zak naku afal.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Khas ara'shar.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It shall be done.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ik kudar anai.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Calibrating void lenses.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Annihilation commencing.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Andakur herak.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Systems at full.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Processed.",
     "faction": "Protoss",
     "unit": "Void Ray",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For Aiur!",
@@ -2445,109 +2445,109 @@
     "value": "Oracle perceiving.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Dimensional strings attuned.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "The enemy has discovered us.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "The threads of fate lie bare.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our window is short.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "You seek guidance?",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "How can I aid you?",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "En aru'din Raszagal.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "An omen?",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are the architects of fate.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "It is destined.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Extrapolating strings.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We interpret.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Harmonized.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I see.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The stars align.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Na zuktai.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our fates are one.",
     "faction": "Protoss",
     "unit": "Oracle",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Hold on, I broke a string.",
@@ -2613,109 +2613,109 @@
     "value": "Kinetic matrix active.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Direct my vengeance.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We meet the enemy in glorious battle!",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Hull integrity failing!",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Our charge?",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We seek justice.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Victory is in our grasp.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Vengeance is ours.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We fear no enemy.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The Golden Armada awaits.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Na urmahk Aiur.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Por zalah!",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Forward to victory.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Throw fate to the winds.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For glory!",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Confirmed.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "A storm is brewing.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Kinetic matrix charged.",
     "faction": "Protoss",
     "unit": "Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Feel our fury!",
@@ -2823,97 +2823,97 @@
     "value": "My life for Aiur!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We cannot hold!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We embrace the glory of battle!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "My meditation is over.",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We stand as one!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are the blades of Aiur!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Command me.",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Orin shis'nal!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Justice be done!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Na Adan Atum!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "En Taro Tassadar!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "By your will!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For Artanis!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ul'as addari!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Khassar de templari!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Honor guide me!",
     "faction": "Protoss",
     "unit": "Zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our fury is boundless!",
@@ -3009,103 +3009,103 @@
     "value": "Adun toridas.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Our foes grow bold.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Neraz gulio.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Yes?",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I'm waiting...",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Zerashk gulida!",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I fight on.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The fallen still serve.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "You call upon me?",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "For Aiur.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ner'mah.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So be it.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Very well.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "In the name of the many...",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As the shadow wills.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our triumph is at hand.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Boldly.",
     "faction": "Protoss",
     "unit": "Annihilator",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "No trace shall remain.",
@@ -3195,103 +3195,103 @@
     "value": "Warp field stabilized.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "This vessel is under assault.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We feel your presence.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Duras.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Dun-a duhn.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Lead the way.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We remain vigilant.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Chronometrics steady.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We serve the Daelaam.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our expertise is yours.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "J'takha zohl.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Establishing vector.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Daugh-ron.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Spatial coordinates received.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We shall lend our power.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As the Hierarch wills.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Let it be so.",
     "faction": "Protoss",
     "unit": "Arbiter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Phase disruptors primed.",
@@ -3381,97 +3381,97 @@
     "value": "Vengeance for the betrayed.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "You dare to challenge me?",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Ask, I may listen.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Action is the only course.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "May the terrazine flow.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The talons of Slayn listen.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Remember your place.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Alakor nir shozak.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I heed, because Alarak wills it.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Acceptable.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As the chain commands.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ascension.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Na adan korikas.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Until I choose otherwise.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ul'as savir.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I concur.",
     "faction": "Protoss",
     "unit": "Ascendant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Grovel, you worm!",
@@ -3573,97 +3573,97 @@
     "value": "Vengeance for Aiur.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "May this battle bring us glory!",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We will atone.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "There is no solace in exile.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Give your order.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Retribution awaits.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Our day will come.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Aiur shall rise anew.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Glory through perseverance.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "With pride!",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As you say.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So shall it be.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We obey.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "En aras addari.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our light lives on.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Eternally.",
     "faction": "Protoss",
     "unit": "Avenger",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Our revenge is at hand!",
@@ -3747,97 +3747,97 @@
     "value": "I seek the unworthy.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "I shall relish this battle!",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Ah, the scent of fear.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I sense... weakness. Frailty.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Where does my prey hide?",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "My search goes on.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I yearn for slaughter.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Blood will be spilled.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "If you are certain.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As you will it.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "With pleasure.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Yes?",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Viras Rakan!",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Skosal vin'shir.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I hunt.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It shall be so.",
     "faction": "Protoss",
     "unit": "Blood hunter",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "My blade thirsts.",
@@ -3921,91 +3921,91 @@
     "value": "I walk the shadowed path.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Our blades meet the enemy!",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "The Shadow Guard waits.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Give us your command.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We stand watch.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Na Adan Saiosh!",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Ever vigilant.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We await our charge.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "None shall break us.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "So be it.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Your command is law.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For Vorazun!",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The guard moves.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We shall shield this world.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Eternally resolute.",
     "faction": "Protoss",
     "unit": "Centurion",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The shadow descends.",
@@ -4101,97 +4101,97 @@
     "value": "It is a good day to die.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "The battle begins.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Ready for battle.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I stand ready.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Let us attack!",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "May I be of service?",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Honor through Valor.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The skies beckon.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Adun Toridas.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Adun Toridas!",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ah, at last!",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I thought you'd see it my way.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Eyes to the horizon.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Joh'gaav!",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The sky is my battlefield.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I shall be swift.",
     "faction": "Protoss",
     "unit": "Corsair",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Hold nothing back!",
@@ -4299,91 +4299,91 @@
     "value": "We are as one...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Conflict arises.",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Must have energy...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We hear you...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Thoughts in chaos...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Must feed...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Energy...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Your will... is ours...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We roil.",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Will go...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Oblivion awaits...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We move...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As you say...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Energy... Need energy!",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "The Void burns...",
     "faction": "Protoss",
     "unit": "Dark archon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Wrath...",
@@ -4479,115 +4479,115 @@
     "value": "The Death Fleet descends.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Let destruction commence.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Only destruction awaits our foes.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "I am the ember of eternity.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Destruction awaits all traitors.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Karaz arak shizol.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Give me purpose.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Your foes shall burn.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Speak your command.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The time has come.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Betrayal is death.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Your will, imposed.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ash and cinder.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Understood.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Seek and destroy.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Not long now.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Extermination shall come.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Rik'kan virok.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Bloodshards aligning.",
     "faction": "Protoss",
     "unit": "Destroyer",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Unleash the consuming flame!",
@@ -4689,97 +4689,97 @@
     "value": "I have returned.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Engaging foe.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Receiving.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Awaiting instructions.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Transmit.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Input command.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Gerasats?",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Zak Khaladas.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Make use of me.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am needed?",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Confirmed.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Initiating.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Lokh-tai.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Mejogah.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Commencing.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Idak.",
     "faction": "Protoss",
     "unit": "Dragoon",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Commencing.",
@@ -4869,97 +4869,97 @@
     "value": "I return to the skies.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Target in range.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "I soar again.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I answer the call.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "All systems ready.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Activating.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Too long have I rested.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "My will is my own.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "War has no end.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Assigning navigation.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Lokh-tai.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Calibrating.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Order received.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "O verash.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Complying.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Taking flight.",
     "faction": "Protoss",
     "unit": "Mirage",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Initiating purification.",
@@ -5067,97 +5067,97 @@
     "value": "You seek our aid.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Locking on target!",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We hold the power of the past.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Valor is eternal.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "What is our charge?",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We overcome.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Salu'kim ti alati.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "There is no greater glory than battle.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We seek honor through duty.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We accept.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As it was, in the days of old...",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We stand with the Firstborn.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Consider it done.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We serve by our own will.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Uln-un anai.",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For honor!",
     "faction": "Protoss",
     "unit": "Purifier Tempest",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "You wish for devastation.",
@@ -5253,73 +5253,73 @@
     "value": "Teleport successful.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Lend me your aid!",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Awaiting command.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Standing by.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Contact.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Joh'gaav?",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Chaos.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Koh'rak.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Acknowledged.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It will be done.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "All or nothing.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Uhrak il lamar.",
     "faction": "Protoss",
     "unit": "Scout",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I seek a worthy opponent.",
@@ -5385,91 +5385,91 @@
     "value": "This warrior awakens.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We meet the enemy in battle.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Listening.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Guide my blade.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "The enemy shall be purified.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I stand ready.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Speak your demands.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Command me.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Identify our foe.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Ul'as addari.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Protocols aligned.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "With honor.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "My blade yearns to meet our foe.",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For Fenix!",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Khassar de templari!",
     "faction": "Protoss",
     "unit": "Sentinel",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Executing!",
@@ -5571,97 +5571,97 @@
     "value": "For Aiur!",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Embracing battle.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "I wait.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Thura shis'al.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Command me.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Seek justice.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I serve.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "For unity!",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I'm summoned.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "With honor.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "En taro Tassadar.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Your will.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Adai.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Khessar.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "It shall be...",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Chaos.",
     "faction": "Protoss",
     "unit": "Stone zealot",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I protect!",
@@ -5751,91 +5751,91 @@
     "value": "My life for the Highlord!",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "We strike at the Highlord's foes!",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Eternal obedience.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Oblivion beckons.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Awaiting your decree.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Loyalty until death.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am a servant of Slayn.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I will adhere to the Chain.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "My sacrifice will have meaning.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "For Alarak.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Without remorse.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I hear and obey.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As you will it.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I live to serve.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "My fate is in your hands.",
     "faction": "Protoss",
     "unit": "Supplicant",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Remember me.",
@@ -5943,97 +5943,97 @@
     "value": "Victory has come.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "Commencing bloodshed.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "You presume to speak?",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Impress me.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "This had better be worthwhile.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I will not suffer fools.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Fealty unto the Highlord.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "We are the soul of strength.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "My will is iron.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "A fine scheme.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We are in agreement... this time.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So long as it leads to glory.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "By our birthright.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I shall indulge.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "A worthy order.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Rik'kan thok ishar.",
     "faction": "Protoss",
     "unit": "Tal.27darim Mothership",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Ascension through battle!",
@@ -6135,109 +6135,109 @@
     "value": "The hour is upon us.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "The fires of conflict burn bright.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "We are reforged.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I will serve.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Unto death.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Ever atoning.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Sko'rishar vinok.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Grant me my end.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Order me to war.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "I am the first line.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Willingly.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So shall I suffer.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As fate decrees.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "For the Highlord.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As the chain commands.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "I obey.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Unquestioned.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "We advance.",
     "faction": "Protoss",
     "unit": "Vanguard",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Conflict is my penance.",
@@ -6339,91 +6339,91 @@
     "value": "The hour of my vengeance has come.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Attacked"
+    "action": "Trained"
   },
   {
     "value": "My blades have met the enemy.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Trained"
+    "action": "Attacked"
   },
   {
     "value": "Speak, now!",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "You address the highlord?",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "How shall you serve me?",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "What?",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Do not waste my time.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Of course I am needed.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "State your request.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Move"
+    "action": "Selected"
   },
   {
     "value": "Only because I will it.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As I desire.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So shall it be.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Oh, well, I agree with this choice.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "So goes the Chain of Ascension.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "As I will it.",
     "faction": "Protoss",
     "unit": "Alarak",
-    "action": "Selected"
+    "action": "Move"
   },
   {
     "value": "Oblivion awaits.",
@@ -6543,1764 +6543,1764 @@
     "value": "We must stand as one.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attacked"
+    "action": "Alarak Quotes - Legacy of the Void"
   },
   {
     "value": "Stand with me!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Trained"
+    "action": ""
   },
   {
     "value": "We shall prevail.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Alarak - All CO-OP Quotes - Starcraft II Legacy Of The Void"
   },
   {
     "value": "Strength in unity.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Alarak - All CO-OP Quotes - Starcraft II Legacy Of The Void"
   },
   {
     "value": "Faith before fear.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Alarak - All CO-OP Quotes - Starcraft II Legacy Of The Void"
   },
   {
     "value": "Dawn will come.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Alarak - All CO-OP Quotes - Starcraft II Legacy Of The Void"
   },
   {
     "value": "Harak en vaiash.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Alarak - All CO-OP Quotes - Starcraft II Legacy Of The Void"
   },
   {
     "value": "Our thoughts are one!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Our path is clear.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "There can be no doubt!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "March boldly, without fear.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Shakhal zann!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Adun, guide my hand.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Vanquish!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Triumph through sacrifice.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "They will meet justice.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "You would spread discord among us?!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am gravely disappointed in you.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I must practice tolerance.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am not easily provoked.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Die! Die! DIE!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Has it all been for nothing...?",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "Kerrigan...how could we have known?!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "We must stand as one.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Stand with me!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "Dawn will come.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "We shall prevail.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Our destiny awaits.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Strength in unity.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Harak en vaiash.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Change is upon us",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I serve my people.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "A bold plan",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Our path is clear.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "There can be no doubt!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Together we are strong.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Our thoughts are one!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "With honor I lead.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "The future is ours.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Vanquish!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Shakhal zann!",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "En Taro, Zeratul.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Adun, guide my hand.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Triumph through sacrifice.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "They will meet justice.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "We fight against the darkness.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "This duty is mine.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "I will bring unity to the firstborn",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "We shall forge a new peace",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I might be Hierarch, yes, but that does not mean I enjoy speaking at great length",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "You are quite insistent, aren't you. Perhaps you are part Tal'darim.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "When I was a Templar, I could solve problems with a psi blade... if you take my meaning.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Adun; Tassadar; Zeratul. All of my mentors met an early end.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Perhaps the cost of greatness is too high.",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Have you ever said my name backwards? There is a strange.. music to it",
     "faction": "Protoss",
     "unit": "Artanis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I stand ready",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attacked"
+    "action": "Move"
   },
   {
     "value": "I am engaging our foe",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Trained"
+    "action": "Attack"
   },
   {
     "value": "Yes, Hierarch?",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "My expertise is yours.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "What may I resolve?",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "I will find the solution.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "I hear you.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "We are all Templar.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "Amon shall not prevail.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "Naku afal Auir.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "A phase-smith is always prepared.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Move"
+    "action": "Pissed"
   },
   {
     "value": "It will be.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I concur.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "We are united.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "The psi-matrix will fall.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Progress is made by the bold.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Shalala arai Daelaam.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Purpose guides us.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Auir will be restored.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Strike now!",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The opportune moment has come.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Together we cannot be matched.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "We cannot fail now.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Witness the power of a phase-smith.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Templari paru.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Isa atu.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Foes beware.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The task ahead is difficult, but worthwhile",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I see the grand design behind it all; the intricate machinery of the universe and everything within it.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "These psionic storms are growing worse.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Destroying this power structure will likely cause a catastrophic failure.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "It's a shame the Spear of Adun must engage Amon's zerg brood. Its aid would make our task a great deal simpler.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I hope my drones are doing all right up there.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "It's only been a short while since we returned to Auir and had to flee from it, yet it seems like a lifetime ago.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "The Khalai long served the Firstborn. We were the great builders, the dreamers of dreams, and now we are all equal.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am a phase-smith, and I am a Templar.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Fenix was right. It is indeed a glorious day.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I die a Templar.",
     "faction": "Protoss",
     "unit": "Karax",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "I am honored to serve.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Reinforce our position!",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "What is your will?",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Awaiting your command.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Direct my efforts.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Gon su'ruu.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "The Khala illuminates my path.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "It is a privilege.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I share your aim.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I will oblige.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "As you intend.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "We shall surpass them.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Our cause is just.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "For our fallen brethren.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "O'naron il'aroj.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Our people need us!",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "You know nothing of honor.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "You are a stain within the Khala!",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I have a somewhat unfavorable premonition about this.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Urgh. I wish I could not read your mind.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Forgive...my...failure.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "Now...I will become one...with the Khala.",
     "faction": "Protoss",
     "unit": "Karass",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "The Void will answer.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Our enemies are bound.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "My mind is my own.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Orin ore'kal arash.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Hold to your will.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "We linger in twilight.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "You understand little.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Let your thoughts be free.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "It will be done.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "We press forth.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "They restore the balance.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "O'na zhakan en Zhakul.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The darkness yearns.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "I am a shadow in darkness.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The centuries have taught me patience.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Empty minds are easily broken.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Some humans have redeeming qualities. You are not one of them.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "The two most common elements in the universe are hydrogen and stupidity.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Hello darkness, my old friend.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Remember the khalaraj.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am now... beyond you.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "I return...to the Void.",
     "faction": "Protoss",
     "unit": "Mohandar",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "I will restore order.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Assist your commander!",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "This is the executor.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Our glory will be renewed.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Victory against all odds.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Justice is due.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "A sound plan.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Umora sha'is!.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Precisely.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "It is time to act.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Destiny commands us!",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Prove your valor.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Death to the enemies of Aiur.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Do not hesitate.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Aram fa'sha!.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Your correspondence is inadequate.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Insolence will not be tolerated.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "My attention is needed elsewhere.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am surrounded by inferior life forms.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "A noble end...",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "Forgive me, great Tassadar. I wasn't...strong enough.",
     "faction": "Protoss",
     "unit": "Selendis",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "Let it begin!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Assist me!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "We tarry too long.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Complacency threatens!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "The final hour is upon us.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Our suffering must end!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "With pride.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "A worthy order.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Satisfactory.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "As you say.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Al umidor.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Strike now!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "They will pay in blood.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "No turning back!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Show no weakness!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Vengeance is overdue.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Il mara darash.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "We must fight while we still have the strength!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Have you forgotten Aiur?!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Who are you, and why should I care?",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Enough of this nonsense!",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "May the zerg take you.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Thus it ends...",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "There is just...too many of them.",
     "faction": "Protoss",
     "unit": "Urun",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "Show me my enemy!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "Come brothers, join me in glorious battle!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "Hierarch?",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Your command?",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "What would you ask of me?",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I hunger for battle...",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Speak and you will be heard",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "En taro Adun",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I am the blade of Artanis",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Isa atu!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "For Aiur!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Immediately!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Nahda gahla!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "As you will!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Your will made manifest.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "None shall impede me.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Honor guide me!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Without hesitation",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "To battle",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "For the glory of the Daelaam!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Let our foes be purified!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Death to all opposition!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Thus I serve!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "For Adun!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Let my blades strike true!",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "On this battlefield I seek only glorious combat. We need not speak, Hierarch, our blades shall speak for us.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "What is it you seek, my friend?",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "It is in the forge of combat that I feel closest to Fenix's memories. I can see clearly through his eyes.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "As he tore through his enemies, Fenix would repeat to himself a code he lived by. That reminded him why he fought",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I fear no enemy. For the Khala is my strength.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I fear not death. For our strength is eternal.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "May his deeds be remembered forever, and his death never forgotten.",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Unto death, i serve",
     "faction": "Protoss",
     "unit": "Talandar",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "The Nerazim will answer.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "I strike at our foe!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "Yes?",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "What is your will",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I walk the shadowed path.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Nas beru s'adarr?",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "We must form a plan.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "You require counsel?",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "There is little time",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "En aru'din Shakuras.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "We stand with our allies.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Our future is the Daelaam.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Neraz gulio.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "It is my honor.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "There is much to be done.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "The path to victory awaits!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "For our homeland!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Zhakan s'ak-ash!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The shadows are my shield!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Twilight enshrouds me.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "This shall be our day of triumph.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Zhakul gulida!",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Together, we shall ensure the future of our people.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Our blades burn brightest in dark times.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "This is the greatest battle we could ever hope to win.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I am Matriarch of the Nerazim. We have sheltered our brethren from Aiur, yet our differences persist.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I do not wish to speak ill of the Templar... But let us be honest. Most of you could not complete the Shadow Walk.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Not that we would enjoy watching you try.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "But... this is a matter for times of peace. For now, we are at war.",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Our legacy lives on...",
     "faction": "Protoss",
     "unit": "Vorazun",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "I will do all that must be done.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attacked"
+    "action": "Attack"
   },
   {
     "value": "All is in jeopardy!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "The mission is in peril!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "Disaster is imminent!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "My enemies close in!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "I face a new trial",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Trained"
+    "action": "Pissed"
   },
   {
     "value": "You address me?",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I will erase the demons of the past.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "My burdens weigh heavily.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "I will be redeemed.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "Shozak mok nul?",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Move"
+    "action": "Other"
   },
   {
     "value": "We must not hesitate.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "En aru'din Raszagal.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Aiur will be restored.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Glory to the Firstborn.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Honor commands.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "We must not hesitate!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Sok'dash salahk.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I will fulfill my calling.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "In the service of Aiur.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "My allegiance is yours.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I will find hope for my people",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I seek the path of salvation",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I bring wisdom in times of chaos",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "I shall find a way.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "Glory to the Daelaam.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "The prophecy guides us.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Selected"
+    "action": "Trained"
   },
   {
     "value": "There is much to answer for.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Oblivion descends!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "Aru nal'adan!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "The scales will be balanced.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "We must act!",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Attack"
+    "action": "Attacked"
   },
   {
     "value": "I will not rest until my atonement is complete.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I press on with renewed purpose.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I will not falter. I will not waver.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Our enemies will be undone.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Through the darkest night, we await the coming of the dawn.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I must not allow my guilt to consume me. I will find a way to set things right.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Retribution will be swift and absolute.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Hesitation leads to defeat.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Only the truth can lead us",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "The Xel'naga have given us the keys to our future",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "We must be ever watching - ever vigilant",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "I suspect vigilance is one of your... weaker attributes",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Kindly leave me to my meditation",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "How am I to avert disaster with your constant meddling?",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "Oh, I see. This is but another test",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Pissed"
+    "action": "Selected"
   },
   {
     "value": "The Void...beckons.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Other"
+    "action": "Move"
   },
   {
     "value": "If only...we had acted sooner.",
     "faction": "Protoss",
     "unit": "Zeratul",
-    "action": "Other"
+    "action": "Move"
   }
 ]

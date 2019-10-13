@@ -1,0 +1,140 @@
+[
+  {
+    "value": "\"PREPARE for DEATH.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Trained\n"
+  },
+  {
+    "value": "\"A TEMPORARY setback.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " When attacked\n"
+  },
+  {
+    "value": "\"Surrender to DESPAIR.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Still you cling to HOPE.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Do you not see the futility?\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"Why PERSIST?\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Selected\n"
+  },
+  {
+    "value": "\"DEATH comes to you.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"NONE shall stand.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"Life is FORFEIT.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"THIS is the end.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Move order\n"
+  },
+  {
+    "value": "\"OBLIVION for all.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Attack order\n"
+  },
+  {
+    "value": "\"DOOM.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Attack order\n"
+  },
+  {
+    "value": "\"No REPRIEVE.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Attack order\n"
+  },
+  {
+    "value": "\"Resistance is FOOLISH.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Attack order\n"
+  },
+  {
+    "value": "\"All resistance will be ERADICATED.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Attack order\n"
+  },
+  {
+    "value": "\"I SHALL return.\" (when killed)\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Your efforts are wasted...\" (when killed)\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"I shall NOT end.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Merely a temporary setback.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Your doom is only delayed.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"You cannot destroy me. I shall rise again.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"I go to gather my strength.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Enjoy your fleeting victory. This is not over.\"\n",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": " Other lines\n"
+  }
+]

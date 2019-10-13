@@ -88,3 +88,4 @@ async function quotesExtractor(faction) {
 quotesExtractor('Terran');
 quotesExtractor('Zerg');
 quotesExtractor('Protoss');
+quotesExtractor('Hybrid');

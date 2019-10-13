@@ -148,7 +148,7 @@ fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
 });
 
 // succubus.json was manually created. Not found on wowwiki
-const FILES = ['protoss.json', 'terran.json', 'zerg.json'];
+const FILES = ['protoss.json', 'terran.json', 'zerg.json', 'hybrid.json'];
 
 let quotes = [];
 
