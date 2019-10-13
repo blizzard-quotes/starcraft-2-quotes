@@ -50,7 +50,7 @@ async function quotesExtractor(faction) {
               let columns = $(row).children();
 
               columns.each((i, column) => {
-                action = actions.pop();
+                action = actions.shift();
                 $('li', column).each((i, value) => {
                   quote = {
                     value: $(value).text(),
