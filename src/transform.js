@@ -62,6 +62,8 @@ function cleanQuoteAction(action) {
     return 'Move';
   } else if (action.includes('When attacked')) {
     return 'Attacked';
+  } else if (action.includes('Confirming order')) {
+    return 'Confirming';
   }
 
   return cleanString(action);
