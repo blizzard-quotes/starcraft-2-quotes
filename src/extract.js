@@ -36,6 +36,8 @@ async function quotesExtractor(faction) {
       }
 
       if (current_element.is('table')) {
+        actions = [];
+
         current_element
           .children()
           .children()
