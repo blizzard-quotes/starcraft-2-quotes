@@ -40,6 +40,11 @@ function cleanString(value) {
 function cleanQuoteUnit(unit) {
   if (unit.includes(`Fenix`)) {
     return 'Talandar';
+    // Consider adding an additional key/value pair for alternative names
+  } else if (unit.includes(`Mothership_Core`)) {
+    return 'Mothership';
+  } else if (unit.includes(`Dominion_Laborer`)) {
+    return 'Dominion Trooper';
   }
 
   return cleanString(unit)

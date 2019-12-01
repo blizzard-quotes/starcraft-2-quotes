@@ -1,3 +1,4 @@
+
 [
   {
     "value": "The Firstborn shall persevere.",
@@ -1850,231 +1851,231 @@
   {
     "value": "Justice has come!",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Trained",
     "id": "78b1b4bd"
   },
   {
     "value": "Defensive systems failing.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attacked",
     "id": "66d749d2"
   },
   {
     "value": "Breach in progress! We are undone!",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attacked",
     "id": "54bb8e08"
   },
   {
     "value": "As all are one.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "a9a98fc7"
   },
   {
     "value": "Ki nala atum.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "1df22aab"
   },
   {
     "value": "Guide us.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "681ff79e"
   },
   {
     "value": "We await.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "086bd33a"
   },
   {
     "value": "Direct us.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "e3654f45"
   },
   {
     "value": "Psi-web established.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "305564f2"
   },
   {
     "value": "Reinforcing Psi-web.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Selected",
     "id": "3326d56e"
   },
   {
     "value": "Downloading orders.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "4335577f"
   },
   {
     "value": "Rono hashiik.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "3f8e9016"
   },
   {
     "value": "Directive confirmed.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "54cfdeb3"
   },
   {
     "value": "Endi beruki.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "fe600add"
   },
   {
     "value": "We proceed.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "bd172d51"
   },
   {
     "value": "By the heart of Aiur.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "a4a8c996"
   },
   {
     "value": "With purpose.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "1cbf308b"
   },
   {
     "value": "We agree.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Move",
     "id": "34fbd557"
   },
   {
     "value": "As the Khala wills.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "66c1ae0f"
   },
   {
     "value": "Target confirmed.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "7d712571"
   },
   {
     "value": "Weapon systems engaged.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "c16ce0e0"
   },
   {
     "value": "Araziel khador.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "d6b3b81c"
   },
   {
     "value": "We destroy.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "5e780a30"
   },
   {
     "value": "Na vazeal.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Attack",
     "id": "18060d2d"
   },
   {
     "value": "We are the voice of Aiur.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "ca29e900"
   },
   {
     "value": "Our systems pulse with the truth.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "435b427e"
   },
   {
     "value": "Our light shall burn the pathway to the stars.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "70da4977"
   },
   {
     "value": "The glow of the infinite is within us.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "7a313d6d"
   },
   {
     "value": "The white zone is for the immediate loading and unloading of passengers only.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "8847d46d"
   },
   {
     "value": "Shuffleboard on the lido deck, now commencing.",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "c38c5964"
   },
   {
     "value": "Eat your peas!",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "cd781cce"
   },
   {
     "value": "Don't MAKE me turn this ship around!",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "59aeaf1f"
   },
   {
     "value": "There are not enough escape pods, not enough by half...",
     "faction": "Protoss",
-    "unit": "Mothership Mothership Core",
+    "unit": "Mothership",
     "action": "Pissed",
     "id": "fc5a7589"
   },
@@ -15050,6 +15051,489 @@
     "id": "9733ac91"
   },
   {
+    "value": "This is the homefront now.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained",
+    "id": "865c8ee6"
+  },
+  {
+    "value": "Empire's right behind me.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained",
+    "id": "6e100dff"
+  },
+  {
+    "value": "My Dominion, right or wrong.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained",
+    "id": "e3ce8bdf"
+  },
+  {
+    "value": "We're the higher authority.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained",
+    "id": "2976d923"
+  },
+  {
+    "value": "If you can't leave it, love it.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained",
+    "id": "21c9c927"
+  },
+  {
+    "value": "They're everywhere!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked",
+    "id": "9f3aac28"
+  },
+  {
+    "value": "Headed into the red zone!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked",
+    "id": "9f243cf8"
+  },
+  {
+    "value": "This is inhumane!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked",
+    "id": "ab260ee0"
+  },
+  {
+    "value": "Hey, I'm not expendable!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked",
+    "id": "0c3f26fc"
+  },
+  {
+    "value": "I'm no traitor.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "0108917e"
+  },
+  {
+    "value": "Guess I'm on your list.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "8b31fd46"
+  },
+  {
+    "value": "Me? You sure?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "b6913eb8"
+  },
+  {
+    "value": "Who'd I piss off?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "e2d95d67"
+  },
+  {
+    "value": "I could get a lot for this gun.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "79d15bf2"
+  },
+  {
+    "value": "Sir!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "0956d95f"
+  },
+  {
+    "value": "Is that you, Emperor?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "be8264a2"
+  },
+  {
+    "value": "Who's resisting us today?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "99ea1c33"
+  },
+  {
+    "value": "Looking for direction.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "d91d959a"
+  },
+  {
+    "value": "Suit's fitting OK.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "01d6b0d0"
+  },
+  {
+    "value": "Good as gold.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "73931314"
+  },
+  {
+    "value": "Waving the banner.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "28aa5b61"
+  },
+  {
+    "value": "I'm worth ten of them.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "fed97be1"
+  },
+  {
+    "value": "Take up!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "84279056"
+  },
+  {
+    "value": "In it together!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected",
+    "id": "00d2a99f"
+  },
+  {
+    "value": "I'm complying! Stay calm.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "48903a5c"
+  },
+  {
+    "value": "This... Could go bad.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "18df1bfb"
+  },
+  {
+    "value": "What else would I do?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "3ff85850"
+  },
+  {
+    "value": "This is exhausting.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "b404695e"
+  },
+  {
+    "value": "Not another drill.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "84a102e1"
+  },
+  {
+    "value": "As ordered.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "bbbdcf23"
+  },
+  {
+    "value": "To spec.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "59a8ccb2"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "2edbccab"
+  },
+  {
+    "value": "I'm prepped.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "f4686765"
+  },
+  {
+    "value": "Pressing on.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "81358efd"
+  },
+  {
+    "value": "Any regs I should know?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "e5b1fa3d"
+  },
+  {
+    "value": "By any means.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "9f02a97d"
+  },
+  {
+    "value": "Here comes the throne!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "d30f8adf"
+  },
+  {
+    "value": "Korhal strong!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "b5650108"
+  },
+  {
+    "value": "On time, on target.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "964d3252"
+  },
+  {
+    "value": "Full force.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "de3ada6a"
+  },
+  {
+    "value": "Bringing the peace.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move",
+    "id": "c6956ca8"
+  },
+  {
+    "value": "Don't you have somebody else for this?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "23f18c04"
+  },
+  {
+    "value": "About that combat pay.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "a87764e4"
+  },
+  {
+    "value": "I'm dead either way.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "b3f8560d"
+  },
+  {
+    "value": "Pretty risky, uh, sir.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "47a7963c"
+  },
+  {
+    "value": "Guess I have to.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "ab1e22a2"
+  },
+  {
+    "value": "At least my will's notarized.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "4a609572"
+  },
+  {
+    "value": "They picked the wrong fight.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "44575f94"
+  },
+  {
+    "value": "Suppressing fire.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "f1ae09d8"
+  },
+  {
+    "value": "I've been in worse.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "fa5a8898"
+  },
+  {
+    "value": "Making some room.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "fcdb5214"
+  },
+  {
+    "value": "Us or them.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "4d0baf6d"
+  },
+  {
+    "value": "Too late for compromise.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "874b7e59"
+  },
+  {
+    "value": "Better me than the brass, right?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "56a66e5a"
+  },
+  {
+    "value": "Ha! What opposition?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "9c66ea8e"
+  },
+  {
+    "value": "Outstay, outlast, outlive.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "5c4120e6"
+  },
+  {
+    "value": "Fight to the last!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "a0ef9d91"
+  },
+  {
+    "value": "Put 'em down.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "c07d6e55"
+  },
+  {
+    "value": "It's our sector now.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "5d614136"
+  },
+  {
+    "value": "You'll wanna watch this twice.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "6f2099ba"
+  },
+  {
+    "value": "Deescalation imminent.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack",
+    "id": "70794ee1"
+  },
+  {
+    "value": "Sorry, my opinions are classified.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "1a139cfe"
+  },
+  {
+    "value": "I support the Emperor of the Terran Dominion...",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "1efae3bf"
+  },
+  {
+    "value": "Just don't do what a stranger says, check it out with Imperial Command.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "ced11855"
+  },
+  {
+    "value": "Look, I'm just here for the dress code.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "d0bc653e"
+  },
+  {
+    "value": "Of course we're the good guys, look at the color of our tracers.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "1a38de2c"
+  },
+  {
+    "value": "Emperor Mengsk puts his solid gold mantel on one arm at a time, just like everybody else.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "34de2b94"
+  },
+  {
+    "value": "Stop that! Or I'll have to demote myself for fraternization.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed",
+    "id": "47c8b7da"
+  },
+  {
+    "value": "Not... Here!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Other",
+    "id": "3b93799c"
+  },
+  {
     "value": "Need a light?",
     "faction": "Terran",
     "unit": "Firebat",
@@ -22699,636 +23183,6 @@
     "unit": "Sarah Kerrigan",
     "action": "Other",
     "id": "4ad17576"
-  },
-  {
-    "value": "Your queen is under attack!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Attacked",
-    "id": "32f083f1"
-  },
-  {
-    "value": "The Swarm has met the enemy.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Attacked",
-    "id": "aad38c8c"
-  },
-  {
-    "value": "What is it this time?",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "bd9a8f84"
-  },
-  {
-    "value": "Speak.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "9873993c"
-  },
-  {
-    "value": "Yes?",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "a3c89394"
-  },
-  {
-    "value": "Your queen listens.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "0bd61b0c"
-  },
-  {
-    "value": "It is time.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "565252b1"
-  },
-  {
-    "value": "Retribution will be mine.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Selected",
-    "id": "5ae16e6f"
-  },
-  {
-    "value": "I am The Swarm.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Move",
-    "id": "371ea14d"
-  },
-  {
-    "value": "Death awaits you.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Attack",
-    "id": "13790c5b"
-  },
-  {
-    "value": "You're trying my patience.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Pissed",
-    "id": "7404f967"
-  },
-  {
-    "value": "I will not be defeated!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "d25fb5dd"
-  },
-  {
-    "value": "The enemy is coming for us. Hope your ready for this.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "3c863ff2"
-  },
-  {
-    "value": "Attack incoming; get ready!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "7bfeb6f8"
-  },
-  {
-    "value": "Brace yourself; here they come!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ade4109e"
-  },
-  {
-    "value": "Brace yourself; enemy forces are inbound!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "8d04d3cd"
-  },
-  {
-    "value": "The enemy has chosen to attack me. Minions, make them regret their decision!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "3d156c4d"
-  },
-  {
-    "value": "Enemy forces incoming. Slay them to the last!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "4504fc26"
-  },
-  {
-    "value": "Looks like the enemy is heading for us. Let's go say 'Hello'.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "2a75a172"
-  },
-  {
-    "value": "I'm sensing cloaked units. We some detection out here.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "59926d4d"
-  },
-  {
-    "value": "The enemy is using cloaked units. We need detectors; now!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "8fb96cdf"
-  },
-  {
-    "value": "Hybrid! Do not let them survive.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "64ff72a1"
-  },
-  {
-    "value": "Well then, we'll have to do something about that.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "f1bbfdca"
-  },
-  {
-    "value": "Then let's kill them. Quickly.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "86a34705"
-  },
-  {
-    "value": "We cannot allow them to roam freely!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "da655a6a"
-  },
-  {
-    "value": "Well, that is what I do best.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c5ff8b49"
-  },
-  {
-    "value": "We're engaging the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c0fd88be"
-  },
-  {
-    "value": "My minions are engaging the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c88f6add"
-  },
-  {
-    "value": "Objective engaged.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "bbc80e5d"
-  },
-  {
-    "value": "It sure was!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "da65055e"
-  },
-  {
-    "value": "The objective's down!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "99d29eb0"
-  },
-  {
-    "value": "Child's' play.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "a7500f6a"
-  },
-  {
-    "value": "We're doing well. Keep fighting!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "e2e6306b"
-  },
-  {
-    "value": "Precisely as planned.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "d6699824"
-  },
-  {
-    "value": "We're ready to guard the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "be756b5c"
-  },
-  {
-    "value": "Defend the objective to the last.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "5c287a90"
-  },
-  {
-    "value": "Minions, defend the objective with your lives.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ec9055b8"
-  },
-  {
-    "value": "Minions, if that objective falls, I will kill you myself!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c4f6363c"
-  },
-  {
-    "value": "Let's form ranks around the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "7e3a4817"
-  },
-  {
-    "value": "My forces are guarding the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "edad967a"
-  },
-  {
-    "value": "My minions are escorting the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "af114f57"
-  },
-  {
-    "value": "We've reached the objective. Let's get moving!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "9e88ce7a"
-  },
-  {
-    "value": "Good! Our defenses held.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "f134b61a"
-  },
-  {
-    "value": "Well done! The objective has survived.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "2f88dd87"
-  },
-  {
-    "value": "The objective made it through.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "5aceec08"
-  },
-  {
-    "value": "That took long enough!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "268af54c"
-  },
-  {
-    "value": "That's that then.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "5d570658"
-  },
-  {
-    "value": "Well done! It should be safe now.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "347e7941"
-  },
-  {
-    "value": "It's on its own from here.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ab27697e"
-  },
-  {
-    "value": "As if there was any doubt.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "923784f2"
-  },
-  {
-    "value": "The objective is secure.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ab9bb8a9"
-  },
-  {
-    "value": "Nicely done. The objective is safe.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "10430552"
-  },
-  {
-    "value": "Let's take it out. We don't have long!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "7cc3cfb3"
-  },
-  {
-    "value": "Engaging the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "2e53fdb0"
-  },
-  {
-    "value": "My forces are intercepting the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "f8ddbc3c"
-  },
-  {
-    "value": "Minions! Destroy it! Now!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "23a5099b"
-  },
-  {
-    "value": "It's down.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "1957bed2"
-  },
-  {
-    "value": "Hostile eliminated.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "7799795e"
-  },
-  {
-    "value": "There is no escape from the Swarm.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "812c03f6"
-  },
-  {
-    "value": "Well done!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "a11d82c5"
-  },
-  {
-    "value": "Your not going anywhere!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "a1e410aa"
-  },
-  {
-    "value": "We should make our move soon.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "44eb3438"
-  },
-  {
-    "value": "Secure the area! Nothing else matters.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ce30c5cb"
-  },
-  {
-    "value": "We're securing the area.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "7c7f43e6"
-  },
-  {
-    "value": "Minions; hold this ground! Do not fail your Queen.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c5f37fa4"
-  },
-  {
-    "value": "The Swarm is defending the position.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "d43714c0"
-  },
-  {
-    "value": "This area is under Swarm control.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "330aea2d"
-  },
-  {
-    "value": "Well done. The area is secure.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "b8ea21ed"
-  },
-  {
-    "value": "The objective is under our control.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ab645406"
-  },
-  {
-    "value": "Prepare to move the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "26385ccd"
-  },
-  {
-    "value": "Then let's move it out.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "5911b6c1"
-  },
-  {
-    "value": "My forces are transporting the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "c0d800bb"
-  },
-  {
-    "value": "We're moving the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "91966128"
-  },
-  {
-    "value": "Transporting the objective now.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "d4f9449b"
-  },
-  {
-    "value": "Well done! The objective made it to safety.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "9a47e51e"
-  },
-  {
-    "value": "Excellent work. Transport complete. Now keep it secured.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "2961fb5f"
-  },
-  {
-    "value": "Good! It arrived safely.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ed4ed6f2"
-  },
-  {
-    "value": "The enemy will come for us in force, and they will die regretting that decision.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "70582d63"
-  },
-  {
-    "value": "The enemy is coming for us... Slay them.... All of them.... Your Queen demands it!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "e41e5890"
-  },
-  {
-    "value": "Sounds like fun. Let's go!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "298f5a00"
-  },
-  {
-    "value": "And here I was just starting to have fun.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "24ea7c06"
-  },
-  {
-    "value": "We're almost there... Fight with all you have!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "2a47b64a"
-  },
-  {
-    "value": "Move quickly! We can't allow it to escape.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "43eb7088"
-  },
-  {
-    "value": "Destroy it! Now!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "5ee522ed"
-  },
-  {
-    "value": "Tear it, apart!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "4de08db2"
-  },
-  {
-    "value": "Ripe for the taking.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "cd425d11"
-  },
-  {
-    "value": "Then let's go take it!",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "081607eb"
-  },
-  {
-    "value": "We've got the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "3a8bc06b"
-  },
-  {
-    "value": "My forces just took control of the objective.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "44c6d8bb"
-  },
-  {
-    "value": "The objective is under my control now.",
-    "faction": "Zerg",
-    "unit": "Sarah Kerrigan",
-    "action": "Other",
-    "id": "ba8e9c10"
   },
   {
     "value": "The Swarm prevails.",

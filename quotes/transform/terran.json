@@ -4596,6 +4596,420 @@
     "action": "Other"
   },
   {
+    "value": "This is the homefront now.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained"
+  },
+  {
+    "value": "Empire's right behind me.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained"
+  },
+  {
+    "value": "My Dominion, right or wrong.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained"
+  },
+  {
+    "value": "We're the higher authority.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained"
+  },
+  {
+    "value": "If you can't leave it, love it.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Trained"
+  },
+  {
+    "value": "They're everywhere!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked"
+  },
+  {
+    "value": "Headed into the red zone!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked"
+  },
+  {
+    "value": "This is inhumane!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked"
+  },
+  {
+    "value": "Hey, I'm not expendable!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attacked"
+  },
+  {
+    "value": "I'm no traitor.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Guess I'm on your list.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Me? You sure?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Who'd I piss off?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "I could get a lot for this gun.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Sir!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Is that you, Emperor?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Who's resisting us today?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Looking for direction.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Suit's fitting OK.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Good as gold.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Waving the banner.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "I'm worth ten of them.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "Take up!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "In it together!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Selected"
+  },
+  {
+    "value": "I'm complying! Stay calm.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "This... Could go bad.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "What else would I do?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "This is exhausting.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Not another drill.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "As ordered.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "To spec.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "I'm prepped.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Pressing on.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Any regs I should know?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "By any means.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Here comes the throne!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Korhal strong!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "On time, on target.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Full force.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Bringing the peace.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Move"
+  },
+  {
+    "value": "Don't you have somebody else for this?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "About that combat pay.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "I'm dead either way.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Pretty risky, uh, sir.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Guess I have to.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "At least my will's notarized.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "They picked the wrong fight.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Suppressing fire.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "I've been in worse.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Making some room.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Us or them.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Too late for compromise.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Better me than the brass, right?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Ha! What opposition?",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Outstay, outlast, outlive.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Fight to the last!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Put 'em down.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "It's our sector now.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "You'll wanna watch this twice.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Deescalation imminent.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Attack"
+  },
+  {
+    "value": "Sorry, my opinions are classified.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "I support the Emperor of the Terran Dominion...",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Just don't do what a stranger says, check it out with Imperial Command.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Look, I'm just here for the dress code.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Of course we're the good guys, look at the color of our tracers.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Emperor Mengsk puts his solid gold mantel on one arm at a time, just like everybody else.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Stop that! Or I'll have to demote myself for fraternization.",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Pissed"
+  },
+  {
+    "value": "Not... Here!",
+    "faction": "Terran",
+    "unit": "Dominion Trooper",
+    "action": "Other"
+  },
+  {
     "value": "Need a light?",
     "faction": "Terran",
     "unit": "Firebat",
