@@ -49,6 +49,7 @@ function cleanQuoteUnit(unit) {
 
   return cleanString(unit)
     .replace(/\.2F/g, ' ')
+    .replace(/\.27/g, "'")
     .replace(/_/g, ' ');
 }
 
