@@ -3,10 +3,12 @@
  */
 'use strict';
 const fs = require('fs');
-const uuidv4 = require('uuid/v4');
+const path = require('path');
+const uuidv5 = require('uuid/v5');
 
-const INPUT_DIRECTORY = './quotes/extract';
-const OUTPUT_DIRECTORY = './quotes/transform';
+const pathInput = path.join(__dirname, '../quotes/extract');
+const pathOutput = path.join(__dirname, '../quotes/transform');
+const pathQuotes = path.join(__dirname, '../quotes/starcraft-2-quotes.json');
 
 /**
  * Ensure strings are clean / neat for .json file
@@ -149,21 +151,16 @@ function shortId(quotes) {
   });
 }
 
-fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
+fs.mkdir(pathOutput, { recursive: true }, err => {
   if (err) throw err;
 });
 
-// succubus.json was manually created. Not found on wowwiki
-const FILES = ['protoss.json', 'terran.json', 'zerg.json', 'hybrid.json'];
-
+let files = fs.readdirSync(pathInput);
 let quotes = [];
 
-FILES.forEach(function(file) {
+files.forEach(function(file) {
   quotes = quotes.concat(
-    quoteTransformer(
-      `${INPUT_DIRECTORY}/${file}`,
-      `${OUTPUT_DIRECTORY}/${file}`
-    )
+    quoteTransformer(`${pathInput}/${file}`, `${pathOutput}/${file}`)
   );
 });
 
@@ -174,5 +171,5 @@ let data = JSON.stringify(quotes, null, 2);
 if (!fs.existsSync('./quotes/starcraft-2-quotes.json')) {
   fs.writeFileSync('./quotes/starcraft-2-quotes.json', data);
   console.log('WEAPONS CHARGED AND READY');
-  console.log(`OUTPUT: ./quotes/starcraft-2-quotes.json`);
+  console.log(`OUTPUT: ${pathQuotes}`);
 }

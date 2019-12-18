@@ -5,15 +5,17 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
 
-const URL = 'https://starcraft.fandom.com/wiki/StarCraft_II_unit_quotations';
-const OUTPUT_DIRECTORY = './quotes/extract';
+const url = 'https://starcraft.fandom.com/wiki/StarCraft_II_unit_quotations';
+
+const pathOutput = path.join(__dirname, '../quotes/extract');
 
 /**
  * Extract all quotes from specified uri for faction
  * @param {string} faction - the faction to extract quotes from
  */
-async function quotesExtractor(faction) {
+const quotesExtractor = async (faction, order) => {
   console.log('SCV READY');
   console.log(`EXTRACTING INFORMATION FOR: ${faction}`);
 
@@ -23,7 +25,7 @@ async function quotesExtractor(faction) {
   let quote = {};
 
   try {
-    const response = await axios.get(URL);
+    const response = await axios.get(url);
 
     let $ = cheerio.load(response.data);
     let current_element = $(`#${faction}`).parent();
@@ -78,16 +80,19 @@ async function quotesExtractor(faction) {
 
   let data = JSON.stringify(quotes, null, 2);
 
-  fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
+  fs.mkdir(pathOutput, { recursive: true }, err => {
     if (err) throw err;
   });
 
-  fs.writeFileSync(`${OUTPUT_DIRECTORY}/${faction.toLowerCase()}.json`, data);
+  fs.writeFileSync(
+    `${pathOutput}/${order}-${faction.toLowerCase()}.json`,
+    data
+  );
   console.log('JOBS FINISHED');
-  console.log(`OUTPUT: ${OUTPUT_DIRECTORY}/${faction.toLowerCase()}.json`);
-}
+  console.log(`OUTPUT: ${pathOutput}/${order}-${faction.toLowerCase()}.json`);
+};
 
-quotesExtractor('Terran');
-quotesExtractor('Zerg');
-quotesExtractor('Protoss');
-quotesExtractor('Hybrid');
+quotesExtractor('Terran', 1);
+quotesExtractor('Zerg', 2);
+quotesExtractor('Protoss', 3);
+quotesExtractor('Hybrid', 4);
