@@ -4,6 +4,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -11,6 +13,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -18,6 +22,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -25,6 +31,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -32,6 +40,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -39,6 +49,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -46,6 +58,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Move",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -53,6 +67,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Move",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -60,6 +76,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Move",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -67,6 +85,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Move",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -74,6 +94,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -81,6 +103,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -88,6 +112,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -95,6 +121,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -102,6 +130,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -109,6 +139,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -116,6 +148,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -123,6 +157,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -130,6 +166,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -137,6 +175,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -144,6 +184,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -151,6 +193,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   },
   {
@@ -158,6 +202,8 @@
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Other",
+    "isHero": false,
+    "isMelee": false,
     "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
   }
 ]

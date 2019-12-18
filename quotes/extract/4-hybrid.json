@@ -3,138 +3,184 @@
     "value": "\"PREPARE for DEATH.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"A TEMPORARY setback.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Surrender to DESPAIR.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Still you cling to HOPE.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Do you not see the futility?\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Why PERSIST?\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"DEATH comes to you.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"NONE shall stand.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Life is FORFEIT.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"THIS is the end.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"OBLIVION for all.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"DOOM.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"No REPRIEVE.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Resistance is FOOLISH.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"All resistance will be ERADICATED.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"I SHALL return.\" (when killed)\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Your efforts are wasted...\" (when killed)\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"I shall NOT end.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Merely a temporary setback.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Your doom is only delayed.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"You cannot destroy me. I shall rise again.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"I go to gather my strength.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   },
   {
     "value": "\"Enjoy your fleeting victory. This is not over.\"\n",
     "faction": "Hybrid",
     "unit": "Maar",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": false
   }
 ]

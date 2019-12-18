@@ -20,6 +20,7 @@ const quotesExtractor = async (faction, order) => {
   console.log(`EXTRACTING INFORMATION FOR: ${faction}`);
 
   let unit, action;
+  let isMelee, isHero;
   let actions = [];
   let quotes = [];
   let quote = {};
@@ -30,8 +31,29 @@ const quotesExtractor = async (faction, order) => {
     let $ = cheerio.load(response.data);
     let current_element = $(`#${faction}`).parent();
 
+    if ((faction === 'Hybrid')) {
+      isMelee = false;
+      isHero = false;
+    }
+
     do {
       current_element = $(current_element).next();
+
+      if (current_element.is('h3')) {
+        let unitType = $(current_element.children()[0])
+          .text()
+          .trim();
+        if (unitType === 'Versus Units') {
+          isMelee = true;
+          isHero = false;
+        } else if (unitType === 'Campaign and Co-op Missions Units') {
+          isMelee = false;
+          isHero = false;
+        } else if (unitType === 'Heroes') {
+          isMelee = false;
+          isHero = true;
+        }
+      }
 
       if (current_element.is('h4')) {
         unit = current_element.children().attr('id');
@@ -60,7 +82,9 @@ const quotesExtractor = async (faction, order) => {
                     value: $(value).text(),
                     faction: faction.charAt(0).toUpperCase() + faction.slice(1),
                     unit: unit,
-                    action: action
+                    action: action,
+                    isHero: isHero,
+                    isMelee: isMelee
                   };
                   quotes.push(quote);
                 });
