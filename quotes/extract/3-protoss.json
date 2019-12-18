@@ -1557,7 +1557,7 @@
     "unit": "High_Templar",
     "action": " Trained\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Our foe strikes!\"\n",
@@ -1565,7 +1565,7 @@
     "unit": "High_Templar",
     "action": " When attacked\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"We shall endure\"\n",
@@ -1573,7 +1573,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Wisdom though adversity.\"\n",
@@ -1581,7 +1581,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Our spirit is indomitable.\"\n",
@@ -1589,7 +1589,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"We are focused once more.\"\n",
@@ -1597,7 +1597,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Our power shall serve.\"\n",
@@ -1605,7 +1605,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"The darkness will be repelled.\"\n",
@@ -1613,7 +1613,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Your thoughts are clear.\"\n",
@@ -1621,7 +1621,7 @@
     "unit": "High_Templar",
     "action": " Selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"En Taro Tassadar.\"\n",
@@ -1629,7 +1629,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"I heed the call.\"\n",
@@ -1637,7 +1637,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"As ever I serve.\"\n",
@@ -1645,7 +1645,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"I will comply.\"\n",
@@ -1653,7 +1653,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"O'lak natahl.\"\n",
@@ -1661,7 +1661,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"We continue on.\"\n",
@@ -1669,7 +1669,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Unity through purpose.\"\n",
@@ -1677,7 +1677,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"For Artanis.\"\n",
@@ -1685,7 +1685,7 @@
     "unit": "High_Templar",
     "action": " Move order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"We shall not falter.\"\n",
@@ -1693,7 +1693,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"The true enemy is dishonor.\"\n",
@@ -1701,7 +1701,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Duty is my shield.\"\n",
@@ -1709,7 +1709,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Rautha sak ash.\"\n",
@@ -1717,7 +1717,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"For Aiur!\"\n",
@@ -1725,7 +1725,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"We will overcome!\"\n",
@@ -1733,7 +1733,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Together we vanquish!\"\n",
@@ -1741,7 +1741,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Our power is from within\"\n",
@@ -1749,7 +1749,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Suffer as we have\"\n",
@@ -1757,7 +1757,7 @@
     "unit": "High_Templar",
     "action": " Attack order\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"With the Khala fallen to corruption, the memories of our ancestors are lost to us.\"\n",
@@ -1765,7 +1765,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"For the first time, the halls of the Templar archives are silent.\"\n",
@@ -1773,7 +1773,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"It has been difficult to bear\"\n",
@@ -1781,7 +1781,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Without the Khala to rely on, our power has been difficult to control, but not impossible.\"\n",
@@ -1789,7 +1789,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Your thoughts are growing harder to read. It seems my strength has not fully returned.\"\n",
@@ -1797,7 +1797,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Let me try something. You’re feeling… happy! No… sad. No, wait… Happy!  Agh, how do the Dark Templar deal with this?\"\n",
@@ -1805,7 +1805,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"*sigh* I don’t even know how I feel anymore.\"\n",
@@ -1813,7 +1813,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"I’m sorry. Our situation is difficult.  I lack even the will to make lightning puns. Shocking, I know. Oh, I did it!\"\n",
@@ -1821,7 +1821,7 @@
     "unit": "High_Templar",
     "action": " Repeatedly selected\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Saraht tuun!\" (when casting Psionic Storm)\n",
@@ -1829,7 +1829,7 @@
     "unit": "High_Templar",
     "action": " Other lines\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"Two become one!\" (when merging into an Archon)\n",
@@ -1837,7 +1837,7 @@
     "unit": "High_Templar",
     "action": " Other lines\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"I falter!\" (low energy)\n",
@@ -1845,7 +1845,7 @@
     "unit": "High_Templar",
     "action": " Other lines\n",
     "isHero": false,
-    "isMelee": true
+    "isMelee": false
   },
   {
     "value": "\"I return to serve.\"\n",

@@ -31,7 +31,7 @@ const quotesExtractor = async (faction, order) => {
     let $ = cheerio.load(response.data);
     let current_element = $(`#${faction}`).parent();
 
-    if ((faction === 'Hybrid')) {
+    if (faction === 'Hybrid') {
       isMelee = false;
       isHero = false;
     }
@@ -57,6 +57,16 @@ const quotesExtractor = async (faction, order) => {
 
       if (current_element.is('h4')) {
         unit = current_element.children().attr('id');
+      }
+
+      if (current_element.is('h5')) {
+        let unitType = $(current_element.children()[0])
+          .text()
+          .trim();
+        if (unitType.includes('Co-op Missions')) {
+          isMelee = false;
+          isHero = false;
+        }
       }
 
       if (current_element.is('table')) {
@@ -91,6 +101,13 @@ const quotesExtractor = async (faction, order) => {
               });
             }
           });
+
+        // Special case where second high templar table is not melee.
+        // Set back to normal for next unit
+        if (unit === 'High_Templar') {
+          isMelee = true;
+          isHero = false;
+        }
       }
     } while (
       $(current_element).next()[0] !== undefined &&
