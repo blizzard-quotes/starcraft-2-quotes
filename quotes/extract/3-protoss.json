@@ -774,6 +774,12 @@
     "action": " When attacked\n"
   },
   {
+    "value": "\"Deliver reinforcements!\"\n",
+    "faction": "Protoss",
+    "unit": "Disruptor",
+    "action": " When attacked\n"
+  },
+  {
     "value": "\"Presiding.\"\n",
     "faction": "Protoss",
     "unit": "Disruptor",
@@ -2460,6 +2466,12 @@
     "action": " When attacked\n"
   },
   {
+    "value": "\"We meet our fate.\"\n",
+    "faction": "Protoss",
+    "unit": "Oracle",
+    "action": " When attacked\n"
+  },
+  {
     "value": "\"The threads of fate lie bare.\"\n",
     "faction": "Protoss",
     "unit": "Oracle",
@@ -2602,12 +2614,6 @@
     "faction": "Protoss",
     "unit": "Oracle",
     "action": " Repeatedly selected\n"
-  },
-  {
-    "value": "\"We meet our fate.\" (when killed)\n",
-    "faction": "Protoss",
-    "unit": "Oracle",
-    "action": " Other lines\n"
   },
   {
     "value": "\"Kinetic matrix active.\" \n",

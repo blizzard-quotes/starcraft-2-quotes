@@ -4656,79 +4656,79 @@
     "action": " When attacked\n"
   },
   {
-    "value": "\"I'm no traitor.\" (Imperial Mandate >34)\n",
+    "value": "\"I'm no traitor.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Guess I'm on your list.\" (Imperial Mandate >34)\n",
+    "value": "\"Guess I'm on your list.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Me? You sure?\" (Imperial Mandate >34)\n",
+    "value": "\"Me? You sure?\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Who'd I piss off?\" (Imperial Mandate >34)\n",
+    "value": "\"Who'd I piss off?\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"I could get a lot for this gun.\" (Imperial Mandate >34)\n",
+    "value": "\"I could get a lot for this gun.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Sir!\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Sir!\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Is that you, Emperor?\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Is that you, Emperor?\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Who's resisting us today?\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Who's resisting us today?\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Looking for direction.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Looking for direction.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Suit's fitting OK.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Suit's fitting OK.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Good as gold.\" (Imperial Mandate <67)\n",
+    "value": "\"Good as gold.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"Waving the banner.\" (Imperial Mandate <67)\n",
+    "value": "\"Waving the banner.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"I'm worth ten of them.\" (Imperial Mandate <67)\n",
+    "value": "\"I'm worth ten of them.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
@@ -4740,229 +4740,229 @@
     "action": " Selected\n"
   },
   {
-    "value": "\"In it together!\" (Imperial Mandate <67)\n",
+    "value": "\"In it together!\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Selected\n"
   },
   {
-    "value": "\"I'm complying! Stay calm.\" (Imperial Mandate >34)\n",
+    "value": "\"I'm complying! Stay calm.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"This... Could go bad.\" (Imperial Mandate >34)\n",
+    "value": "\"This... Could go bad.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"What else would I do?\" (Imperial Mandate >34)\n",
+    "value": "\"What else would I do?\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"This is exhausting.\" (Imperial Mandate >34)\n",
+    "value": "\"This is exhausting.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Not another drill.\" (Imperial Mandate >34)\n",
+    "value": "\"Not another drill.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"As ordered.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"As ordered.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"To spec.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"To spec.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Yes.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Yes.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"I'm prepped.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"I'm prepped.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Pressing on.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Pressing on.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Any regs I should know?\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Any regs I should know?\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"By any means.\" (Imperial Mandate <67)\n",
+    "value": "\"By any means.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Here comes the throne!\" (Imperial Mandate <67)\n",
+    "value": "\"Here comes the throne!\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Korhal strong!\" (Imperial Mandate <67)\n",
+    "value": "\"Korhal strong!\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"On time, on target.\" (Imperial Mandate <67)\n",
+    "value": "\"On time, on target.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Full force.\" (Imperial Mandate <67)\n",
+    "value": "\"Full force.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Bringing the peace.\" (Imperial Mandate <67)\n",
+    "value": "\"Bringing the peace.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Move order\n"
   },
   {
-    "value": "\"Don't you have somebody else for this?\" (Imperial Mandate >34)\n",
+    "value": "\"Don't you have somebody else for this?\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"About that combat pay.\" (Imperial Mandate >34)\n",
+    "value": "\"About that combat pay.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"I'm dead either way.\" (Imperial Mandate >34)\n",
+    "value": "\"I'm dead either way.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Pretty risky, uh, sir.\" (Imperial Mandate >34)\n",
+    "value": "\"Pretty risky, uh, sir.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Guess I have to.\" (Imperial Mandate >34)\n",
+    "value": "\"Guess I have to.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"At least my will's notarized.\" (Imperial Mandate >34)\n",
+    "value": "\"At least my will's notarized.\" (Imperial Mandate <34)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"They picked the wrong fight.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"They picked the wrong fight.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Suppressing fire.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Suppressing fire.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"I've been in worse.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"I've been in worse.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Making some room.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Making some room.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Us or them.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Us or them.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Too late for compromise.\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Too late for compromise.\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Better me than the brass, right?\" (Imperial Mandate <34 and >67)\n",
+    "value": "\"Better me than the brass, right?\" (Imperial Mandate >34 and <67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Ha! What opposition?\" (Imperial Mandate <67)\n",
+    "value": "\"Ha! What opposition?\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Outstay, outlast, outlive.\" (Imperial Mandate <67)\n",
+    "value": "\"Outstay, outlast, outlive.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Fight to the last!\" (Imperial Mandate <67)\n",
+    "value": "\"Fight to the last!\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Put 'em down.\" (Imperial Mandate <67)\n",
+    "value": "\"Put 'em down.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"It's our sector now.\" (Imperial Mandate <67)\n",
+    "value": "\"It's our sector now.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"You'll wanna watch this twice.\" (Imperial Mandate <67)\n",
+    "value": "\"You'll wanna watch this twice.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
   },
   {
-    "value": "\"Deescalation imminent.\" (Imperial Mandate <67)\n",
+    "value": "\"Deescalation imminent.\" (Imperial Mandate >67)\n",
     "faction": "Terran",
     "unit": "Dominion_Trooper.2FDominion_Laborer",
     "action": " Attack order\n"
@@ -5493,6 +5493,54 @@
     "value": "\"I'm too mean to die.\" (when killed)\n",
     "faction": "Terran",
     "unit": "Hercules",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Economic collapse is imminent throughout the Kel-Morian Combine. Korhal is a safe harbor for all who would depart that wasteland in search of a better life.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"I've done more to protect the people of Umoja from the zerg than their own Ruling Council. No matter how they slander me, I will continue to act in the best interest of all terrans.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"As your emperor, I have overseen record territory and economic expansion for the Dominion of Man. We will continue to grow, despite the poisoned parts of our body that would limit and debase us.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"The brave men and women of the Dominion Armed Forces defend our homefront, but they cannot do it alone. Enlist today, to have your sentence commuted by more than half!\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Radicals and dissonants want you to ignore years of peace and prosperity at the first sound of a gunshot. They don't have the stomach to guide humanity through a galaxy fraught with danger.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Our laws are our lifeblood, and yet they are tested like never before. I will restore the order of our empire without bowing to alien ravagers.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"I have pacified the zerg and swept away the protoss. Now their progenitor wants to take away everything we have! Remember who is best equipped to stand in your defense.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
+    "action": " Other lines\n"
+  },
+  {
+    "value": "\"Whatever nonsense you might hear, I am not a clone.\"\n",
+    "faction": "Terran",
+    "unit": "Imperial_witness",
     "action": " Other lines\n"
   },
   {

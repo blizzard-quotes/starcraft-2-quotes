@@ -108,11 +108,17 @@ function quoteTransformer(input, output) {
   let quotes = JSON.parse(rawData);
 
   quotes.forEach(function(quote) {
+    let cleanUnit = cleanQuoteUnit(quote['unit']);
+    let cleanValue = cleanQuoteValue(quote['value']);
+    let cleanFaction = cleanQuoteFaction(quote['faction']);
+    let cleanAction = cleanQuoteAction(quote['action']);
+
     let cleanQuote = {
-      value: cleanQuoteValue(quote['value']),
-      faction: cleanQuoteFaction(quote['faction']),
-      unit: cleanQuoteUnit(quote['unit']),
-      action: cleanQuoteAction(quote['action'])
+      value: cleanValue,
+      faction: cleanFaction,
+      unit: cleanUnit,
+      action: cleanAction,
+      id: uuidv5(`${quote.unit} ${quotes.action} ${quotes.faction}`, uuidv5.URL)
     };
 
     if (cleanQuote['value'] !== '') {
@@ -129,28 +135,6 @@ function quoteTransformer(input, output) {
   return cleanQuotes;
 }
 
-/**
- * Adds short uuid for all quote objects
- * @param {array} quotes - an array of quote objects
- */
-function shortId(quotes) {
-  let uniqueIds = [];
-  quotes.forEach(function(quote, i) {
-    let uniqueId;
-    let isUnique;
-    do {
-      uniqueId = uuidv4().split('-')[0];
-      isUnique = false;
-      if (!uniqueIds.includes(uniqueId)) {
-        uniqueIds.push(uniqueId);
-        isUnique = true;
-      }
-    } while (!isUnique);
-
-    quote['id'] = uniqueId;
-  });
-}
-
 fs.mkdir(pathOutput, { recursive: true }, err => {
   if (err) throw err;
 });
@@ -164,12 +148,8 @@ files.forEach(function(file) {
   );
 });
 
-shortId(quotes);
-
 let data = JSON.stringify(quotes, null, 2);
 
-if (!fs.existsSync('./quotes/starcraft-2-quotes.json')) {
-  fs.writeFileSync('./quotes/starcraft-2-quotes.json', data);
-  console.log('WEAPONS CHARGED AND READY');
-  console.log(`OUTPUT: ${pathQuotes}`);
-}
+fs.writeFileSync(pathQuotes, data);
+console.log('WEAPONS CHARGED AND READY');
+console.log(`OUTPUT: ${pathQuotes}`);
