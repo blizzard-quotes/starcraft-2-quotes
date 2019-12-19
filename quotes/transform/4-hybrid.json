@@ -1,0 +1,209 @@
+[
+  {
+    "value": "PREPARE for DEATH.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "A TEMPORARY setback.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Surrender to DESPAIR.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Still you cling to HOPE.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Do you not see the futility?",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Why PERSIST?",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "DEATH comes to you.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "NONE shall stand.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Life is FORFEIT.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "THIS is the end.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "OBLIVION for all.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "DOOM.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "No REPRIEVE.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Resistance is FOOLISH.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "All resistance will be ERADICATED.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "I SHALL return.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Your efforts are wasted...",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "I shall NOT end.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Merely a temporary setback.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Your doom is only delayed.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "You cannot destroy me. I shall rise again.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "I go to gather my strength.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  },
+  {
+    "value": "Enjoy your fleeting victory. This is not over.",
+    "faction": "Hybrid",
+    "unit": "Maar",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+  }
+]

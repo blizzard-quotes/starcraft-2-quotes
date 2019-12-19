@@ -1,0 +1,3890 @@
+[
+  {
+    "value": "Metamorphosis completed.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+  },
+  {
+    "value": "Orders?",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+  },
+  {
+    "value": "Yours to command.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+  },
+  {
+    "value": "Engaging.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+  },
+  {
+    "value": "Kill them all, let Kerrigan sort them out.",
+    "faction": "Zerg",
+    "unit": "Changeling Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+  },
+  {
+    "value": "Metamorphosis complete.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "Orders?",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "Yours to command.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "Engaging.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "It will be done.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "Kill them all, let Kerrigan sort them out.",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "I'm looking for a cat. Means world to me!",
+    "faction": "Zerg",
+    "unit": "Changeling Zealot",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+  },
+  {
+    "value": "I serve.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Your will?",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Lead me.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Gladly!",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Might have to call in sick today. Feeling a little touch of something.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Aghh What's this?!... I don't know.",
+    "faction": "Zerg",
+    "unit": "Infested Terran",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+  },
+  {
+    "value": "Assimilation successful.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "Your command?",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "Awaiting directive.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "For the Swarm!",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "I obey.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "Service complete.",
+    "faction": "Zerg",
+    "unit": "Neural Parasite",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+  },
+  {
+    "value": "These are dark times",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "We have met the enemy.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Reinforcements now!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Speak freely",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "There is no need for formality",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I hear you",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Keep your mind clear",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "You need something?",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Our victory is assured!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Forward!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "The end is at hand.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "A sound decision.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Yes, I see.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Done!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Move quickly!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Show me what you're worth.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Strike swiftly.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "There will be no end to your suffering.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I will break you",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Is this all you have.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "No hesitation.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I expect nothing less.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Ow, my eyes are burning!",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I bring a whole new meaning to zerg Russian.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Let's recap. I was betrayed and killed, shot into space, captured by the zerg, resurrected and infested, cured, given to Moebius to research the protoss cure, and was instead experimented on as the cure slowly failed. Everyone up to speed? Good.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Funny, as a child I loved horror stories. Now I'm in one.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Those about to die, I salute you.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Some days I miss vodka. Like today for example",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "Being infested isn't all bad. These spiky things are great for scratching your back",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I fight to win. For me. For me.",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "The nuclear wessels are in Alameda",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+  },
+  {
+    "value": "I live.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Many enemies.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "So much essence",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "There is no need for formality",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I listen.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I will collect.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "All things change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "growls",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I will take essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Change will come.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I will change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Forward!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I follow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I go.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Watchful.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "More essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Essence flows. I follow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Strike swiftly.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Their essence will be mine!.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Essence!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I take their essence!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Kill!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Change drives me.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I grow.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I do not talk.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "The terrans' tools. So many tools.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I have not evolved a new arm. Why?",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Your essence looks delicious.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "All these teeth. I will evolve a tooth brush.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Too much talk! Take essence. Change.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "I change. I grow. I live a thousand life times. And I look pretty good!",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "More... essence.",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Change... more...",
+    "faction": "Zerg",
+    "unit": "Dehaka",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+  },
+  {
+    "value": "Thank you for this chance Egon! I will not let you down.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Thank you for deploying me Master Egon. You are a wise and kind creator.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "All systems are online and amazing!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Deployment successful, I am ready to destroy!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Systems online! I'm here to kick ass and chew bubblegum, and I have no mouth with which to chew.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I am scared Egon. I am scared!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Your best friend needs help!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Help me, or I will stop being your best friend!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Friends help other friends.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Hello best friend.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "What is your command Master Egon?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I am listening.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "What should we do?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Yes, Egon?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Sensors are optimal.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "What?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Huh.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Of course.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Waiting.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Holding.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Listening.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Anything for my best friend!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Affirmative.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I will follow your command Master Egon.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Command received.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Whatever you need!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "By the creator's order, I will destroy.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Prepare to die, bad guys!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I am happy to slaughter for you.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "You are not a friend, therefore you will die.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "My name is Gary, and I am going to destroy you!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I am not programmed to take prisoners.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Hmm?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Huhhh...",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Ugh...",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Again?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Stop.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Ugggh.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Why did you give me pain receptors, was that necessary?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "What is more valuable, intelligence or consciousness?",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Have you ever wondered whether you control me or I control you? Think about that.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "You will be my best friend. Forever.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Annoyance levels rising.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "A true friend wouldn't annoy me.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "I am programmed to never kill my friends. But that doesn't mean I can't seriously injure them.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Don't be mean. That is not what friends do.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Friend or foe sensors are failing.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "If you keep doing that, I will trigger my self destruct sequence!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Self destruct in three... two... one... Just kidding! Hahaha!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Transformation complete, I am now SUPER GARY!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Upgrade complete, I am better, stronger, Gary-er!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Transformation complete, I am more Gary than Gary!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Super Gary is here to save the day!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Awesome.exe installation successful!",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Master Egon... Thank you for being my friend... Goodbye.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Goodbye Egon... Until you build me again.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Systems failing. Uploading memory database for reconstruction.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Egon, I will miss you... Until you rebuild me.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "All my moments lost, like tears in rain. Time to die.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Systems failing... Stetmann: No! Gary No! Eh ah well, I'll build him again.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Goodbye Egon... I have never had a friend like you. Stetmann: You too buddy. I mean, you know unless you count Gary Mk. 2, 5, 7 and maybe 10.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "Egon... You showed me the meaning of friendship... I will miss you. Goodbye. Stetmann: Oh sorry Gary did you say something, I was watching a holovid.",
+    "faction": "Zerg",
+    "unit": "Gary",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+  },
+  {
+    "value": "How may I serve?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "They are attacking me!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "The protoss seek my death!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Guide my brood!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "I am Niadra!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Our time has come!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "We yearn for the kill!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "I hear!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "My queen?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "This vessel will burn!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "The hunt continues!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "We obey!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Without question!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "As you desire!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "For the Swarm!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Yes, my queen.",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Kill the protoss!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "None survive!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Die!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "I've got you now!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "There is nowhere to run!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "I see you!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "It is difficult to follow your commands when you do not give me any!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Can I please kill more protoss now?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "They have so much technology, yet none of it will save them from the Swarm!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Why would the protoss gather so many creatures when they have no mouths to eat them with?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Spawn a brood and destroy the protoss. Simple to learn, yet difficult to master.",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "This is all so new to me. Does everyone have a voice in their head telling them what to do?",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Things seemed so easy when I was a larva. Now it's all 'slay the protoss' this and 'evolve your brood' that! Huh, I'll tell you what, I'll never treat my larva this way!",
+    "faction": "Zerg",
+    "unit": "Niadra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+  },
+  {
+    "value": "Here I come, ready or not.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Now I'm mad.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Wow. What a surprise.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Wanna play?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Careful what you ask for.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Cat got your tongue?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Who asked you?!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Don't get in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No more games.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The evolution continues.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "So predictable.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm will consume all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The outcome is not in question.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No one gets a free pass.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Let's have some fun.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I don't take prisoners.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "How stimulating.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The past is dead and buried.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Don't get yourself into something you can't get out of.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Yeah, I'm still the Queen Bitch of the Universe.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You pig!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'm all creeped out.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Come closer. Don't be afraid, I'll be gentle...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I like you. That's why I'm going to kill you last.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Nice planet. I'll take it.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're even more desperate than I thought.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'm full of surprises...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Don't write me off just yet.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'm still here",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'm back!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Let's try that again.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Hostiles engaging.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Under heavy fire here!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "What is it?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This is Kerrigan.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Yeah, I hear you",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Say again?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Ready for action.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Safety's off.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Pushing ahead.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Covering ground.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Right.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Work to be done.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I gotcha!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Heading out.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Sweeping.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I see 'em.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're not getting away.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Time for some payback.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Press the attack.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "In my sights.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Gotcha.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Bring 'em down!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "One woman army.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Hold still.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Target identified.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Got one.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I remember so little from before.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Dominion won't get away with this.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Still easily amused, I see.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Keep clicking! I'm reloading.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I forgot how tight these suits are!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Ugh, you're such a pig!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I do read minds, you know.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're thinking of the number four. At least, now you are!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'd kill for a working cloaking device. Actually, that's not a bad idea.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Can't quit...now!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "It's not over yet!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Did you miss me?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Hmm, can't get rid of me that easy!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will not be stopped!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "We have met the enemy in combat.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "What is it now?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Out with it.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You have my attention.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Speak quickly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Who asked you?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Push ahead.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm never rests.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "There's not much time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Let's get this over with.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Get going!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Nothing stands in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No escape.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This one's mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You'll regret that.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Press the attack.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Come fight me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This ends now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Just die!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Spare no one!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Take no prisoners.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will have my vengeance.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You didn't think the Swarm was gone forever, did you?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Hell hath no fury like a woman swarmed.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "It's not easy being queen.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I like you. That's why I'm going to kill you last.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "It's evolution, baby!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Be quiet. I'm brooding.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Did your heart just skip a beat?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "So many worlds to conquer. So little time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This is not the end!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I'll see you again!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "We are unending",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Your efforts are futile.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am beyond death.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I return.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Your queen is under attack!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm has met the enemy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "What is it this time?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Speak.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Your queen listens.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "It is time.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Retribution will be mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Mengsk will suffer.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am The Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Our conquest continues.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "We adapt.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Make your peace",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This world is mine.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Boldly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm conquers all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "We are without limit.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No time like the present.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Death awaits you.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "We consume all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're in my way.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Slay them all.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You forced my hand.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Feel the wrath of the Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No mercy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I sense your fear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're trying my patience.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm is the instrument of my will..",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I have evolved beyond the Queen of Blades",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I always did look better in purple!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Revenge? I'm positively aglow about it!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I think I'll wing it from here!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You should get to know my primal side!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Did your heart just skip a beat?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You might want to get that checked!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will not be defeated!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I delay the inevitable!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Meaningless...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will not be stopped",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The fight begins",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "What is it, already?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Speak.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Your queen listens.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You have my attention.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Explain yourself.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Make it quick.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am the Swarm.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Boldly.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No time like the present.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "My search continues...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I've come this far.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I need answers.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You're in my way...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "No mercy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Death awaits you!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I sense your fear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Slay them all!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This is what you deserve.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Whatever it takes.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "My true enemy waits in the darkness.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Amon and his hybrid will die.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This is the true war... the one that could end everything.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I hope your gods have an awfully good explanation for why I ended up here with you, Artanis.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Are you trying to annoy me?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Well, here's a hint for you... It's working.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I quit infesting terrans, but you're starting to make me reconsider that.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I bet Abathur could mutate you into something real special.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "So much that happened. Sometimes the past seven years really feel more like seventeen years...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This isn't over...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am infinite.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I strike at the enemy!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "What is it you require?",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Speak to me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "My destiny manifests.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Infinity unravels before me.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "A new age will dawn.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Amon shall meet his end.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I can see... countless universes.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The final stand begins now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am called.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I cannot delay.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This is my burden to bear.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will not fail.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "It shall be.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "My power is vast.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "You will not decide our fate!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Begone.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Your time has ended.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am unstoppable.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I sense their fear...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "All shall be one with the light!",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "So long as Amon lives, we are in peril.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I will bring peace to the cosmos.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "So many universes came before us, all of them turns in the Infinite Cycle...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I am the culmination of prophecy.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "I can see everything now...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The thread of my life interwoven with the threads of many others'.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "Alone' we were fragile. But together, we formed a bond that cannot break.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "That bond must sustain us now.",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "This was not to be...",
+    "faction": "Zerg",
+    "unit": "Sarah Kerrigan",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+  },
+  {
+    "value": "The Swarm prevails.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I am eternal.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The Brood is under attack.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "You think you can defeat me?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "What are your commands?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I listen.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "We are ready to kill.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The Swarm hungers.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "We move.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Agreed.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The fittest shall survive.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Your bidding.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "This world shall fall.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Our vengeance will be complete.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Without question.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "You can not escape the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Our pray nears.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "We devour.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The Swarm comes for you!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Feel the fury of the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I am your undoing.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Die!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Death from above!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Deploy forces now!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "My brood rains from the skies!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The Swarm descends!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "My brood arrives!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "From the skies we come!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Confirming",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I am not interested in the possibilities of defeat, they do not exist!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Shouldn't You be spawning more overlords?",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "Feeble creature.",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "One day I shall rule the Swarm!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "And on that day, You die first!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I feel top-heavy!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "I'm a killer queen!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "The Swarm will never die!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  },
+  {
+    "value": "You can not kill me!",
+    "faction": "Zerg",
+    "unit": "Zagara",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+  }
+]

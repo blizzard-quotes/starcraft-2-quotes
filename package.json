@@ -1,14 +1,29 @@
 {
-  "name": "starcraft-2-quotes-web-scraping",
+  "name": "@blizzard-quotes/starcraft-2-quotes",
   "version": "1.0.0",
-  "description": "Quick scripts to parse Starcraft 2 quotes and generate JSON files.",
+  "description": "Starcraft 2 quotes json wrapper. Also contains scripts to extract and transform Starcraft 2 quotes.",
+  "keywords": [
+    "starcraft 2",
+    "sc2",
+    "quotes"
+  ],
+  "homepage": "https://github.com/blizzard-quotes/starcraft-2-quotes#readme",
+  "bugs": {
+    "url": "https://github.com/blizzard-quotes/starcraft-2-quotes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blizzard-quotes/starcraft-2-quotes.git"
+  },
+  "license": "MIT",
+  "author": "panebianco",
+  "main": "index.js",
   "scripts": {
     "extract": "node ./src/extract.js",
     "transform": "node ./src/transform.js"
   },
-  "author": "panebianco",
-  "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "uuid": "^3.3.3"

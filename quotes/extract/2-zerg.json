@@ -3,2604 +3,3472 @@
     "value": "\"Metamorphosis completed.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Kill them all, let Kerrigan sort them out.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Metamorphosis complete.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"It will be done.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I'm looking for a cat. Means world to me!\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I serve.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Your will?\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Lead me.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Gladly!\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Might have to call in sick today. Feeling a little touch of something.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Aghh What's this?!...(pause) I don't know.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Assimilation successful.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Your command?\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Awaiting directive.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"For the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I obey.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Service complete.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"These are dark times\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We have met the enemy.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Reinforcements now!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Speak freely\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"There is no need for formality\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I hear you\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Keep your mind clear\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You need something?\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Our victory is assured!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Forward!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The end is at hand.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"A sound decision.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes, I see.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Done!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Move quickly!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Show me what you're worth.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Strike swiftly.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"There will be no end to your suffering.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will break you\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Is this all you have.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No hesitation.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I expect nothing less.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Ow, my eyes are burning!\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I bring a whole new meaning to \"zerg Russian.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "Let's recap. I was betrayed and killed, shot into space, captured by the zerg, resurrected and infested, cured, given to Moebius to research the protoss cure, and was instead experimented on as the cure slowly failed. Everyone up to speed? Good.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Funny, as a child I loved horror stories. Now I'm in one.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Those about to die, I salute you.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Some days I miss vodka. Like today for example\" \n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "Being infested isn't all bad. These spiky things are great for scratching your back\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I fight to win. For me. For me.\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The nuclear wessels are in Alameda\"\n",
     "faction": "Zerg",
     "unit": "Alexei_Stukov",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I live.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Many enemies.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"So much essence\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"There is no need for formality\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I listen.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will collect.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"All things change.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "growls\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will take essence.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Change will come.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will change.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Forward!\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I follow.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I go.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Watchful.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"More essence.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Essence flows. I follow.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "(growl)\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Strike swiftly.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Their essence will be mine!.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Essence!\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I take their essence!\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Kill!\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Change drives me.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I grow.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I do not talk.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The terrans' tools. So many tools.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I have not evolved a new arm. Why?\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your essence looks delicious.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"All these teeth. I will evolve a tooth brush.\"\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "(growl) \"Too much talk! Take essence. Change.\" \n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "I change. I grow. I live a thousand life times. And I look pretty good!\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"More... essence.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Change... more...\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Dehaka",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Thank you for this chance Egon! I will not let you down.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Thank you for deploying me Master Egon. You are a wise and kind creator.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"All systems are online and amazing!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Deployment successful, I am ready to destroy!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Systems online! I'm here to kick ass and chew bubblegum, and I have no mouth with which to chew.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am scared Egon. I am scared!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your best friend needs help!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Help me, or I will stop being your best friend!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Friends help other friends.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hello best friend.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is your command Master Egon?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am listening.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What should we do?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes, Egon?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Sensors are optimal.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Huh.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Of course.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Waiting.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Holding.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Listening.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Anything for my best friend!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Affirmative.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will follow your command Master Egon.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Command received.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Whatever you need!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"By the creator's order, I will destroy.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Prepare to die, bad guys!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am happy to slaughter for you.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You are not a friend, therefore you will die.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My name is Gary, and I am going to destroy you!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am not programmed to take prisoners.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hmm?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Huhhh...\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Ugh...\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Again?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Stop.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Ugggh.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Why did you give me pain receptors, was that necessary?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is more valuable, intelligence or consciousness?\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Have you ever wondered whether you control me or I control you? Think about that.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You will be my best friend. Forever.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Annoyance levels rising.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"A true friend wouldn't annoy me.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am programmed to never kill my friends. But that doesn't mean I can't seriously injure them.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Don't be mean. That is not what friends do.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Friend or foe sensors are failing.\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"If you keep doing that, I will trigger my self destruct sequence!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Self destruct in three... two... one... Just kidding! Hahaha!\"\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Transformation complete, I am now SUPER GARY!\" (when upgraded)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Upgrade complete, I am better, stronger, Gary-er!\" (when upgraded)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Transformation complete, I am more Gary than Gary!\" (when upgraded)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Super Gary is here to save the day!\" (when upgraded)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Awesome.exe installation successful!\" (when upgraded)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Master Egon... Thank you for being my friend... Goodbye.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Goodbye Egon... Until you build me again.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Systems failing. Uploading memory database for reconstruction.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Egon, I will miss you... Until you rebuild me.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"All my moments lost, like tears in rain. Time to die.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Systems failing...\" Stetmann: \"No! Gary No! Eh ah well, I'll build him again.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Goodbye Egon... I have never had a friend like you.\" Stetmann: \"You too buddy. I mean, you know unless you count Gary Mk. 2, 5, 7 and maybe 10.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Egon... You showed me the meaning of friendship... I will miss you. Goodbye.\" Stetmann: \"Oh sorry Gary did you say something, I was watching a holovid.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Gary",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"How may I serve?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"They are attacking me!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The protoss seek my death!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Guide my brood!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am Niadra!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Our time has come!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We yearn for the kill!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I hear!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My queen?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This vessel will burn!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The hunt continues!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We obey!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Without question!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"As you desire!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"For the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes, my queen.\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Kill the protoss!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"None survive!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Die!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I've got you now!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "(shout)\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"There is nowhere to run!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I see you!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "It is difficult to follow your commands when you do not give me any!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Can I please kill more protoss now?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"They have so much technology, yet none of it will save them from the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Why would the protoss gather so many creatures when they have no mouths to eat them with?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Spawn a brood and destroy the protoss. Simple to learn, yet difficult to master.\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is all so new to me. Does everyone have a voice in their head telling them what to do?\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Things seemed so easy when I was a larva. Now it's all 'slay the protoss' this and 'evolve your brood' that! Huh, I'll tell you what, I'll never treat my larva this way!\"\n",
     "faction": "Zerg",
     "unit": "Niadra",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Here I come, ready or not.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Now I'm mad.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Wow. What a surprise.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Wanna play?\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Careful what you ask for.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Cat got your tongue?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Who asked you?!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Don't get in my way.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No more games.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The evolution continues.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"So predictable.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm will consume all.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The outcome is not in question.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No one gets a free pass.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Let's have some fun.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I don't take prisoners.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"How stimulating.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The past is dead and buried.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Don't get yourself into something you can't get out of.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yeah, I'm still the Queen Bitch of the Universe.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You pig!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'm all creeped out.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Come closer. Don't be afraid, I'll be gentle...(screech)\" \n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I like you. That's why I'm going to kill you last.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Nice planet. I'll take it.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're even more desperate than I thought.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'm full of surprises...\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Don't write me off just yet.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'm still here\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'm back!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Let's try that again.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hostiles engaging.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Under heavy fire here!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is it?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is Kerrigan.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yeah, I hear you\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Say again?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Ready for action.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Safety's off.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Pushing ahead.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Covering ground.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Right.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Work to be done.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I gotcha!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Heading out.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Sweeping.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I see 'em.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're not getting away.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Time for some payback.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Press the attack.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"In my sights.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Gotcha.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Bring 'em down!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"One woman army.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hold still.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Target identified.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Got one.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I remember so little from before.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Dominion won't get away with this.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Still easily amused, I see.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Keep clicking! I'm reloading.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I forgot how tight these suits are!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Ugh, you're such a pig!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I do read minds, you know.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're thinking of the number four. At least, now you are!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'd kill for a working cloaking device. Actually, that's not a bad idea.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Can't quit...now!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"It's not over yet!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Did you miss me?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hmm, can't get rid of me that easy!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will not be stopped!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We have met the enemy in combat.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is it now?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Out with it.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You have my attention.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Speak quickly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Who asked you?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Push ahead.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm never rests.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"There's not much time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Let's get this over with.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Get going!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Nothing stands in my way.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No escape.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This one's mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You'll regret that.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Press the attack.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Come fight me.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This ends now.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Just die!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Spare no one!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Take no prisoners.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will have my vengeance.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You didn't think the Swarm was gone forever, did you?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Hell hath no fury like a woman swarmed.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"It's not easy being queen.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I like you. That's why I'm going to kill you last.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"It's evolution, baby!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Be quiet. I'm brooding.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Did your heart just skip a beat?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "(sigh) \"So many worlds to conquer. So little time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is not the end!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'll see you again!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We are unending\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your efforts are futile.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am beyond death.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I return.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your queen is under attack!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm has met the enemy.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is it this time?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Speak.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your queen listens.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"It is time.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Retribution will be mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Mengsk will suffer.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am The Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Our conquest continues.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We adapt.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Make your peace\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This world is mine.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Boldly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm conquers all.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We are without limit.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No time like the present.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Death awaits you.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We consume all.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're in my way.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Slay them all.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You forced my hand.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Feel the wrath of the Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No mercy.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I sense your fear.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're trying my patience.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm is the instrument of my will..\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I have evolved beyond the Queen of Blades\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I always did look better in purple!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Revenge? I'm positively aglow about it!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I think I'll wing it from here!\" \n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You should get to know my primal side!\" (shriek)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Did your heart just skip a beat?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You might want to get that checked!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will not be defeated!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I delay the inevitable!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Meaningless...\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will not be stopped\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The fight begins\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is it, already?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Speak.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Yes?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your queen listens.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You have my attention.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Explain yourself.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Make it quick.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am the Swarm.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Boldly.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No time like the present.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My search continues...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I've come this far.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I need answers.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You're in my way...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"No mercy.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Death awaits you!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I sense your fear.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Slay them all!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is what you deserve.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Whatever it takes.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My true enemy waits in the darkness.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Amon and his hybrid will die.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is the true war... the one that could end everything.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I hope your gods have an awfully good explanation for why I ended up here with you, Artanis.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Are you trying to annoy me?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Well, here's a hint for you... It's working.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I quit infesting terrans, but you're starting to make me reconsider that.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I bet Abathur could mutate you into something real special.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"So much that happened. Sometimes the past seven years really feel more like seventeen years...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This isn't over...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am infinite.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I strike at the enemy!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What is it you require?\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Speak to me.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My destiny manifests.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Infinity unravels before me.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"A new age will dawn.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Amon shall meet his end.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I can see... countless universes.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The final stand begins now.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am called.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I cannot delay.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This is my burden to bear.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will not fail.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"It shall be.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My power is vast.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You will not decide our fate!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Begone.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your time has ended.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am unstoppable.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I sense their fear...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"All shall be one with the light!\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"So long as Amon lives, we are in peril.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I will bring peace to the cosmos.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"So many universes came before us, all of them turns in the Infinite Cycle...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am the culmination of prophecy.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I can see everything now...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The thread of my life interwoven with the threads of many others'.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Alone' we were fragile. But together, we formed a bond that cannot break.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"That bond must sustain us now.\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This was not to be...\"\n",
     "faction": "Zerg",
     "unit": "Sarah_Kerrigan",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm prevails.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am eternal.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Brood is under attack.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You think you can defeat me?\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " When attacked\n"
+    "action": " When attacked\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"What are your commands?\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I listen.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We are ready to kill.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm hungers.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We move.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Agreed.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The fittest shall survive.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Your bidding.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"This world shall fall.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Our vengeance will be complete.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Without question.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You can not escape the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Our pray nears.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"We devour.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm comes for you!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Feel the fury of the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am your undoing.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Die!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Death from above!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Deploy forces now!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My brood rains from the skies!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm descends!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"My brood arrives!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"From the skies we come!\" (calling roaches)\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Confirming order\n"
+    "action": " Confirming order\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I am not interested in the possibilities of defeat, they do not exist!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Shouldn't You be spawning more overlords?\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"Feeble creature.\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"One day I shall rule the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"And on that day, You die first!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I feel top-heavy!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"I'm a killer queen!\"\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"The Swarm will never die!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   },
   {
     "value": "\"You can not kill me!\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Zagara",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": true,
+    "isMelee": false
   }
 ]
