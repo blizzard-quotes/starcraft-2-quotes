@@ -43,13 +43,16 @@ const quotesExtractor = async (faction, order) => {
         let unitType = $(current_element.children()[0])
           .text()
           .trim();
-        if (unitType === 'Versus Units') {
+        if (
+          unitType.includes('Units') &&
+          !unitType.includes('Co-op Missions Units')
+        ) {
           isMelee = true;
           isHero = false;
-        } else if (unitType === 'Campaign and Co-op Missions Units') {
+        } else if (unitType.includes('Co-op Missions Units')) {
           isMelee = false;
           isHero = false;
-        } else if (unitType === 'Heroes') {
+        } else if (unitType.includes('Heroes')) {
           isMelee = false;
           isHero = true;
         }

@@ -3,151 +3,201 @@
     "value": "\"Metamorphosis completed.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Kill them all, let Kerrigan sort them out.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FMarine",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Metamorphosis complete.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Orders?\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yours to command.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Engaging.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"It will be done.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Move order\n"
+    "action": " Move order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I'm looking for a cat. Means world to me!\"\n",
     "faction": "Zerg",
     "unit": "Changeling.2FZealot",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I serve.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Your will?\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Lead me.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Yes.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Gladly!\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Might have to call in sick today. Feeling a little touch of something.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Aghh What's this?!...(pause) I don't know.\"\n",
     "faction": "Zerg",
     "unit": "Infested_Terran",
-    "action": " Repeatedly selected\n"
+    "action": " Repeatedly selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Assimilation successful.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Trained\n"
+    "action": " Trained\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Your command?\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Awaiting directive.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Selected\n"
+    "action": " Selected\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"For the Swarm!\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"I obey.\"\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Attack order\n"
+    "action": " Attack order\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"Service complete.\" (when killed)\n",
     "faction": "Zerg",
     "unit": "Neural_Parasite",
-    "action": " Other lines\n"
+    "action": " Other lines\n",
+    "isHero": false,
+    "isMelee": true
   },
   {
     "value": "\"These are dark times\"\n",
