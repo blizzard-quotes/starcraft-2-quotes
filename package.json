@@ -1,6 +1,6 @@
 {
-  "name": "starcraft-2-quotes",
-  "version": "1.0.1",
+  "name": "@blizzard-quotes/starcraft-2-quotes",
+  "version": "1.0.0",
   "description": "Starcraft 2 quotes json wrapper. Also contains scripts to extract and transform Starcraft 2 quotes.",
   "keywords": [
     "starcraft 2",
