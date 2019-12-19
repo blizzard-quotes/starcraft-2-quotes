@@ -4,6 +4,8 @@
     "faction": "Zerg",
     "unit": "Changeling Marine",
     "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
     "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
   },
   {
@@ -11,6 +13,8 @@
     "faction": "Zerg",
     "unit": "Changeling Marine",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
   },
   {
@@ -18,6 +22,8 @@
     "faction": "Zerg",
     "unit": "Changeling Marine",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
   },
   {
@@ -25,6 +31,8 @@
     "faction": "Zerg",
     "unit": "Changeling Marine",
     "action": "Move",
+    "isHero": false,
+    "isMelee": true,
     "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
   },
   {
@@ -32,6 +40,8 @@
     "faction": "Zerg",
     "unit": "Changeling Marine",
     "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
     "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
   },
   {
@@ -39,6 +49,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -46,6 +58,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -53,6 +67,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -60,6 +76,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Move",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -67,6 +85,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Move",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -74,6 +94,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -81,6 +103,8 @@
     "faction": "Zerg",
     "unit": "Changeling Zealot",
     "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
     "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
   },
   {
@@ -88,6 +112,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -95,6 +121,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -102,6 +130,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -109,6 +139,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -116,6 +148,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -123,6 +157,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -130,6 +166,8 @@
     "faction": "Zerg",
     "unit": "Infested Terran",
     "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
     "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
   },
   {
@@ -137,6 +175,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Trained",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {
@@ -144,6 +184,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {
@@ -151,6 +193,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Selected",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {
@@ -158,6 +202,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {
@@ -165,6 +211,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {
@@ -172,6 +220,8 @@
     "faction": "Zerg",
     "unit": "Neural Parasite",
     "action": "Other",
+    "isHero": false,
+    "isMelee": true,
     "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
   },
   {

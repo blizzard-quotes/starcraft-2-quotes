@@ -1751,7 +1751,7 @@
     "unit": "High Templar",
     "action": "Trained",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1760,7 +1760,7 @@
     "unit": "High Templar",
     "action": "Attacked",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1769,7 +1769,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1778,7 +1778,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1787,7 +1787,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1796,7 +1796,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1805,7 +1805,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1814,7 +1814,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1823,7 +1823,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1832,7 +1832,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1841,7 +1841,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1850,7 +1850,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1859,7 +1859,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1868,7 +1868,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1877,7 +1877,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1886,7 +1886,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1895,7 +1895,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1904,7 +1904,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1913,7 +1913,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1922,7 +1922,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1931,7 +1931,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1940,7 +1940,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1949,7 +1949,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1958,7 +1958,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1967,7 +1967,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1976,7 +1976,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1985,7 +1985,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -1994,7 +1994,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2003,7 +2003,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2012,7 +2012,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2021,7 +2021,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2030,7 +2030,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2039,7 +2039,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2048,7 +2048,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2057,7 +2057,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2066,7 +2066,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
@@ -2075,7 +2075,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": true,
+    "isMelee": false,
     "id": "d2bfb052-95f2-538e-a9ab-a3e564bf5717"
   },
   {
