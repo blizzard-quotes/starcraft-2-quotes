@@ -120,7 +120,10 @@ function quoteTransformer(input, output) {
       action: cleanAction,
       isHero: quote['isHero'],
       isMelee: quote['isMelee'],
-      id: uuidv5(`${quote.unit} ${quotes.action} ${quotes.faction}`, uuidv5.URL)
+      id: uuidv5(
+        `${cleanValue} ${cleanFaction} ${cleanUnit} ${cleanAction}`,
+        uuidv5.URL
+      )
     };
 
     if (cleanQuote['value'] !== '') {

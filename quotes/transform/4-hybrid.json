@@ -6,7 +6,7 @@
     "action": "Trained",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "3e15022b-70d8-5f89-85d8-b121814b329b"
   },
   {
     "value": "A TEMPORARY setback.",
@@ -15,7 +15,7 @@
     "action": "Attacked",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "4878fde4-aa38-5ec9-9bd6-051119815c4e"
   },
   {
     "value": "Surrender to DESPAIR.",
@@ -24,7 +24,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "a4611d39-12c2-577f-b901-9ef58fe89791"
   },
   {
     "value": "Still you cling to HOPE.",
@@ -33,7 +33,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "ed7c67dc-a0b6-56a1-a245-810da2d952c9"
   },
   {
     "value": "Do you not see the futility?",
@@ -42,7 +42,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "456255bb-02c3-5a10-94f8-5448bca4bdbe"
   },
   {
     "value": "Why PERSIST?",
@@ -51,7 +51,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "1b7f67f4-a60c-503b-a396-57a02b1afbe5"
   },
   {
     "value": "DEATH comes to you.",
@@ -60,7 +60,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "e053992c-064a-5afb-ad1b-27ce724902f8"
   },
   {
     "value": "NONE shall stand.",
@@ -69,7 +69,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "012ba18a-eb45-56c0-8e53-ce82abb378f6"
   },
   {
     "value": "Life is FORFEIT.",
@@ -78,7 +78,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "e9348b24-580e-5b0b-a42e-9fd459e4b03e"
   },
   {
     "value": "THIS is the end.",
@@ -87,7 +87,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "31325d16-f28c-523b-97b1-c15b0839e601"
   },
   {
     "value": "OBLIVION for all.",
@@ -96,7 +96,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "331f0908-599b-59bf-bab4-133ebdab78c1"
   },
   {
     "value": "DOOM.",
@@ -105,7 +105,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "58fa5893-f52e-5a92-b7cc-193813738b94"
   },
   {
     "value": "No REPRIEVE.",
@@ -114,7 +114,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "f20391b2-ce51-5d44-a3df-27a648bd41c3"
   },
   {
     "value": "Resistance is FOOLISH.",
@@ -123,7 +123,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "c3925a3d-2a93-5f96-8daf-feb2ddf42ef4"
   },
   {
     "value": "All resistance will be ERADICATED.",
@@ -132,7 +132,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "cd35e805-e074-5eed-877e-b2107ff481ac"
   },
   {
     "value": "I SHALL return.",
@@ -141,7 +141,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "acad46b2-9530-52fb-9444-6121d681645e"
   },
   {
     "value": "Your efforts are wasted...",
@@ -150,7 +150,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "0d315558-d5f7-57c7-89c8-c15d80fccee2"
   },
   {
     "value": "I shall NOT end.",
@@ -159,7 +159,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "86e5b782-5552-5ebc-b454-50946e0d3c41"
   },
   {
     "value": "Merely a temporary setback.",
@@ -168,7 +168,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "f86fbe2e-e5c4-58d4-9191-d538f0f9cba9"
   },
   {
     "value": "Your doom is only delayed.",
@@ -177,7 +177,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "c60a9d9a-11f9-5982-b76b-b09df5c02c8a"
   },
   {
     "value": "You cannot destroy me. I shall rise again.",
@@ -186,7 +186,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "5ecd76c0-4a46-573e-ae62-0065577fcb53"
   },
   {
     "value": "I go to gather my strength.",
@@ -195,7 +195,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "1641393b-4204-53af-bf5e-35c3d75fbc29"
   },
   {
     "value": "Enjoy your fleeting victory. This is not over.",
@@ -204,6 +204,6 @@
     "action": "Other",
     "isHero": false,
     "isMelee": false,
-    "id": "48420cfd-0ee3-5b88-a755-923f8daa2eeb"
+    "id": "2c4bd330-846b-585c-98c3-22ba25398847"
   }
 ]

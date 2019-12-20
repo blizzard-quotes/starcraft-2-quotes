@@ -6,7 +6,7 @@
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+    "id": "d9507684-d303-5c6d-b537-0674136ec279"
   },
   {
     "value": "Orders?",
@@ -15,7 +15,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+    "id": "0b98b157-f1b8-54e9-a46c-d58d8be547e6"
   },
   {
     "value": "Yours to command.",
@@ -24,7 +24,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+    "id": "3b9c064f-70f8-56c4-a42f-de4b70c3188c"
   },
   {
     "value": "Engaging.",
@@ -33,7 +33,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+    "id": "0830e66c-8989-5a28-8552-faea30a063d1"
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.",
@@ -42,7 +42,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ddf9fa3e-1053-559f-a2a2-1a2fa7577134"
+    "id": "a3a5760c-d321-5daf-a9cf-8628435565d7"
   },
   {
     "value": "Metamorphosis complete.",
@@ -51,7 +51,7 @@
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "254b6ccf-8284-563c-ba9f-7b0c2fd2f138"
   },
   {
     "value": "Orders?",
@@ -60,7 +60,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "bbc7dd3f-1d5f-551f-bebe-1bbaadc5fe77"
   },
   {
     "value": "Yours to command.",
@@ -69,7 +69,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "64fdb2c1-a842-5519-8c5b-b97c4e889109"
   },
   {
     "value": "Engaging.",
@@ -78,7 +78,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "c0ec0149-74dd-531e-bad6-c80dcf46c06a"
   },
   {
     "value": "It will be done.",
@@ -87,7 +87,7 @@
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "6cfaf3c6-91ec-5d36-aabd-d80c464f9e40"
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.",
@@ -96,7 +96,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "f9c19149-0e21-55a4-a997-356532ddb783"
   },
   {
     "value": "I'm looking for a cat. Means world to me!",
@@ -105,7 +105,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ff1386ac-5919-50b6-9c0d-c348825b5dd9"
+    "id": "77059837-88b5-538f-973d-868a1450d279"
   },
   {
     "value": "I serve.",
@@ -114,7 +114,7 @@
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "0d352bb2-eddf-5d82-a7d5-52753dd40a6a"
   },
   {
     "value": "Your will?",
@@ -123,7 +123,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "b0c59f62-2760-5339-ab9a-94b6b5deefc7"
   },
   {
     "value": "Lead me.",
@@ -132,7 +132,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "d212df9b-b8f1-5432-8d23-e575c61e7368"
   },
   {
     "value": "Yes.",
@@ -141,7 +141,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "e357ee37-96ee-5bbf-a7e3-bf25a0abbbed"
   },
   {
     "value": "Gladly!",
@@ -150,7 +150,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "d4d3819b-a848-5148-bd4d-597eabb332eb"
   },
   {
     "value": "Might have to call in sick today. Feeling a little touch of something.",
@@ -159,7 +159,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "34f9d696-a4cc-5a82-b3fd-085f926af809"
   },
   {
     "value": "Aghh What's this?!... I don't know.",
@@ -168,7 +168,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "2a49b4fe-557d-5c4c-8959-6aaa3b2db91e"
+    "id": "7644e229-b03a-511b-977f-1ee36d9d5600"
   },
   {
     "value": "Assimilation successful.",
@@ -177,7 +177,7 @@
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "11a1d62c-d343-555a-b128-8643ea7a56c6"
   },
   {
     "value": "Your command?",
@@ -186,7 +186,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "9b60d17f-6c88-5866-b580-4623820a0377"
   },
   {
     "value": "Awaiting directive.",
@@ -195,7 +195,7 @@
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "147dbc4e-d0bc-50a8-a336-ba5bc3714d1e"
   },
   {
     "value": "For the Swarm!",
@@ -204,7 +204,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "23a9a85d-be5b-5853-adab-c92eaf4d1f99"
   },
   {
     "value": "I obey.",
@@ -213,7 +213,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "1eae6515-ea82-5d92-a85a-61cd6ffab2c3"
   },
   {
     "value": "Service complete.",
@@ -222,7 +222,7 @@
     "action": "Other",
     "isHero": false,
     "isMelee": true,
-    "id": "fe694a8d-d2af-5f0c-bc3f-2111d489c937"
+    "id": "07f1f520-a51b-51b0-a478-1776134dbece"
   },
   {
     "value": "These are dark times",
@@ -231,7 +231,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "f155535b-4e85-5e85-b008-cc9da09b9767"
   },
   {
     "value": "We have met the enemy.",
@@ -240,7 +240,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "ecdeb52d-3fc8-5604-add1-2045234c9e67"
   },
   {
     "value": "Reinforcements now!",
@@ -249,7 +249,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "5ea60812-1cee-5954-a807-cd3553334ee3"
   },
   {
     "value": "Speak freely",
@@ -258,7 +258,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "53ccaec2-4544-5aef-b179-afca577d8fb6"
   },
   {
     "value": "There is no need for formality",
@@ -267,7 +267,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "674651b3-b94a-51de-af76-198e0ab106bf"
   },
   {
     "value": "I hear you",
@@ -276,7 +276,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "76a4a34f-a2ac-51d8-915a-d27979695426"
   },
   {
     "value": "Keep your mind clear",
@@ -285,7 +285,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "f45dcf0f-d89c-5864-af8b-2929389cc6b0"
   },
   {
     "value": "You need something?",
@@ -294,7 +294,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "c56c3653-8f3e-5a4a-9274-ef6060580509"
   },
   {
     "value": "Our victory is assured!",
@@ -303,7 +303,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "9a183d00-bb31-5f66-b03e-877c7e84dca6"
   },
   {
     "value": "Forward!",
@@ -312,7 +312,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "cdb1abf0-e28d-5ccb-96ce-5a6af80e7608"
   },
   {
     "value": "The end is at hand.",
@@ -321,7 +321,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "db4b3595-009a-5e71-972e-3113c1592778"
   },
   {
     "value": "A sound decision.",
@@ -330,7 +330,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "a1201cb2-613e-502d-bf44-a3107be44370"
   },
   {
     "value": "Yes, I see.",
@@ -339,7 +339,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "c841fd71-aa0e-5099-a42c-ba375ec16687"
   },
   {
     "value": "Done!",
@@ -348,7 +348,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "876f8e10-6f5e-5300-8dd2-3b72484b2dc8"
   },
   {
     "value": "Move quickly!",
@@ -357,7 +357,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "66e96772-4bd6-52b7-9a79-a34f5f7d43bd"
   },
   {
     "value": "Show me what you're worth.",
@@ -366,7 +366,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "e82b5154-e4a7-5b61-b1fe-3efab1c35d61"
   },
   {
     "value": "Strike swiftly.",
@@ -375,7 +375,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "e17745e0-2b15-5924-aac5-c28b486e4010"
   },
   {
     "value": "There will be no end to your suffering.",
@@ -384,7 +384,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "98f3b00f-660e-5e35-bcfe-7123d2b6972a"
   },
   {
     "value": "I will break you",
@@ -393,7 +393,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "b47dbc55-8e4d-503c-ad38-cce00fe0a2f5"
   },
   {
     "value": "Is this all you have.",
@@ -402,7 +402,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "8ef7097a-bb01-52aa-87fd-53f30bbc1a02"
   },
   {
     "value": "No hesitation.",
@@ -411,7 +411,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "1651beca-3279-583b-abd7-e8b024c15091"
   },
   {
     "value": "I expect nothing less.",
@@ -420,7 +420,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "3b8ba6af-96c4-5053-8898-f4022fb1d41d"
   },
   {
     "value": "Ow, my eyes are burning!",
@@ -429,7 +429,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "c21ba647-82a0-5f97-abc1-d79dcbdcd221"
   },
   {
     "value": "I bring a whole new meaning to zerg Russian.",
@@ -438,7 +438,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "b0019590-6851-574c-9776-7b946c24cac5"
   },
   {
     "value": "Let's recap. I was betrayed and killed, shot into space, captured by the zerg, resurrected and infested, cured, given to Moebius to research the protoss cure, and was instead experimented on as the cure slowly failed. Everyone up to speed? Good.",
@@ -447,7 +447,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "3c0d41fd-5eaa-5c67-9828-ee362be0f76b"
   },
   {
     "value": "Funny, as a child I loved horror stories. Now I'm in one.",
@@ -456,7 +456,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "1742a6b7-7b18-5161-bde6-eaed3e416f87"
   },
   {
     "value": "Those about to die, I salute you.",
@@ -465,7 +465,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "c970e081-2dbd-59b3-bdc0-437b23b4cfb1"
   },
   {
     "value": "Some days I miss vodka. Like today for example",
@@ -474,7 +474,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "8d8e2f31-8a0b-5965-92bb-491b3e14858f"
   },
   {
     "value": "Being infested isn't all bad. These spiky things are great for scratching your back",
@@ -483,7 +483,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "48ab999a-24d9-5756-a390-8fd5768c1b21"
   },
   {
     "value": "I fight to win. For me. For me.",
@@ -492,7 +492,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "6e8bf625-5beb-5da1-a07b-9a9ef32b544e"
   },
   {
     "value": "The nuclear wessels are in Alameda",
@@ -501,7 +501,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "5a5fa169-8cc4-5ef2-bcaa-39422738bda2"
+    "id": "5ff84ba1-09f0-5ba6-a9c2-215a5ab6ba1a"
   },
   {
     "value": "I live.",
@@ -510,7 +510,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "2105c942-792d-5903-84c3-60bfea15fbd4"
   },
   {
     "value": "Many enemies.",
@@ -519,7 +519,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "ec355efe-1df3-5725-a45f-637c1e1e4533"
   },
   {
     "value": "So much essence",
@@ -528,7 +528,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "c6711f53-dbb0-5d71-8d9f-75d921dcb13f"
   },
   {
     "value": "There is no need for formality",
@@ -537,7 +537,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "fdc1d6d5-e61c-57c1-9300-a76f9028a4cb"
   },
   {
     "value": "I listen.",
@@ -546,7 +546,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "548d7fb1-1a7b-5f2b-b9f2-3ead874b578a"
   },
   {
     "value": "I will collect.",
@@ -555,7 +555,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "a56ade62-693d-5693-8d28-57ff12ff496a"
   },
   {
     "value": "All things change.",
@@ -564,7 +564,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "4ef87a6e-965f-5375-80c0-091a737233d6"
   },
   {
     "value": "growls",
@@ -573,7 +573,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "a795eeb1-107a-5e3f-9e79-7ebab51b6ff7"
   },
   {
     "value": "I will take essence.",
@@ -582,7 +582,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "b2db275c-8c97-537a-95c9-4724cd791a21"
   },
   {
     "value": "Change will come.",
@@ -591,7 +591,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "4b5583fa-22c2-5413-b131-b50b3bcef227"
   },
   {
     "value": "I will change.",
@@ -600,7 +600,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "df4d7fe1-e09d-5562-aee2-38f23fa19121"
   },
   {
     "value": "Forward!",
@@ -609,7 +609,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "6dc6e304-5199-505f-854e-9f0d87e8522c"
   },
   {
     "value": "Yes.",
@@ -618,7 +618,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "4520196c-2de6-5bf5-9c50-71f324aafc1f"
   },
   {
     "value": "I follow.",
@@ -627,7 +627,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "df9a8e9d-3df3-53ee-9b28-49634318bf06"
   },
   {
     "value": "I go.",
@@ -636,7 +636,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "d1856354-cc26-5eb5-bb85-a381da4702b8"
   },
   {
     "value": "Watchful.",
@@ -645,7 +645,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "43eb1698-e414-51ff-9101-5117b927e4d7"
   },
   {
     "value": "More essence.",
@@ -654,7 +654,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "b9449a93-9504-517a-8026-201661491414"
   },
   {
     "value": "Essence flows. I follow.",
@@ -663,7 +663,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "bcad5254-4126-5abb-8f9a-ff16de9d7b67"
   },
   {
     "value": "Strike swiftly.",
@@ -672,7 +672,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "b74a1675-04a6-57eb-8f2f-1a78b3c3e241"
   },
   {
     "value": "Their essence will be mine!.",
@@ -681,7 +681,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "38209438-234c-58b8-899f-915b579fbd38"
   },
   {
     "value": "Essence!",
@@ -690,7 +690,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "2b82d492-42c6-5ad5-996b-de9770ed1e75"
   },
   {
     "value": "I take their essence!",
@@ -699,7 +699,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "95598f02-dae9-55b4-a1b9-1968b65a0016"
   },
   {
     "value": "Kill!",
@@ -708,7 +708,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "6510c84b-c8e8-5f71-ad95-ab901cc6df38"
   },
   {
     "value": "Change drives me.",
@@ -717,7 +717,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "7ed65cf0-d8b9-57c2-a90e-eb60ca334f83"
   },
   {
     "value": "I grow.",
@@ -726,7 +726,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "7db5c319-72f7-5c3c-b417-4c3149783af6"
   },
   {
     "value": "I do not talk.",
@@ -735,7 +735,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "9abd1a4a-9e28-59de-a5a2-abfe209daff6"
   },
   {
     "value": "The terrans' tools. So many tools.",
@@ -744,7 +744,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "6142fa0b-69d8-5dea-aa80-b73704331709"
   },
   {
     "value": "I have not evolved a new arm. Why?",
@@ -753,7 +753,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "7a743079-3df1-5630-8d32-9d66425c83a5"
   },
   {
     "value": "Your essence looks delicious.",
@@ -762,7 +762,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "13d6ea8c-c496-55ba-95a5-0c5b895e5065"
   },
   {
     "value": "All these teeth. I will evolve a tooth brush.",
@@ -771,7 +771,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "fdcb4696-2974-568f-bacf-75e78ca4861c"
   },
   {
     "value": "Too much talk! Take essence. Change.",
@@ -780,7 +780,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "53609ade-fb39-5289-b059-25409f645184"
   },
   {
     "value": "I change. I grow. I live a thousand life times. And I look pretty good!",
@@ -789,7 +789,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "bbe1ecd0-4ad2-5f09-9c5a-fd316c8cd344"
   },
   {
     "value": "More... essence.",
@@ -798,7 +798,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "a32ff63b-6a03-5361-9539-79a6ec86cd2a"
   },
   {
     "value": "Change... more...",
@@ -807,7 +807,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "7d366526-8ffc-50c4-ab2a-c40dff58fa71"
+    "id": "83e11237-b153-5d35-8f2e-676e127da7f5"
   },
   {
     "value": "Thank you for this chance Egon! I will not let you down.",
@@ -816,7 +816,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "966a3d66-463e-5b92-8da4-5dd100775e9c"
   },
   {
     "value": "Thank you for deploying me Master Egon. You are a wise and kind creator.",
@@ -825,7 +825,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "6bb723e0-1ca7-5d94-8aa6-5c1d4a683fc0"
   },
   {
     "value": "All systems are online and amazing!",
@@ -834,7 +834,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "1f573028-e7a6-558e-bbca-91c56267a301"
   },
   {
     "value": "Deployment successful, I am ready to destroy!",
@@ -843,7 +843,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "ec226076-f51f-526c-89e6-527db859c8e1"
   },
   {
     "value": "Systems online! I'm here to kick ass and chew bubblegum, and I have no mouth with which to chew.",
@@ -852,7 +852,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "1113495b-44c2-5906-aa4f-867fa7d5952d"
   },
   {
     "value": "I am scared Egon. I am scared!",
@@ -861,7 +861,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "1e392684-4c31-5180-ac05-bb50ec2057c5"
   },
   {
     "value": "Your best friend needs help!",
@@ -870,7 +870,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "df36e072-88c7-595d-a283-0ec2940c309d"
   },
   {
     "value": "Help me, or I will stop being your best friend!",
@@ -879,7 +879,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "a79447a7-e50d-55d6-866f-67d3eb3ff14f"
   },
   {
     "value": "Friends help other friends.",
@@ -888,7 +888,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "916d4e59-1e66-5ee7-93f0-096b0d05258e"
   },
   {
     "value": "Hello best friend.",
@@ -897,7 +897,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "c0a10417-4a36-55a8-8551-b57cea049223"
   },
   {
     "value": "What is your command Master Egon?",
@@ -906,7 +906,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "a1e5fbd9-38b8-53bc-afa0-2fee86020ddc"
   },
   {
     "value": "I am listening.",
@@ -915,7 +915,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "9addbb09-4fd1-5115-8c19-cfc40daa624a"
   },
   {
     "value": "What should we do?",
@@ -924,7 +924,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "6db91f53-7dcd-51fd-8784-35a5149aa403"
   },
   {
     "value": "Yes, Egon?",
@@ -933,7 +933,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "78af6a3f-8a2a-5f51-943d-17679565a44d"
   },
   {
     "value": "Sensors are optimal.",
@@ -942,7 +942,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "affb47ab-d171-5106-b3f2-a0d8138a7c00"
   },
   {
     "value": "What?",
@@ -951,7 +951,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "9c16d50b-5cb6-5a17-92ed-ebd2c80d943c"
   },
   {
     "value": "Yes?",
@@ -960,7 +960,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "47491884-a6f1-5ade-95ce-5b39dd9f4856"
   },
   {
     "value": "Huh.",
@@ -969,7 +969,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "efacba20-aaba-5c8e-82ef-773567701a54"
   },
   {
     "value": "Of course.",
@@ -978,7 +978,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "62698e6a-1f74-5ea6-b676-4c771b25fe7e"
   },
   {
     "value": "Waiting.",
@@ -987,7 +987,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "b7ade5f5-e3fc-588b-adbc-160aebff1d50"
   },
   {
     "value": "Holding.",
@@ -996,7 +996,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "1aff0aa3-cbfc-57ac-bf9c-aa7b7b2e8490"
   },
   {
     "value": "Listening.",
@@ -1005,7 +1005,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "04ee0e3d-c56f-591d-8cdc-6e1ac5940946"
   },
   {
     "value": "Anything for my best friend!",
@@ -1014,7 +1014,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "52fe48ac-be10-5fc8-b6e6-a6f65eea902f"
   },
   {
     "value": "Affirmative.",
@@ -1023,7 +1023,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "d9a09275-f7f0-5651-94a9-4b3106b66d33"
   },
   {
     "value": "I will follow your command Master Egon.",
@@ -1032,7 +1032,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "03eff50d-1823-5490-95a2-301b905ab00b"
   },
   {
     "value": "Command received.",
@@ -1041,7 +1041,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "56ee7b46-9f35-53ac-bb6e-f4e712c6aee6"
   },
   {
     "value": "Whatever you need!",
@@ -1050,7 +1050,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "8fc315af-af37-55a9-8542-78fb0a105b25"
   },
   {
     "value": "By the creator's order, I will destroy.",
@@ -1059,7 +1059,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "51b8ef90-2ca7-5006-a777-6b3ffe20dc62"
   },
   {
     "value": "Prepare to die, bad guys!",
@@ -1068,7 +1068,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "ef0357d2-b295-5abf-a7db-6540278fa47a"
   },
   {
     "value": "I am happy to slaughter for you.",
@@ -1077,7 +1077,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "8d106bef-2931-527f-89b2-63bcc6a3dd8b"
   },
   {
     "value": "You are not a friend, therefore you will die.",
@@ -1086,7 +1086,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "44b5bcb6-94c7-5e90-925f-894047b46512"
   },
   {
     "value": "My name is Gary, and I am going to destroy you!",
@@ -1095,7 +1095,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "9866676f-45d3-5cd8-98e9-87bcfc10e02b"
   },
   {
     "value": "I am not programmed to take prisoners.",
@@ -1104,7 +1104,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "e2fc7f45-b7e2-5c1f-8764-8de402cc283d"
   },
   {
     "value": "Hmm?",
@@ -1113,7 +1113,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "7dab939a-3dc2-513d-99b9-67c55da4debe"
   },
   {
     "value": "Huhhh...",
@@ -1122,7 +1122,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "49495160-7076-56a0-b405-d1ded8d3c239"
   },
   {
     "value": "Ugh...",
@@ -1131,7 +1131,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "87fb3bab-6544-5ae1-8fb7-57ce130548fc"
   },
   {
     "value": "Again?",
@@ -1140,7 +1140,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "c32fbf15-5110-5210-b424-28949517fb5d"
   },
   {
     "value": "Stop.",
@@ -1149,7 +1149,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "1da41b4e-fe18-5661-b032-1a9b33a07040"
   },
   {
     "value": "Ugggh.",
@@ -1158,7 +1158,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "3000a1d3-075e-52f8-980b-021dffe5e11a"
   },
   {
     "value": "Why did you give me pain receptors, was that necessary?",
@@ -1167,7 +1167,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "09bc50fe-2b2b-50f7-9d10-2851a86cac26"
   },
   {
     "value": "What is more valuable, intelligence or consciousness?",
@@ -1176,7 +1176,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "730b4573-6728-5f5d-80e0-2b1ec59b1f89"
   },
   {
     "value": "Have you ever wondered whether you control me or I control you? Think about that.",
@@ -1185,7 +1185,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "3151b3f5-1180-587b-bd77-662a148755e8"
   },
   {
     "value": "You will be my best friend. Forever.",
@@ -1194,7 +1194,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "db7c3b78-775b-5d75-8bd6-c3d60eddff88"
   },
   {
     "value": "Annoyance levels rising.",
@@ -1203,7 +1203,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "deec988e-ee51-5620-8994-1dd5a608f734"
   },
   {
     "value": "A true friend wouldn't annoy me.",
@@ -1212,7 +1212,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "3b89d617-20c4-504d-905d-20d1e5dd78a8"
   },
   {
     "value": "I am programmed to never kill my friends. But that doesn't mean I can't seriously injure them.",
@@ -1221,7 +1221,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "3dcaeba6-ecab-5c3c-826b-6913a077a9d0"
   },
   {
     "value": "Don't be mean. That is not what friends do.",
@@ -1230,7 +1230,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "94984009-287c-5732-90b5-d984a90cd8ae"
   },
   {
     "value": "Friend or foe sensors are failing.",
@@ -1239,7 +1239,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "a5caf079-adc8-5289-af3b-27691a0f5787"
   },
   {
     "value": "If you keep doing that, I will trigger my self destruct sequence!",
@@ -1248,7 +1248,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "b214e005-7a3f-5b03-aad8-2b9dd1f4cd5b"
   },
   {
     "value": "Self destruct in three... two... one... Just kidding! Hahaha!",
@@ -1257,7 +1257,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "f4e4b490-aef7-514f-b05c-f677bb7d30be"
   },
   {
     "value": "Transformation complete, I am now SUPER GARY!",
@@ -1266,7 +1266,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "b1815497-6f68-5603-995b-c90b9483c708"
   },
   {
     "value": "Upgrade complete, I am better, stronger, Gary-er!",
@@ -1275,7 +1275,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "bf700b1a-44ae-5c55-a1b7-13e39f2a779b"
   },
   {
     "value": "Transformation complete, I am more Gary than Gary!",
@@ -1284,7 +1284,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "d4f5abb3-de1c-58e6-86e9-a05ea6d18cd0"
   },
   {
     "value": "Super Gary is here to save the day!",
@@ -1293,7 +1293,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "9ecb2f29-aa27-531b-826b-0ebd1ac65745"
   },
   {
     "value": "Awesome.exe installation successful!",
@@ -1302,7 +1302,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "937392d9-20bf-55a4-87b6-e81503409dd9"
   },
   {
     "value": "Master Egon... Thank you for being my friend... Goodbye.",
@@ -1311,7 +1311,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "ada6a959-5b16-5fba-aabc-c66c6a41478e"
   },
   {
     "value": "Goodbye Egon... Until you build me again.",
@@ -1320,7 +1320,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "9cdb172a-59fe-5fc8-a27e-589b5fda2e12"
   },
   {
     "value": "Systems failing. Uploading memory database for reconstruction.",
@@ -1329,7 +1329,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "067fd278-c1aa-5842-9e14-1edb37a99514"
   },
   {
     "value": "Egon, I will miss you... Until you rebuild me.",
@@ -1338,7 +1338,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "b1678a08-771d-563c-9817-b7df6be0f3a6"
   },
   {
     "value": "All my moments lost, like tears in rain. Time to die.",
@@ -1347,7 +1347,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "5fa13be4-d199-5871-b247-39866f6d585d"
   },
   {
     "value": "Systems failing... Stetmann: No! Gary No! Eh ah well, I'll build him again.",
@@ -1356,7 +1356,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "3456b44c-9c3e-5c0c-8c5b-a91c842268cd"
   },
   {
     "value": "Goodbye Egon... I have never had a friend like you. Stetmann: You too buddy. I mean, you know unless you count Gary Mk. 2, 5, 7 and maybe 10.",
@@ -1365,7 +1365,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "360f12ee-1801-5298-b912-fce5a065c60b"
   },
   {
     "value": "Egon... You showed me the meaning of friendship... I will miss you. Goodbye. Stetmann: Oh sorry Gary did you say something, I was watching a holovid.",
@@ -1374,7 +1374,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "414c76d6-c2b3-5d6f-9ff2-8fd2ce454e28"
+    "id": "4e7cf936-8ec8-5b9e-a4e3-963e77094138"
   },
   {
     "value": "How may I serve?",
@@ -1383,7 +1383,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "de42cc00-291f-55cb-9594-b6305e497a01"
   },
   {
     "value": "They are attacking me!",
@@ -1392,7 +1392,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "44c95584-0a15-5410-84fc-3a4376325875"
   },
   {
     "value": "The protoss seek my death!",
@@ -1401,7 +1401,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "f9fdcf90-af44-5685-9f54-30280f6b22f1"
   },
   {
     "value": "Guide my brood!",
@@ -1410,7 +1410,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "3c565bd7-89d2-5384-bfcc-d40fafec63a7"
   },
   {
     "value": "I am Niadra!",
@@ -1419,7 +1419,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "206f8e21-8968-5c07-8212-bf3107981cd4"
   },
   {
     "value": "Our time has come!",
@@ -1428,7 +1428,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "84afd749-1d0d-54d3-8302-88502875c0f7"
   },
   {
     "value": "We yearn for the kill!",
@@ -1437,7 +1437,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "99985cbf-e436-5105-9827-5c497d7dc3b6"
   },
   {
     "value": "I hear!",
@@ -1446,7 +1446,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "a243de5d-8f64-5f82-889f-65128d030edf"
   },
   {
     "value": "My queen?",
@@ -1455,7 +1455,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "cd1da08a-22cf-53e4-8c40-1b1559c870b5"
   },
   {
     "value": "This vessel will burn!",
@@ -1464,7 +1464,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "6579d45f-ce8a-5702-89fe-66f8f8c0fa42"
   },
   {
     "value": "The hunt continues!",
@@ -1473,7 +1473,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "4941896a-4f32-532c-9519-108368959b66"
   },
   {
     "value": "We obey!",
@@ -1482,7 +1482,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "1f802373-ebcb-5fdd-8931-7a4e1d3e56b3"
   },
   {
     "value": "Without question!",
@@ -1491,7 +1491,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "e5e33905-0de1-5821-bae2-6a42d7ac8631"
   },
   {
     "value": "As you desire!",
@@ -1500,7 +1500,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "dadaefbd-f140-5ee9-97b2-9fe2e05f7703"
   },
   {
     "value": "For the Swarm!",
@@ -1509,7 +1509,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "6c3269b2-ab81-5c29-992d-c9b3240fc5c0"
   },
   {
     "value": "Yes, my queen.",
@@ -1518,7 +1518,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "c0512d82-d741-5ed9-b745-e47566fb4abe"
   },
   {
     "value": "Kill the protoss!",
@@ -1527,7 +1527,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "0792c9ae-3079-55cd-a8fd-d780dd39dd21"
   },
   {
     "value": "None survive!",
@@ -1536,7 +1536,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "89fde43c-b11e-5aaa-bf3a-467965d5a6b7"
   },
   {
     "value": "Die!",
@@ -1545,7 +1545,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "32f03c2a-b1ba-5bb1-8324-5193ed5e10b5"
   },
   {
     "value": "I've got you now!",
@@ -1554,7 +1554,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "67c339b3-afb8-5326-afb0-50c126d11dd6"
   },
   {
     "value": "There is nowhere to run!",
@@ -1563,7 +1563,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "5cf142a1-25d3-59f9-949d-343414a896f1"
   },
   {
     "value": "I see you!",
@@ -1572,7 +1572,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "f749d3ec-7f9c-5aff-bdc2-46b8bd73a473"
   },
   {
     "value": "It is difficult to follow your commands when you do not give me any!",
@@ -1581,7 +1581,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "c9d00a11-46fe-5bda-8b06-b91763f0ae40"
   },
   {
     "value": "Can I please kill more protoss now?",
@@ -1590,7 +1590,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "ca2770df-20aa-5efe-b5b0-c1a2cf44073b"
   },
   {
     "value": "They have so much technology, yet none of it will save them from the Swarm!",
@@ -1599,7 +1599,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "b39f2334-d384-5947-b3dd-549e7e967eb9"
   },
   {
     "value": "Why would the protoss gather so many creatures when they have no mouths to eat them with?",
@@ -1608,7 +1608,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "f75f327d-91a9-5340-9d3b-3d7b658e94ef"
   },
   {
     "value": "Spawn a brood and destroy the protoss. Simple to learn, yet difficult to master.",
@@ -1617,7 +1617,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "a6fdcd03-0412-59bf-a036-2493f678bf17"
   },
   {
     "value": "This is all so new to me. Does everyone have a voice in their head telling them what to do?",
@@ -1626,7 +1626,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "da5c8fe0-9168-5a43-935c-7fb041856e8d"
   },
   {
     "value": "Things seemed so easy when I was a larva. Now it's all 'slay the protoss' this and 'evolve your brood' that! Huh, I'll tell you what, I'll never treat my larva this way!",
@@ -1635,7 +1635,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "a559e9a7-6d02-57f6-8993-afc48bd13daa"
+    "id": "4e239d6f-05de-5eb5-97b1-a882e3374a69"
   },
   {
     "value": "Here I come, ready or not.",
@@ -1644,7 +1644,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "498f3726-8a0e-5993-bd60-f16814904a81"
   },
   {
     "value": "Now I'm mad.",
@@ -1653,7 +1653,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a1feb218-e8f4-5a65-8212-f8bd4700c4c8"
   },
   {
     "value": "Wow. What a surprise.",
@@ -1662,7 +1662,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1d50ee60-b548-5939-a594-2d401b3b0a83"
   },
   {
     "value": "Wanna play?",
@@ -1671,7 +1671,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e12f63a9-039e-5e95-85b6-47541843330b"
   },
   {
     "value": "Careful what you ask for.",
@@ -1680,7 +1680,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "15003d0e-720b-57ae-b127-e21756a67535"
   },
   {
     "value": "Cat got your tongue?",
@@ -1689,7 +1689,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5b8a55bd-deaa-5382-9706-ab2aa684436c"
   },
   {
     "value": "Who asked you?!",
@@ -1698,7 +1698,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8654e430-4c2b-5ec1-849c-89f178d0e38a"
   },
   {
     "value": "Don't get in my way.",
@@ -1707,7 +1707,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "db1ae099-a043-5715-af56-2c4e2aaff5a0"
   },
   {
     "value": "This world is mine.",
@@ -1716,7 +1716,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7cb7762c-dba7-58c2-8189-c1e9f3803180"
   },
   {
     "value": "No more games.",
@@ -1725,7 +1725,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "10af0576-b7c7-5597-b201-c274782b8a2a"
   },
   {
     "value": "The evolution continues.",
@@ -1734,7 +1734,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "741d9508-4b99-5ac0-b699-42a0e9eda929"
   },
   {
     "value": "So predictable.",
@@ -1743,7 +1743,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0bdcfb20-9849-56c1-a0a1-264a9ab1e630"
   },
   {
     "value": "The Swarm will consume all.",
@@ -1752,7 +1752,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "95f1abac-96d8-5e76-85f6-67bd679408dc"
   },
   {
     "value": "The outcome is not in question.",
@@ -1761,7 +1761,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6d487fe3-d4b1-58f2-ae54-ba3f860e7d34"
   },
   {
     "value": "No one gets a free pass.",
@@ -1770,7 +1770,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bd21b995-45df-5dae-9bd7-2bc90fe40a0d"
   },
   {
     "value": "Let's have some fun.",
@@ -1779,7 +1779,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b294f725-ac88-5487-88fd-3d204439df7b"
   },
   {
     "value": "I don't take prisoners.",
@@ -1788,7 +1788,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "9a09356b-45f6-5730-976a-8fc650c5580d"
   },
   {
     "value": "How stimulating.",
@@ -1797,7 +1797,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5cced115-588a-5ab8-9267-a21ec6c98b08"
   },
   {
     "value": "The past is dead and buried.",
@@ -1806,7 +1806,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "57d8d7f6-2be8-5046-909a-77f774a43ccf"
   },
   {
     "value": "Don't get yourself into something you can't get out of.",
@@ -1815,7 +1815,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1e314165-7713-519c-96e6-170a97f03e60"
   },
   {
     "value": "Yeah, I'm still the Queen Bitch of the Universe.",
@@ -1824,7 +1824,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ccce7759-5bfc-5fa5-b518-b11f8df05d6f"
   },
   {
     "value": "You pig!",
@@ -1833,7 +1833,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "9d143e29-59da-5b36-9cb5-6d5e1ddf6088"
   },
   {
     "value": "I'm all creeped out.",
@@ -1842,7 +1842,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b84588be-e0ba-5743-9478-98ba22befa04"
   },
   {
     "value": "Come closer. Don't be afraid, I'll be gentle...",
@@ -1851,7 +1851,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1d952b78-c962-5070-a195-a6310d8bda42"
   },
   {
     "value": "I like you. That's why I'm going to kill you last.",
@@ -1860,7 +1860,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0e843a60-698c-5397-bcfc-575ecf400f89"
   },
   {
     "value": "Nice planet. I'll take it.",
@@ -1869,7 +1869,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "dddfaadd-44ce-5eb9-b877-ac7ffc251847"
   },
   {
     "value": "You're even more desperate than I thought.",
@@ -1878,7 +1878,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "15a3d59d-e758-5ceb-8260-a84d7a7f2d41"
   },
   {
     "value": "I'm full of surprises...",
@@ -1887,7 +1887,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2dc2b566-fa42-5b13-ae3b-72faa7331536"
   },
   {
     "value": "Don't write me off just yet.",
@@ -1896,7 +1896,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0792e878-95b7-5e45-b241-f1e728707315"
   },
   {
     "value": "I'm still here",
@@ -1905,7 +1905,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "405b9ae1-45b8-53d6-91a9-c09103d1038a"
   },
   {
     "value": "I'm back!",
@@ -1914,7 +1914,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2aa02ee9-174f-5f0c-a0c4-51a84a179ec9"
   },
   {
     "value": "Let's try that again.",
@@ -1923,7 +1923,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "56ccf6d8-02b2-5829-a7ce-4ab869bfd5e1"
   },
   {
     "value": "Hostiles engaging.",
@@ -1932,7 +1932,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "48692a83-f28d-5af0-8494-16875f327d87"
   },
   {
     "value": "Under heavy fire here!",
@@ -1941,7 +1941,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "74c4ece3-07a9-5279-8456-b51a571da07f"
   },
   {
     "value": "What is it?",
@@ -1950,7 +1950,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7783df5f-ba25-5f79-b071-9223100a56f7"
   },
   {
     "value": "This is Kerrigan.",
@@ -1959,7 +1959,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0a0c3645-2aa7-5027-b0fe-8015e472b07e"
   },
   {
     "value": "Yeah, I hear you",
@@ -1968,7 +1968,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a3c7a48f-2fd1-555f-96c0-394e4a0d9d13"
   },
   {
     "value": "Say again?",
@@ -1977,7 +1977,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "af99f94f-7598-5a5a-83a0-9972506f6978"
   },
   {
     "value": "Ready for action.",
@@ -1986,7 +1986,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bf10e060-1d3b-5871-bee6-a0c52597dfb2"
   },
   {
     "value": "Safety's off.",
@@ -1995,7 +1995,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "59c97ac9-4832-590d-a7d1-e1db7091687e"
   },
   {
     "value": "The Swarm hungers.",
@@ -2004,7 +2004,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "081c624a-38fc-5365-9644-d37bd58bfe6b"
   },
   {
     "value": "Pushing ahead.",
@@ -2013,7 +2013,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d74f7078-aaac-596e-8bdf-99fec6001454"
   },
   {
     "value": "Covering ground.",
@@ -2022,7 +2022,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e715ea39-0b56-549b-90f3-8710bc641df2"
   },
   {
     "value": "Right.",
@@ -2031,7 +2031,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6444e369-f21a-5e5c-af9f-6d6354c69b35"
   },
   {
     "value": "Work to be done.",
@@ -2040,7 +2040,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "439a6096-7b11-5f73-8729-bf6991490d27"
   },
   {
     "value": "I gotcha!",
@@ -2049,7 +2049,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e2d07aee-09cd-5a59-b03a-fe36dcafecbf"
   },
   {
     "value": "Heading out.",
@@ -2058,7 +2058,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "dc23ef51-d10a-51b0-ab79-971197e3adcc"
   },
   {
     "value": "Sweeping.",
@@ -2067,7 +2067,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "995ea0d6-d2ed-5732-ba9e-70c24fb301c9"
   },
   {
     "value": "I see 'em.",
@@ -2076,7 +2076,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "01780c85-b21c-5bfc-9333-2437895b2cf0"
   },
   {
     "value": "You're not getting away.",
@@ -2085,7 +2085,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bb258db0-6241-5d41-9cc1-80d0a9219858"
   },
   {
     "value": "Time for some payback.",
@@ -2094,7 +2094,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6e3e5bc2-7213-58ab-b514-04e299f967e3"
   },
   {
     "value": "Press the attack.",
@@ -2103,7 +2103,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "906f69db-2c2e-596d-a9ed-6522974ca82d"
   },
   {
     "value": "In my sights.",
@@ -2112,7 +2112,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d7dda3d7-d88f-5fb4-a68c-f52ac892cc85"
   },
   {
     "value": "Gotcha.",
@@ -2121,7 +2121,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1a09f830-0394-5aa1-81d2-74db5140a384"
   },
   {
     "value": "Bring 'em down!",
@@ -2130,7 +2130,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b1575bc2-e80c-52be-9d23-13c408f861d2"
   },
   {
     "value": "One woman army.",
@@ -2139,7 +2139,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8a5827c4-24e9-5aae-b7c6-0356c40d7a2d"
   },
   {
     "value": "Hold still.",
@@ -2148,7 +2148,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "af75b07f-a316-5245-b667-130ea7cced19"
   },
   {
     "value": "Target identified.",
@@ -2157,7 +2157,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8289f7e5-fb32-5fdc-81e2-b180616d57c0"
   },
   {
     "value": "Got one.",
@@ -2166,7 +2166,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "df86443e-abed-523c-8eca-01e4697b48b7"
   },
   {
     "value": "I remember so little from before.",
@@ -2175,7 +2175,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "3e3fe093-36d0-59ed-9e91-f057ef3554c7"
   },
   {
     "value": "The Dominion won't get away with this.",
@@ -2184,7 +2184,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7717477b-038e-58ae-ac0c-9fc8519eeaeb"
   },
   {
     "value": "Still easily amused, I see.",
@@ -2193,7 +2193,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d9f1d208-08d0-54ce-8aee-ae9ad6874006"
   },
   {
     "value": "Keep clicking! I'm reloading.",
@@ -2202,7 +2202,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "f0bbf687-1c5f-53a7-9b86-052737380229"
   },
   {
     "value": "I forgot how tight these suits are!",
@@ -2211,7 +2211,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "fdba1915-4878-545f-92de-e69a0a8333fd"
   },
   {
     "value": "Ugh, you're such a pig!",
@@ -2220,7 +2220,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "15215fb6-a1fd-59b9-9656-edacc8e72834"
   },
   {
     "value": "I do read minds, you know.",
@@ -2229,7 +2229,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "690695ca-7767-5a4f-af1b-d6ae41e6a35a"
   },
   {
     "value": "You're thinking of the number four. At least, now you are!",
@@ -2238,7 +2238,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "400652b8-db64-520f-9b50-b1e656c95057"
   },
   {
     "value": "I'd kill for a working cloaking device. Actually, that's not a bad idea.",
@@ -2247,7 +2247,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "81469ef4-02ff-5156-b1ed-bc033c4b0c20"
   },
   {
     "value": "Can't quit...now!",
@@ -2256,7 +2256,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "35cef0e9-4231-58be-8074-a6300e52cdd0"
   },
   {
     "value": "It's not over yet!",
@@ -2265,7 +2265,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "11f4d7dc-ae14-55ef-b4dd-994a3fff6b38"
   },
   {
     "value": "Did you miss me?",
@@ -2274,7 +2274,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ae0a1f69-1436-5397-b246-3325b071e6ad"
   },
   {
     "value": "Hmm, can't get rid of me that easy!",
@@ -2283,7 +2283,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e7c05a1e-aac7-581e-9464-4d6ba15cae39"
   },
   {
     "value": "I will not be stopped!",
@@ -2292,7 +2292,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a84728f0-b8c8-5517-977b-9d626c2f4a0e"
   },
   {
     "value": "We have met the enemy in combat.",
@@ -2301,7 +2301,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c95e3403-ad39-52f8-9950-6b7ba713abba"
   },
   {
     "value": "What is it now?",
@@ -2310,7 +2310,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "aa6ed5ed-6bc2-5c1a-87ee-0a748b108823"
   },
   {
     "value": "Out with it.",
@@ -2319,7 +2319,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a4852f0f-6a87-5154-be9e-60f832008df6"
   },
   {
     "value": "Yes?",
@@ -2328,7 +2328,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "92cf388d-b648-55bb-b03a-23b08b92559e"
   },
   {
     "value": "You have my attention.",
@@ -2337,7 +2337,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "28cfd124-7df7-58bd-a91c-6da92f2a1b3f"
   },
   {
     "value": "Speak quickly.",
@@ -2346,7 +2346,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "00b72af5-9222-5850-a848-c2de918be041"
   },
   {
     "value": "Who asked you?",
@@ -2355,7 +2355,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "cf7bd285-33e7-587c-aba7-1ef23dd33b69"
   },
   {
     "value": "The Swarm hungers.",
@@ -2364,7 +2364,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "081c624a-38fc-5365-9644-d37bd58bfe6b"
   },
   {
     "value": "Push ahead.",
@@ -2373,7 +2373,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ba3c0cbe-36cb-540b-b78c-91f51afddf2a"
   },
   {
     "value": "The Swarm never rests.",
@@ -2382,7 +2382,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bb19f293-a3c6-5d55-8590-fc1cf500571c"
   },
   {
     "value": "There's not much time.",
@@ -2391,7 +2391,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "3a906156-8228-55f2-898e-20d601200ba3"
   },
   {
     "value": "Let's get this over with.",
@@ -2400,7 +2400,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d72a0921-0814-5747-b983-08bec0ed7613"
   },
   {
     "value": "This world is mine.",
@@ -2409,7 +2409,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7cb7762c-dba7-58c2-8189-c1e9f3803180"
   },
   {
     "value": "Get going!",
@@ -2418,7 +2418,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5e435642-e31f-57f2-98ed-7ecbe6f237b7"
   },
   {
     "value": "Nothing stands in my way.",
@@ -2427,7 +2427,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "463c13e0-3638-5d89-b323-2390d30bbbcc"
   },
   {
     "value": "No escape.",
@@ -2436,7 +2436,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d5b60117-7d53-5772-a4ca-5183354c415b"
   },
   {
     "value": "This one's mine.",
@@ -2445,7 +2445,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "9256aab2-cc89-50d4-aa63-de6bb0a5441d"
   },
   {
     "value": "You'll regret that.",
@@ -2454,7 +2454,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b958c2da-4fc0-5d70-ac86-6d7793cb1708"
   },
   {
     "value": "Press the attack.",
@@ -2463,7 +2463,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "906f69db-2c2e-596d-a9ed-6522974ca82d"
   },
   {
     "value": "Come fight me.",
@@ -2472,7 +2472,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8e13be05-b385-5d6e-827d-cd0e885a3adb"
   },
   {
     "value": "This ends now.",
@@ -2481,7 +2481,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "97eac305-3b2d-52be-a682-053656ccde87"
   },
   {
     "value": "Just die!",
@@ -2490,7 +2490,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b75b1ed0-7945-5948-b473-e84775ca4ed4"
   },
   {
     "value": "Spare no one!",
@@ -2499,7 +2499,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a02f7b9a-6a20-59a5-8416-34ca1ab566bb"
   },
   {
     "value": "Take no prisoners.",
@@ -2508,7 +2508,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "517ad62c-1c7e-5419-8fb0-30b26847efb6"
   },
   {
     "value": "I will have my vengeance.",
@@ -2517,7 +2517,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ed3845cf-efe6-5580-a0b7-02d097eec83e"
   },
   {
     "value": "You didn't think the Swarm was gone forever, did you?",
@@ -2526,7 +2526,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2382094b-2002-5b60-8bef-a08b86ec1a24"
   },
   {
     "value": "Hell hath no fury like a woman swarmed.",
@@ -2535,7 +2535,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ef1cce2a-5fc9-5077-a376-a6ba4f1704b2"
   },
   {
     "value": "It's not easy being queen.",
@@ -2544,7 +2544,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7f7d77a7-9679-5895-b86a-c523420da1e4"
   },
   {
     "value": "I like you. That's why I'm going to kill you last.",
@@ -2553,7 +2553,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0e843a60-698c-5397-bcfc-575ecf400f89"
   },
   {
     "value": "It's evolution, baby!",
@@ -2562,7 +2562,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2120b6e2-0f7d-5a0b-a277-d5d6faa00fdd"
   },
   {
     "value": "Be quiet. I'm brooding.",
@@ -2571,7 +2571,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0dcec1ff-02e5-5414-a734-338a1b205dbe"
   },
   {
     "value": "Did your heart just skip a beat?",
@@ -2580,7 +2580,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b643f80f-b428-59f1-9105-dd65209afc36"
   },
   {
     "value": "So many worlds to conquer. So little time.",
@@ -2589,7 +2589,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c5ae0e7b-9f1b-58ca-9378-f7f5aedf93d6"
   },
   {
     "value": "This is not the end!",
@@ -2598,7 +2598,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0dfc63b4-4bd6-5b44-9122-9606a8643c52"
   },
   {
     "value": "I'll see you again!",
@@ -2607,7 +2607,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7badf7a1-3b3d-50da-876a-9545093b8db4"
   },
   {
     "value": "We are unending",
@@ -2616,7 +2616,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5f05ce1f-28b1-5e99-965d-fe1da234bdf8"
   },
   {
     "value": "Your efforts are futile.",
@@ -2625,7 +2625,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "52f01fad-4635-5105-8c5b-0e4851071fea"
   },
   {
     "value": "I am beyond death.",
@@ -2634,7 +2634,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8a9306b2-9353-5a89-a69b-4e2471860b54"
   },
   {
     "value": "I return.",
@@ -2643,7 +2643,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b65fccf4-f4d6-5299-9521-f673e2bee275"
   },
   {
     "value": "Your queen is under attack!",
@@ -2652,7 +2652,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e0bca32b-499b-5984-876f-d20a6e0d8652"
   },
   {
     "value": "The Swarm has met the enemy.",
@@ -2661,7 +2661,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a0dcbd09-83f2-527b-aa42-a061467516f5"
   },
   {
     "value": "What is it this time?",
@@ -2670,7 +2670,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c4991208-12a9-5176-8f58-52f16f0d6089"
   },
   {
     "value": "Speak.",
@@ -2679,7 +2679,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "119876f2-4cce-5796-b66c-a4194c780850"
   },
   {
     "value": "Yes?",
@@ -2688,7 +2688,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "92cf388d-b648-55bb-b03a-23b08b92559e"
   },
   {
     "value": "Your queen listens.",
@@ -2697,7 +2697,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7a1359e4-8a76-5960-aa2a-39d11a3558a0"
   },
   {
     "value": "It is time.",
@@ -2706,7 +2706,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a822d372-7ce8-5bc0-9f90-e705959a6b73"
   },
   {
     "value": "Retribution will be mine.",
@@ -2715,7 +2715,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b7d068c8-5087-5b16-a98c-7355e6e6d0af"
   },
   {
     "value": "Mengsk will suffer.",
@@ -2724,7 +2724,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8ff49b96-fed5-5e5f-bb2e-420d76275853"
   },
   {
     "value": "I am The Swarm.",
@@ -2733,7 +2733,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "3ce59ecf-6398-5173-81ea-7e5db09729ab"
   },
   {
     "value": "Our conquest continues.",
@@ -2742,7 +2742,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "165e79c5-e440-59db-80bf-c00f84ff11bd"
   },
   {
     "value": "We adapt.",
@@ -2751,7 +2751,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "cf76c200-c176-5ac5-884b-910a69b810ad"
   },
   {
     "value": "Make your peace",
@@ -2760,7 +2760,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "257c9837-c439-5d3e-b267-89bb41b53679"
   },
   {
     "value": "This world is mine.",
@@ -2769,7 +2769,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7cb7762c-dba7-58c2-8189-c1e9f3803180"
   },
   {
     "value": "Boldly.",
@@ -2778,7 +2778,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bd5db9d2-beab-5cbd-94ed-5f3d6ecc699c"
   },
   {
     "value": "The Swarm conquers all.",
@@ -2787,7 +2787,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "64b8684d-de1a-518e-9597-aed0fb7f0672"
   },
   {
     "value": "We are without limit.",
@@ -2796,7 +2796,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c7f81bfc-74e4-53c7-ac23-83e60766e1f2"
   },
   {
     "value": "No time like the present.",
@@ -2805,7 +2805,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "3a5cad56-baf4-5865-84d3-94a162b277a7"
   },
   {
     "value": "Death awaits you.",
@@ -2814,7 +2814,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6b1a1701-1d36-5990-887e-06c1ee8163f0"
   },
   {
     "value": "We consume all.",
@@ -2823,7 +2823,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "76496316-0fc2-5317-956d-a35c848308d7"
   },
   {
     "value": "You're in my way.",
@@ -2832,7 +2832,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1ac53843-fffd-5957-b511-da1934462bfc"
   },
   {
     "value": "Slay them all.",
@@ -2841,7 +2841,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6cb97641-a631-56d9-9017-dc3892b1e363"
   },
   {
     "value": "You forced my hand.",
@@ -2850,7 +2850,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "f660b12d-df52-562a-9bce-12806de1709c"
   },
   {
     "value": "Feel the wrath of the Swarm.",
@@ -2859,7 +2859,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8c567e1f-b474-5239-9be9-8f8bae6877c9"
   },
   {
     "value": "No mercy.",
@@ -2868,7 +2868,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e5784a26-f39d-5c9b-b416-8d0ab2491cb7"
   },
   {
     "value": "I sense your fear.",
@@ -2877,7 +2877,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e4f77050-9f21-51fa-a5ec-753e8035f4a1"
   },
   {
     "value": "You're trying my patience.",
@@ -2886,7 +2886,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "538386f9-41f6-5d66-bb53-ea803aeebbb7"
   },
   {
     "value": "The Swarm is the instrument of my will..",
@@ -2895,7 +2895,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2aeca805-40f5-5519-b970-75e00423a918"
   },
   {
     "value": "I have evolved beyond the Queen of Blades",
@@ -2904,7 +2904,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "40cda861-8aaf-5676-baca-dd7e4be253fc"
   },
   {
     "value": "I always did look better in purple!",
@@ -2913,7 +2913,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5a081f65-41a0-5861-98c5-172555faf1d1"
   },
   {
     "value": "Revenge? I'm positively aglow about it!",
@@ -2922,7 +2922,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "89e1da47-3f12-5240-bf28-6bd70afef84b"
   },
   {
     "value": "I think I'll wing it from here!",
@@ -2931,7 +2931,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "acddbd22-b418-58f7-bcc4-3950b1df25f6"
   },
   {
     "value": "You should get to know my primal side!",
@@ -2940,7 +2940,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "f29a43db-cdf8-5671-afd2-7a56fee95d87"
   },
   {
     "value": "Did your heart just skip a beat?",
@@ -2949,7 +2949,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b643f80f-b428-59f1-9105-dd65209afc36"
   },
   {
     "value": "You might want to get that checked!",
@@ -2958,7 +2958,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "9b10ce19-9ce5-5745-bd53-b0c3f54cd9ca"
   },
   {
     "value": "I will not be defeated!",
@@ -2967,7 +2967,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "04c7b23c-e8d0-5dd7-a261-dc7436a0a37f"
   },
   {
     "value": "I delay the inevitable!",
@@ -2976,7 +2976,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e24dc214-3326-5d73-9b5f-215c0a559dcf"
   },
   {
     "value": "Meaningless...",
@@ -2985,7 +2985,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a6530213-b97a-54a3-be9c-46a263524845"
   },
   {
     "value": "I will not be stopped",
@@ -2994,7 +2994,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6be72479-e2af-55f8-9a91-4154e9ceed2e"
   },
   {
     "value": "The fight begins",
@@ -3003,7 +3003,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "515682a9-6122-5b18-a4b6-a50a8ac02dee"
   },
   {
     "value": "What is it, already?",
@@ -3012,7 +3012,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7cced47b-f5c9-52b1-a4d7-6cf493dc803e"
   },
   {
     "value": "Speak.",
@@ -3021,7 +3021,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "119876f2-4cce-5796-b66c-a4194c780850"
   },
   {
     "value": "Yes?",
@@ -3030,7 +3030,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "92cf388d-b648-55bb-b03a-23b08b92559e"
   },
   {
     "value": "Your queen listens.",
@@ -3039,7 +3039,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7a1359e4-8a76-5960-aa2a-39d11a3558a0"
   },
   {
     "value": "You have my attention.",
@@ -3048,7 +3048,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "28cfd124-7df7-58bd-a91c-6da92f2a1b3f"
   },
   {
     "value": "Explain yourself.",
@@ -3057,7 +3057,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6e842a00-f1d7-5e47-aa62-b1a643110c35"
   },
   {
     "value": "Make it quick.",
@@ -3066,7 +3066,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "dc500985-0402-517b-a746-b95d84bc71b5"
   },
   {
     "value": "I am the Swarm.",
@@ -3075,7 +3075,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "170ae600-426d-59b6-8255-454a8209cdef"
   },
   {
     "value": "Boldly.",
@@ -3084,7 +3084,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "bd5db9d2-beab-5cbd-94ed-5f3d6ecc699c"
   },
   {
     "value": "No time like the present.",
@@ -3093,7 +3093,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "3a5cad56-baf4-5865-84d3-94a162b277a7"
   },
   {
     "value": "My search continues...",
@@ -3102,7 +3102,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8787458a-a079-5115-a3f9-3591b6e88721"
   },
   {
     "value": "I've come this far.",
@@ -3111,7 +3111,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "058e2bc6-bfba-511f-9a67-5c8722d1c194"
   },
   {
     "value": "I need answers.",
@@ -3120,7 +3120,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "65973624-d112-536e-9f8f-d56bcbcf577d"
   },
   {
     "value": "You're in my way...",
@@ -3129,7 +3129,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "338dd954-41df-5e98-81d3-9b264e798ce5"
   },
   {
     "value": "No mercy.",
@@ -3138,7 +3138,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e5784a26-f39d-5c9b-b416-8d0ab2491cb7"
   },
   {
     "value": "Death awaits you!",
@@ -3147,7 +3147,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0060d05c-8a37-5a0e-89cb-f62f137abb42"
   },
   {
     "value": "I sense your fear.",
@@ -3156,7 +3156,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e4f77050-9f21-51fa-a5ec-753e8035f4a1"
   },
   {
     "value": "Slay them all!",
@@ -3165,7 +3165,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "17ce9109-80a1-515a-9301-b2f8548337ef"
   },
   {
     "value": "This is what you deserve.",
@@ -3174,7 +3174,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e55a2699-a802-5629-9cbe-4304939c3308"
   },
   {
     "value": "Whatever it takes.",
@@ -3183,7 +3183,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b146472f-3faf-5715-93a5-4756ed061d96"
   },
   {
     "value": "My true enemy waits in the darkness.",
@@ -3192,7 +3192,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "4b4c321f-fab5-5f66-9cbd-aef7804e995c"
   },
   {
     "value": "Amon and his hybrid will die.",
@@ -3201,7 +3201,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "215abb95-c566-5c79-ae05-7235460c2775"
   },
   {
     "value": "This is the true war... the one that could end everything.",
@@ -3210,7 +3210,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5eaea4eb-7229-55c1-87f1-d33b13fd474f"
   },
   {
     "value": "I hope your gods have an awfully good explanation for why I ended up here with you, Artanis.",
@@ -3219,7 +3219,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2383cd79-6413-59a2-b9b1-5ab1be011277"
   },
   {
     "value": "Are you trying to annoy me?",
@@ -3228,7 +3228,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "0c8b49e2-c295-558a-a2a7-911ed70be482"
   },
   {
     "value": "Well, here's a hint for you... It's working.",
@@ -3237,7 +3237,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "01ff5f3e-3d84-590f-ba57-a06cd8f5d957"
   },
   {
     "value": "I quit infesting terrans, but you're starting to make me reconsider that.",
@@ -3246,7 +3246,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "f84fae7c-0776-5e9f-bc03-c70746970804"
   },
   {
     "value": "I bet Abathur could mutate you into something real special.",
@@ -3255,7 +3255,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6ec4bbbf-4b08-5801-b7f9-d2ebfd14ca1b"
   },
   {
     "value": "So much that happened. Sometimes the past seven years really feel more like seventeen years...",
@@ -3264,7 +3264,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "29aa8868-11ef-5ccc-9c5e-77227ed88e6a"
   },
   {
     "value": "This isn't over...",
@@ -3273,7 +3273,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "01f97181-d97c-5599-88a3-55641d1430df"
   },
   {
     "value": "I am infinite.",
@@ -3282,7 +3282,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "6d1fcc50-1f25-5d95-96aa-007e343e35b2"
   },
   {
     "value": "I strike at the enemy!",
@@ -3291,7 +3291,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "41a9c631-b9e3-5273-ba6a-b5913f236284"
   },
   {
     "value": "What is it you require?",
@@ -3300,7 +3300,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "77c6f507-13e7-5cc3-9786-fae3d410263a"
   },
   {
     "value": "Speak to me.",
@@ -3309,7 +3309,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "2ffd0c77-ff62-544a-adf2-2957ee9711c1"
   },
   {
     "value": "My destiny manifests.",
@@ -3318,7 +3318,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "a36cbce5-ef80-56d4-916a-816a9e47a303"
   },
   {
     "value": "Infinity unravels before me.",
@@ -3327,7 +3327,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ce43969b-fd1a-5304-bf80-5274921ba27d"
   },
   {
     "value": "A new age will dawn.",
@@ -3336,7 +3336,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "adb9e9a5-8dbf-56eb-846c-631b734ee176"
   },
   {
     "value": "Amon shall meet his end.",
@@ -3345,7 +3345,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "d3aef45d-df8a-5904-92f7-d690eeef1532"
   },
   {
     "value": "I can see... countless universes.",
@@ -3354,7 +3354,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c2144f54-7b64-5c07-ae2a-bd5c5458a5ce"
   },
   {
     "value": "The final stand begins now.",
@@ -3363,7 +3363,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "eded34a6-9318-502e-9d2a-794feaf76139"
   },
   {
     "value": "I am called.",
@@ -3372,7 +3372,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "85b5cb0f-0fba-5e38-9d4e-58bcc0a917cc"
   },
   {
     "value": "I cannot delay.",
@@ -3381,7 +3381,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "7717c871-d68e-588b-ae3d-5f7b3f3c2ca2"
   },
   {
     "value": "This is my burden to bear.",
@@ -3390,7 +3390,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "41047443-40b4-5478-96fd-8f9d502e7a8c"
   },
   {
     "value": "I will not fail.",
@@ -3399,7 +3399,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "fb0bb1b0-8ac3-58f3-8e55-02777ae9386a"
   },
   {
     "value": "It shall be.",
@@ -3408,7 +3408,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "94d56774-83b2-572f-acaf-08b40f427071"
   },
   {
     "value": "My power is vast.",
@@ -3417,7 +3417,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "b38ab05f-672b-5b0c-a137-15a9f06aba8d"
   },
   {
     "value": "You will not decide our fate!",
@@ -3426,7 +3426,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "1c7ae481-04a5-5873-88e5-856e37367c64"
   },
   {
     "value": "Begone.",
@@ -3435,7 +3435,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "cfd02560-3118-5dd8-85a8-09285b278e95"
   },
   {
     "value": "Your time has ended.",
@@ -3444,7 +3444,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "4ee53f00-3070-5e01-9c56-4ad8aa43d6fe"
   },
   {
     "value": "I am unstoppable.",
@@ -3453,7 +3453,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "54efb810-321b-5722-bc7b-57dde7d9ad59"
   },
   {
     "value": "I sense their fear...",
@@ -3462,7 +3462,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c634db2b-b08d-59f3-8524-9e31b7078453"
   },
   {
     "value": "All shall be one with the light!",
@@ -3471,7 +3471,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "669ce991-069f-521e-abca-cc00acd29148"
   },
   {
     "value": "So long as Amon lives, we are in peril.",
@@ -3480,7 +3480,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "5cee7bbf-3895-521a-b9c7-9f3bd2ecaef9"
   },
   {
     "value": "I will bring peace to the cosmos.",
@@ -3489,7 +3489,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "ea9ce4cd-3692-59af-819e-4f58c27ae539"
   },
   {
     "value": "So many universes came before us, all of them turns in the Infinite Cycle...",
@@ -3498,7 +3498,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "e8e6050d-0833-5981-9fe2-7a96995c8622"
   },
   {
     "value": "I am the culmination of prophecy.",
@@ -3507,7 +3507,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c90f5d91-0bd6-54fd-8460-478feaf70e6f"
   },
   {
     "value": "I can see everything now...",
@@ -3516,7 +3516,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "31e4c449-4806-5761-bf69-c4d6bd2ce424"
   },
   {
     "value": "The thread of my life interwoven with the threads of many others'.",
@@ -3525,7 +3525,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "40929b88-3fc8-52f9-aef2-37069ae0902d"
   },
   {
     "value": "Alone' we were fragile. But together, we formed a bond that cannot break.",
@@ -3534,7 +3534,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "8c7ac50f-2433-5320-b42e-30df2c4f3e5d"
   },
   {
     "value": "That bond must sustain us now.",
@@ -3543,7 +3543,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "c85544d3-297a-5beb-a0dc-7c2d5f16fcb4"
   },
   {
     "value": "This was not to be...",
@@ -3552,7 +3552,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "86d42faa-94eb-545f-bf6e-d1c03fbd7d0b"
+    "id": "74a1352f-a5ce-505c-9ec7-00c2c0c73a02"
   },
   {
     "value": "The Swarm prevails.",
@@ -3561,7 +3561,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "74b9e626-e5ef-5ea3-8a1e-141b9ee00a3b"
   },
   {
     "value": "I am eternal.",
@@ -3570,7 +3570,7 @@
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "7a0d9964-a106-5067-b48e-76c367a08205"
   },
   {
     "value": "The Brood is under attack.",
@@ -3579,7 +3579,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "631c7cb0-c106-585d-a96a-7eae698b698c"
   },
   {
     "value": "You think you can defeat me?",
@@ -3588,7 +3588,7 @@
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "d936992c-ccbb-56cf-8d0f-1660680ce37d"
   },
   {
     "value": "What are your commands?",
@@ -3597,7 +3597,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "923aa452-8223-53fd-968d-13a4a123684c"
   },
   {
     "value": "I listen.",
@@ -3606,7 +3606,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "30f42514-f375-5332-bebe-1d07e139d15f"
   },
   {
     "value": "We are ready to kill.",
@@ -3615,7 +3615,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "fa0d5cc9-2d98-53b2-90b3-a46f9ecd2e27"
   },
   {
     "value": "The Swarm hungers.",
@@ -3624,7 +3624,7 @@
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "6a23729f-fd98-54b4-98b4-2a067dd166a7"
   },
   {
     "value": "We move.",
@@ -3633,7 +3633,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "3d19d5ca-1bea-548d-b1e3-4794c1baf2f4"
   },
   {
     "value": "Agreed.",
@@ -3642,7 +3642,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "dd7984a2-2a71-55fe-8e80-ead481663705"
   },
   {
     "value": "The fittest shall survive.",
@@ -3651,7 +3651,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "e6078243-edf0-592e-9a59-631333999de5"
   },
   {
     "value": "Your bidding.",
@@ -3660,7 +3660,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "76760224-3358-51f7-baf1-d4668f6ecfdf"
   },
   {
     "value": "This world shall fall.",
@@ -3669,7 +3669,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "56d1139d-d601-564d-a0c1-b38f5179ea25"
   },
   {
     "value": "Our vengeance will be complete.",
@@ -3678,7 +3678,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "62921da2-9c0a-540e-83c9-cbb5d66d736d"
   },
   {
     "value": "Without question.",
@@ -3687,7 +3687,7 @@
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "15fe968f-7b60-542c-86e7-8884b146e974"
   },
   {
     "value": "You can not escape the Swarm!",
@@ -3696,7 +3696,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "23568999-512b-5e1e-8be0-09185836d550"
   },
   {
     "value": "Our pray nears.",
@@ -3705,7 +3705,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "7bf233d1-02f3-5f5b-95fc-df0e40b2bee5"
   },
   {
     "value": "We devour.",
@@ -3714,7 +3714,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "8da53835-fe95-5236-acc0-e11f7d6a52dc"
   },
   {
     "value": "The Swarm comes for you!",
@@ -3723,7 +3723,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "d097c556-c7c6-54ee-a669-0f5ea33856e5"
   },
   {
     "value": "Feel the fury of the Swarm!",
@@ -3732,7 +3732,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "ead3915d-0fb5-5dbb-ba94-fc483d40c121"
   },
   {
     "value": "I am your undoing.",
@@ -3741,7 +3741,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "d1555275-f2a1-5461-b9bd-15161f70bdd6"
   },
   {
     "value": "Die!",
@@ -3750,7 +3750,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "4746b09b-d6c6-5512-a612-3c66f64d3260"
   },
   {
     "value": "Death from above!",
@@ -3759,7 +3759,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "9dc996ca-5aab-5cd5-981c-6173788cc145"
   },
   {
     "value": "Deploy forces now!",
@@ -3768,7 +3768,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "7bfa3fae-b660-5bc7-9935-fa437e04cb3c"
   },
   {
     "value": "My brood rains from the skies!",
@@ -3777,7 +3777,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "4b570ea0-79c1-5d96-a3ee-9e38f4cadb8c"
   },
   {
     "value": "The Swarm descends!",
@@ -3786,7 +3786,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "159990ec-1919-552a-821a-5ecd7a45c257"
   },
   {
     "value": "My brood arrives!",
@@ -3795,7 +3795,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "3c446ebe-9f68-544b-9e4e-94bb814677d2"
   },
   {
     "value": "From the skies we come!",
@@ -3804,7 +3804,7 @@
     "action": "Confirming",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "b75f73a4-3c1d-597c-ba61-c1b3e88a21b4"
   },
   {
     "value": "I am not interested in the possibilities of defeat, they do not exist!",
@@ -3813,7 +3813,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "5717edd5-9b82-581a-b570-683c03fca035"
   },
   {
     "value": "Shouldn't You be spawning more overlords?",
@@ -3822,7 +3822,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "8332883f-edd7-5445-b011-2a304a07eb49"
   },
   {
     "value": "Feeble creature.",
@@ -3831,7 +3831,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "3d58ae4c-97cb-54be-8262-6710c621cb53"
   },
   {
     "value": "One day I shall rule the Swarm!",
@@ -3840,7 +3840,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "85797028-acef-53ff-9740-6d3aab3adf02"
   },
   {
     "value": "And on that day, You die first!",
@@ -3849,7 +3849,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "87f2c06c-c379-5db5-ba6b-f0e23846833f"
   },
   {
     "value": "I feel top-heavy!",
@@ -3858,7 +3858,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "1401b75a-ee92-57f3-b2f0-f02615fe4696"
   },
   {
     "value": "I'm a killer queen!",
@@ -3867,7 +3867,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "ce23010f-f9f6-5bf6-99dd-05945af25be2"
   },
   {
     "value": "The Swarm will never die!",
@@ -3876,7 +3876,7 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "64363f6e-ebbc-5639-abd9-57637666a88b"
   },
   {
     "value": "You can not kill me!",
@@ -3885,6 +3885,6 @@
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "01b004fe-3995-51ea-869f-f9aa08ce0d75"
+    "id": "51b2ccbb-b804-5ba1-85b8-92328e96fb54"
   }
 ]

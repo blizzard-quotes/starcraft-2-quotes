@@ -29,7 +29,7 @@ const quotesExtractor = async (faction, order) => {
     const response = await axios.get(url);
 
     let $ = cheerio.load(response.data);
-    let current_element = $(`#${faction}`).parent();
+    let currentElement = $(`#${faction}`).parent();
 
     if (faction === 'Hybrid') {
       isMelee = false;
@@ -37,10 +37,10 @@ const quotesExtractor = async (faction, order) => {
     }
 
     do {
-      current_element = $(current_element).next();
+      currentElement = $(currentElement).next();
 
-      if (current_element.is('h3')) {
-        let unitType = $(current_element.children()[0])
+      if (currentElement.is('h3')) {
+        let unitType = $(currentElement.children()[0])
           .text()
           .trim();
         if (
@@ -58,12 +58,12 @@ const quotesExtractor = async (faction, order) => {
         }
       }
 
-      if (current_element.is('h4')) {
-        unit = current_element.children().attr('id');
+      if (currentElement.is('h4')) {
+        unit = currentElement.children().attr('id');
       }
 
-      if (current_element.is('h5')) {
-        let unitType = $(current_element.children()[0])
+      if (currentElement.is('h5')) {
+        let unitType = $(currentElement.children()[0])
           .text()
           .trim();
         if (unitType.includes('Co-op Missions')) {
@@ -72,10 +72,10 @@ const quotesExtractor = async (faction, order) => {
         }
       }
 
-      if (current_element.is('table')) {
+      if (currentElement.is('table')) {
         actions = [];
 
-        current_element
+        currentElement
           .children()
           .children()
           .each((i, row) => {
@@ -113,8 +113,8 @@ const quotesExtractor = async (faction, order) => {
         }
       }
     } while (
-      $(current_element).next()[0] !== undefined &&
-      !$(current_element)
+      $(currentElement).next()[0] !== undefined &&
+      !$(currentElement)
         .next()
         .is('h2')
     );
