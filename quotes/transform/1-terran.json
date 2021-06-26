@@ -378,6 +378,15 @@
     "id": "cbc495e8-f26a-5fe0-b071-82726be954f0"
   },
   {
+    "value": "Got an energy crisis, here.",
+    "faction": "Terran",
+    "unit": "Banshee",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "674eb084-32c1-5486-880d-fd0e8ea123da"
+  },
+  {
     "value": "Who called in the fleet?",
     "faction": "Terran",
     "unit": "Battlecruiser",
@@ -1449,6 +1458,15 @@
     "id": "2f90ef62-1a1f-5f7f-a7ec-cb277816fe0d"
   },
   {
+    "value": "Outa Sight",
+    "faction": "Terran",
+    "unit": "Ghost",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b3b37370-6f8b-5508-811b-7091d75285ba"
+  },
+  {
     "value": "Ghost reporting.",
     "faction": "Terran",
     "unit": "Ghost",
@@ -1854,15 +1872,6 @@
     "id": "dd127120-495d-54ef-be9f-2091cd65c187"
   },
   {
-    "value": "'Screams'",
-    "faction": "Terran",
-    "unit": "Ghost",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": true,
-    "id": "c2cc96ac-2418-5562-bf1e-dfe9b07afa83"
-  },
-  {
     "value": "Hellbat, comin' through!",
     "faction": "Terran",
     "unit": "Hellbat",
@@ -1870,6 +1879,15 @@
     "isHero": false,
     "isMelee": true,
     "id": "7ef61e96-ff6d-55f8-b7e9-62e415df2789"
+  },
+  {
+    "value": "Got any extra 'fire' power?",
+    "faction": "Terran",
+    "unit": "Hellbat",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": true,
+    "id": "62dc554b-7b27-56b1-bf6e-fcdb59c2e54c"
   },
   {
     "value": "Talk to me.",
@@ -1908,13 +1926,13 @@
     "id": "627d0a84-1c6c-5509-b934-1f46fa1ce82e"
   },
   {
-    "value": "Let's set sum on fire.",
+    "value": "Let's set somethin' on fire.",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "4f6b647e-f126-5cc3-b5f1-bab42432a9b2"
+    "id": "65bab6b4-fbca-5764-8d08-e65d10d07716"
   },
   {
     "value": "Hot footin' it out there.",
@@ -1989,13 +2007,13 @@
     "id": "5d5543d1-5afd-5090-8c17-d1d3a703ace7"
   },
   {
-    "value": "Face napalm.",
+    "value": "Taste napalm!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "5519d676-c8bd-59c3-a356-5ba6a90e6f1e"
+    "id": "2571cfe5-71b7-540a-b302-74f57ae86ac4"
   },
   {
     "value": "Burn baby, burn.",
@@ -2007,40 +2025,40 @@
     "id": "414ea52e-a5c6-5e48-a5fb-070ed1de4444"
   },
   {
-    "value": "Toasty.",
+    "value": "Toasty!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "05ea6730-31a8-5d44-b5d8-b053a69e6d00"
+    "id": "7a330072-a042-58cf-aa68-523ef9d40f12"
   },
   {
-    "value": "Lookin' forward to this.",
+    "value": "Lookin' forward to this!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "7336ba6c-7a50-53f2-ae08-2f33da04da60"
+    "id": "3bb67e5c-0d55-5b69-a522-ddd632723b37"
   },
   {
-    "value": "Smoke 'em.",
+    "value": "Smoke 'em!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "83ff513d-0516-5daa-bc94-99aee8a55c7a"
+    "id": "67cc2ffd-d535-58bf-8cd4-9724b1db29a8"
   },
   {
-    "value": "Flame on.",
+    "value": "Flame on!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "0837b356-0641-54f3-8b8d-0ccb93f813a5"
+    "id": "5e60d997-e973-556a-8bdc-b90eaffe40ca"
   },
   {
     "value": "This thing had to set them back a pretty penny.",
@@ -2115,22 +2133,49 @@
     "id": "54c9092a-3a99-5db4-acbe-1e43f34f1a51"
   },
   {
-    "value": "the tires, let's light some fires.",
+    "value": "The tires, let's light some fires!",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b17bba69-51cf-51db-84ef-38a091effff0"
+    "id": "69fa5488-8372-5993-95d8-cf265a9b5bb1"
   },
   {
-    "value": "The flame that burns twice as bright burns half as...twice as...wait...what's twice divided by half?",
+    "value": "The flame that burns twice as bright burns half as... the twice as... wait... the twice divided by... half... ugh.",
     "faction": "Terran",
     "unit": "Hellbat",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "3825a90e-489e-5835-9863-85c58ac46802"
+    "id": "716173d8-5772-5fdc-ab37-1d79c2c02dbc"
+  },
+  {
+    "value": "Check it out! They gave me a robot!",
+    "faction": "Terran",
+    "unit": "Hellbat",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4aca8fb9-449c-5339-a51f-804fb0b3aaf6"
+  },
+  {
+    "value": "All outta juice!",
+    "faction": "Terran",
+    "unit": "Hellbat",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "be972842-91c4-5056-ac39-d2f09ecd9669"
+  },
+  {
+    "value": "Burned out...",
+    "faction": "Terran",
+    "unit": "Hellbat",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a4c4e80e-d192-5ef2-b48a-76d2c9e02ae5"
   },
   {
     "value": "Ready to raise some hell!",
@@ -2208,109 +2253,109 @@
     "value": "Burnin' rubber!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "fcbc6082-0467-58b5-9fcf-6f9a7375b8cc"
+    "id": "2218894a-56a5-51f3-b7e8-5a1985d04e34"
   },
   {
     "value": "HELL yeah!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "573f1f04-0de5-58c5-b99a-55117fb1fe89"
+    "id": "48e88fe2-433b-5e2d-a101-8fa49bfe7562"
   },
   {
     "value": "Let's do this!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "564d4eea-dad5-5a6f-a003-a7051a0ff22c"
+    "id": "83e534ce-957f-5f09-9954-06a5f55f67e7"
   },
   {
     "value": "Word...",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "cd6444e7-85a8-5bbc-9de4-2d46acf03738"
+    "id": "4fc8d9bd-929f-5eda-a3b7-5f34454acead"
   },
   {
     "value": "Is that it?",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "915c315b-650f-5f91-b104-69c07fbad9f5"
+    "id": "128e3938-f6e4-5c3c-a995-953cb9e2c911"
   },
   {
     "value": "Sound's sweet!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "a3e4217f-2ebd-54de-aa9e-e39b154e890f"
+    "id": "a5df9086-7043-5fd3-8bd9-2897f23eaf08"
   },
   {
     "value": "I'm goin' in!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "8b259cea-ef7f-5e6d-b1e6-15792a0153cf"
+    "id": "3c29f054-e75d-58df-b57d-5a84c6987f00"
   },
   {
     "value": "Pedal to the metal!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "46ef410d-8ee3-5b3b-8f17-71d80a4b2332"
+    "id": "5b612110-1576-50b8-9d2c-318c8559fbbe"
   },
   {
     "value": "Right on!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "692e1e16-c5a8-5c1c-8519-9bb78e183f59"
+    "id": "eeedd61f-d4f8-5324-a8d4-ebd7f8b67616"
   },
   {
     "value": "Absolutely!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "e672af1d-04d6-563c-b6ae-b659f6b1f671"
+    "id": "b4381eed-af8e-512c-be18-805eca75d7d3"
   },
   {
     "value": "All day long!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "b1742305-593c-5706-a781-6e70c65682b5"
+    "id": "764235e4-8a03-5684-98dd-142c58b26065"
   },
   {
     "value": "Sssmokin'!",
     "faction": "Terran",
     "unit": "Hellion",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "196b23d7-d1e9-5dc5-ad8d-5fcd3320181e"
+    "id": "9c6335d7-c166-5668-b888-35abe06851e4"
   },
   {
     "value": "Like a bat out of...ah, forget it...",
@@ -2412,6 +2457,24 @@
     "id": "71547ddf-55e8-57eb-aca5-fce50ca3bb34"
   },
   {
+    "value": "I ain't got all day!",
+    "faction": "Terran",
+    "unit": "Hellion",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee5b2e35-e8f8-5524-af25-a15c858dbf59"
+  },
+  {
+    "value": "Blaze a glory!",
+    "faction": "Terran",
+    "unit": "Hellion",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "2a802fc5-152e-50e7-9746-2b75dc7ed1a7"
+  },
+  {
     "value": "Liberation is at hand.",
     "faction": "Terran",
     "unit": "Liberator",
@@ -2428,6 +2491,24 @@
     "isHero": false,
     "isMelee": true,
     "id": "0cd8ef92-542f-50b0-9fc6-1dd9eb37e595"
+  },
+  {
+    "value": "We're returning fire!",
+    "faction": "Terran",
+    "unit": "Liberator",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": true,
+    "id": "db52a5fe-a00a-51d1-9260-fed57b6c8843"
+  },
+  {
+    "value": "All hands to battle stations!",
+    "faction": "Terran",
+    "unit": "Liberator",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": true,
+    "id": "95e5e817-6fab-51e2-a893-727c4f14241f"
   },
   {
     "value": "Standing by.",
@@ -2610,13 +2691,13 @@
     "id": "930fc7d6-b8a8-5d94-aa4f-74517444669e"
   },
   {
-    "value": "With pleasure Commander.",
+    "value": "With pleasure, Commander.",
     "faction": "Terran",
     "unit": "Liberator",
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "91067f4f-7fa7-5819-a373-493fd76143ef"
+    "id": "6956a538-2c18-57b1-872f-2cef2701ee91"
   },
   {
     "value": "Battle stations.",
@@ -2709,13 +2790,13 @@
     "id": "64fdf5f1-b36e-5982-a8d4-0a47520f3947"
   },
   {
-    "value": "I'm a strong believer in personal liberty. That everyone has the personal liberty to do precisely as they are told. Or be put to death.",
+    "value": "I'm a strong believer in personal liberty. That every person has the liberty to do precisely as they are told. Or be put to death.",
     "faction": "Terran",
     "unit": "Liberator",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "4642e1c7-0fbc-56a2-9f59-5a303af753a6"
+    "id": "299786ed-2ff7-5dbe-b71f-5f0c86041eac"
   },
   {
     "value": "Wow. Liberator to dictator in five seconds. That's gotta be some kinda record.",
@@ -3627,13 +3708,13 @@
     "id": "d293622b-5763-5df2-a828-21f7061a0eca"
   },
   {
-    "value": "Somebody get me out of this mess!",
+    "value": "Somebody, get me out of this mess!",
     "faction": "Terran",
     "unit": "Medivac",
     "action": "Attacked",
     "isHero": false,
     "isMelee": true,
-    "id": "8521d7b4-042e-5c8e-b969-107c0f862611"
+    "id": "c649c366-e1ab-5051-8741-7ef80b395b38"
   },
   {
     "value": "Ready for pick up?",
@@ -3645,13 +3726,13 @@
     "id": "69ca2575-1470-5b72-8eaf-7fbe449de4c9"
   },
   {
-    "value": "Picking up or dropping off...",
+    "value": "Pickin' up or droppin' off...",
     "faction": "Terran",
     "unit": "Medivac",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "4d80a7c4-97ac-5b9c-92d6-314f76b072d1"
+    "id": "d694e699-03ba-5ffe-b5ba-4a25423a7b90"
   },
   {
     "value": "Where's the emergency?",
@@ -3681,13 +3762,13 @@
     "id": "fff98111-2570-56e3-99e9-b00f0eeed9d3"
   },
   {
-    "value": "Life flights here.",
+    "value": "Life flight's here.",
     "faction": "Terran",
     "unit": "Medivac",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "88bab0b1-5117-5636-8837-5312c70553ae"
+    "id": "0496fbf5-7dc1-5706-a80e-4a9f71cd5eaf"
   },
   {
     "value": "Now what?",
@@ -4134,100 +4215,100 @@
     "value": "Job confirmed.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "bf6d32db-4ba6-5ac1-8f4e-39b45f3883ea"
+    "id": "b2316693-06a6-5104-a52e-4f9e9cb01381"
   },
   {
     "value": "Understood.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "7f8002fa-1c2e-51ba-a66c-5a4050b633b7"
+    "id": "18bf0d34-cceb-55bf-8730-1688a00890c4"
   },
   {
     "value": "Commencing.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "a1dc1da2-a468-555d-816f-c8ae5d551b2b"
+    "id": "e2b71121-31fa-53be-8131-1268ef3b9cf1"
   },
   {
     "value": "Under way.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "d55e0e71-ec32-57b4-b171-cccc788b7207"
+    "id": "53810117-bdb7-5bdc-a339-b8b45c8cac61"
   },
   {
     "value": "Immediately.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "1a114620-f133-5d42-97fb-75aaa9f9a468"
+    "id": "e848b2af-7ccf-51d9-9de0-a1e510468fc8"
   },
   {
     "value": "This vessel will comply.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "8c2d097b-94b9-5c92-8d5f-de154b62fd63"
+    "id": "77c46b6a-abad-5ecf-a0f6-0877ad08adab"
   },
   {
     "value": "Order accepted.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "66704a3b-7709-564e-be2a-f29e8bf682ab"
+    "id": "2e9368ce-7458-503f-bf01-9c82b576af47"
   },
   {
     "value": "Command authority registered.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "01b97266-c2f3-52bf-afe4-bff9361d2dca"
+    "id": "d2a3bd07-c09f-5bb2-beb7-a4e2eceb3f27"
   },
   {
     "value": "Order acknowledged.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "3483d265-60d0-5182-a3ab-8f3551f23df8"
+    "id": "6d74a879-8f74-55f2-861c-f25a4668ec03"
   },
   {
     "value": "Right away.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "405e6708-70ac-5f94-b377-78e35d3f06f8"
+    "id": "f2e07c5a-ded7-5480-a536-a240de2b5d4a"
   },
   {
     "value": "Systems primed.",
     "faction": "Terran",
     "unit": "Raven",
-    "action": "Confirming",
+    "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "98013f03-168d-5e5a-b349-b9b3e9789fb6"
+    "id": "6ea206ef-bf22-55f0-bf4f-016a17fb1305"
   },
   {
     "value": "Logic capacitor. Offline.",
@@ -4707,6 +4788,15 @@
     "id": "8d3e840e-785f-50dc-843a-0c5a288fe387"
   },
   {
+    "value": "I love it when a plan comes together.",
+    "faction": "Terran",
+    "unit": "Reaper",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "dc021534-4495-539b-a46b-d2c01e620c6e"
+  },
+  {
     "value": "Can't make the jump.",
     "faction": "Terran",
     "unit": "Reaper",
@@ -4732,6 +4822,24 @@
     "isHero": false,
     "isMelee": true,
     "id": "5e77939b-1d09-53e4-8fa0-f50ebd01fcdb"
+  },
+  {
+    "value": "Waste of my time.",
+    "faction": "Terran",
+    "unit": "Reaper",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3f6be08d-b5e7-5834-aab0-b13104a6625e"
+  },
+  {
+    "value": "I'm back.",
+    "faction": "Terran",
+    "unit": "Reaper",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": true,
+    "id": "62f28be6-0476-57a2-bfec-c3db0c882d67"
   },
   {
     "value": "SCV ready.",
@@ -5130,13 +5238,13 @@
     "id": "3c21a411-c3f3-5414-bef4-deeb779b0ffc"
   },
   {
-    "value": "This Sucks.",
+    "value": "This sucks.",
     "faction": "Terran",
     "unit": "SCV",
     "action": "Other",
     "isHero": false,
     "isMelee": true,
-    "id": "a162b8b6-6e7c-58c7-a08e-4c17f6d87f24"
+    "id": "310c1f0e-174b-57cc-951b-4f109d53e0d5"
   },
   {
     "value": "Fueled up, ready to go!",
@@ -6552,13 +6660,13 @@
     "id": "56149043-2a80-5512-acdd-63cc4169d402"
   },
   {
-    "value": "I didn't the death sentence in twelve star system because I am easy to talk to.",
+    "value": "I didn't get the death sentence in twelve star system because I am easy to talk to.",
     "faction": "Terran",
     "unit": "Assault Galleon",
     "action": "Pissed",
     "isHero": false,
     "isMelee": false,
-    "id": "d3034219-086e-5523-a2b3-5b4d3f61e5f9"
+    "id": "20c2cf90-0720-5928-af82-ed10a42e27dc"
   },
   {
     "value": "I also don't work for just anyone. Unless the payment is very good.",
@@ -8082,6 +8190,366 @@
     "id": "ad6c3092-b3cb-5d26-8d9a-a7ff05761da3"
   },
   {
+    "value": "Rig startup complete.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "93188726-b4a8-5faf-9634-18838279ba01"
+  },
+  {
+    "value": "Let's get cracking.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a43b70f1-e15c-575a-93c8-a28997cfff8c"
+  },
+  {
+    "value": "Not doing so hot over here, boss!",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1599150e-143b-5ef4-b78b-54405ad03490"
+  },
+  {
+    "value": "Hey, things are getting real, real fast here!",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "68f165b4-54d3-5685-bf28-9e511d314166"
+  },
+  {
+    "value": "Speak up, boss.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "516561eb-e2c6-5b2c-b014-a87da577b437"
+  },
+  {
+    "value": "I read ya.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1dc77478-b22c-5f7e-a87b-97511410478b"
+  },
+  {
+    "value": "Whatcha need, man?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "08828231-a376-5155-9b70-8c0f9c5bde15"
+  },
+  {
+    "value": "Hmm?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d6b1f6bd-0a6d-5d27-b6b5-65072e18d6d3"
+  },
+  {
+    "value": "Got some work for me?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "2b2a3059-b940-5fa7-9cfc-07b0aa5165e2"
+  },
+  {
+    "value": "Finally, some work orders.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1e45e51a-b476-5777-9b4a-15493c52a0c1"
+  },
+  {
+    "value": "Yo.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f3263515-ff8f-59e5-84cc-ce8a55ef0730"
+  },
+  {
+    "value": "What's up tough guy?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0eee4a73-7a84-5a7e-9301-5ac95cdabc9b"
+  },
+  {
+    "value": "Alrighty, I'm moving.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "99fc78f1-5264-5b13-901a-29adecdfd102"
+  },
+  {
+    "value": "Got it.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "39519516-479e-53ac-a29e-be12db5e857c"
+  },
+  {
+    "value": "Oh, I see it.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "876b907a-2d9f-56b8-a34c-34315cc58188"
+  },
+  {
+    "value": "Book'n and hook'n.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a41b41bc-2df2-59c2-8cea-95bd288ab0ba"
+  },
+  {
+    "value": "Hey, you're the boss.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4227cabb-96b1-53fb-b4e0-28135d07fbdc"
+  },
+  {
+    "value": "Site's this way.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "280fcf7c-3fb4-53df-966a-77a4c2b0baed"
+  },
+  {
+    "value": "Heading that way.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d0877488-9b80-5076-91df-2665be58c90c"
+  },
+  {
+    "value": "No problemo.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6d1b6f3a-7608-59b6-ad14-3494a64f6a91"
+  },
+  {
+    "value": "No skin off my back.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "83ef196d-3efe-5c87-8318-2f662069bea6"
+  },
+  {
+    "value": "This guy's in for a shock.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cfda0e1d-9640-58a4-8ac0-42a4d512e61c"
+  },
+  {
+    "value": "Let's crack 'em a part.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "094da42e-d5aa-543a-88b9-b79e91292436"
+  },
+  {
+    "value": "Sizzlin' time!",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0c6dec81-d9c6-5352-8cb3-0db9bca14936"
+  },
+  {
+    "value": "Love this part.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "e22e073e-ea4c-5076-9bf2-965833ebbadb"
+  },
+  {
+    "value": "Sparking up.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1d9d8fc2-7b91-5d64-a1c2-8140bc0a28bb"
+  },
+  {
+    "value": "Arc's alight.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "aa51d0fc-627e-53e1-b96a-65dc99b82cfd"
+  },
+  {
+    "value": "Ten thousand volts o' pain.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a22dd3a6-96e1-5884-b02e-60071efcad7d"
+  },
+  {
+    "value": "That one, huh?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "20e7334f-6c8d-5d92-8706-223f74f35810"
+  },
+  {
+    "value": "You plan on spitting it out any time soon? I'm on the clock.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "2f60e629-dd0e-5e4c-89e5-05a59fcd8606"
+  },
+  {
+    "value": "So what, I'm in the army now? Man, you guys are just taking everyone, huh?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "b58194b4-c76a-50ee-b286-2143dbba63ec"
+  },
+  {
+    "value": "Alright. Space mining 101. They call this badboy an ARC gun. You point it an asteroid, squeeze the trigger, and BLAM, nothing but meteors.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "7f5c4108-0774-5f0f-8a44-4a0670c738b3"
+  },
+  {
+    "value": "I figure if it can crack open an asteroid, it can damn sure crack open a zerg, right?",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "67347944-7973-53d8-8589-3cffcb459e88"
+  },
+  {
+    "value": "If you think you need to puke while you're in deep space, don't. Seriously, it goes nowhere, and yet.... everywhere. It's all kinds of messed up.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "abc16751-44ff-5bea-8074-72a9a91471af"
+  },
+  {
+    "value": "Oh and to be clear, this whole leap on a guy and shock 'em to death thing is DEFINATELY against the safety protocols. Just sayin'.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "88b0f873-f53b-5d5a-9441-59181c8d7cdb"
+  },
+  {
+    "value": "You drill, you drop the nuke, and you leave. In that order.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8ca8575b-d16e-52e7-afd9-3e77f2818b7d"
+  },
+  {
+    "value": "Hey! Don't push me around like I'm one of your military men. I'm a miner, not a major.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f95b27cc-7d3b-5c55-a139-aec8bd093e36"
+  },
+  {
+    "value": "I got real work to do, commander. Can't just sit here jabbering all day.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8cbe7a1b-fe47-5798-809b-407bb7c585d0"
+  },
+  {
+    "value": "Ugh.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4a721f84-c4a4-5b07-9b16-0668fc91e7d4"
+  },
+  {
+    "value": "Man that hurts.",
+    "faction": "Terran",
+    "unit": "HERC",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "68265526-5934-5e9c-a30e-1e65506162ce"
+  },
+  {
     "value": "Ay, laddie!",
     "faction": "Terran",
     "unit": "Hercules",
@@ -8856,6 +9324,366 @@
     "id": "84a8b418-08c9-501d-92bc-48c4c11c5b86"
   },
   {
+    "value": "Eureka!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "5b265711-d2e2-5dcf-b2f6-dfd04f1867cb"
+  },
+  {
+    "value": "Fascinating!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d76f94ce-ac46-576b-a269-eaaace38e08f"
+  },
+  {
+    "value": "Excelsior!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "54837286-804e-5ed3-949f-b3dc8551da8c"
+  },
+  {
+    "value": "Hmm, now where did I put my glasses?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "e430a4b9-da12-50f1-b2ce-90971c3b6762"
+  },
+  {
+    "value": "Now, if we just cross the diapoles thus, we'll see, oh yes...",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "638d079e-bbfc-5ac4-b03b-c040a785b3de"
+  },
+  {
+    "value": "The fellows will give me an award for this.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6ecd4b1b-5149-5d99-8a3d-9402ba8e238e"
+  },
+  {
+    "value": "No, no, no. Transgenic, not mutagenic!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "5cf1ceba-59bf-53d0-a183-da3e7d39fafa"
+  },
+  {
+    "value": "My word! A total inversion of Boyle's law!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d0a365bc-35dd-5a19-93f5-00ccec65f077"
+  },
+  {
+    "value": "We're not all mad, you know.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a5b7b134-3657-5cff-a0c4-5907d2779dc0"
+  },
+  {
+    "value": "Humanity must advance!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ae18e1ab-b55d-5983-a7ba-69c463a04f62"
+  },
+  {
+    "value": "True science requires courage.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "93088322-353f-5f9c-9f25-f705f8e848af"
+  },
+  {
+    "value": "Help, they are firing at me!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "33b7391e-fd0e-59c5-8198-2beb23649df9"
+  },
+  {
+    "value": "Why are they attacking me?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a9ce5c1a-5b4c-566b-8a83-c9ef594e844a"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6cfc59a9-a485-5a21-ab2b-e0bd002bc077"
+  },
+  {
+    "value": "Oh.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "39be362d-ab6e-5b82-88e8-9dffecfdfa37"
+  },
+  {
+    "value": "I just had an idea.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1f26e85d-94b7-5455-a473-789c45cfad3b"
+  },
+  {
+    "value": "What if, no.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a454766f-9dea-59c9-9fb5-e4c4b80fe3e6"
+  },
+  {
+    "value": "This had best be important.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "835b35d2-dbeb-5829-bc27-fe5e20e99f17"
+  },
+  {
+    "value": "What is it you need?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "32a22449-a31e-5029-a6b2-3013f6febec6"
+  },
+  {
+    "value": "Science department responding.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc9a1178-8765-5a94-8db7-1d0eb455de52"
+  },
+  {
+    "value": "Hmm, ready to proceed.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "effb8c0b-6f24-582b-b86a-407a21e97b20"
+  },
+  {
+    "value": "A curious proposal.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "53ac3937-5d6d-50a1-8435-c6d4d5470bcc"
+  },
+  {
+    "value": "Huh, let's get this over with",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "23be0882-9b2d-533e-8fe6-19e64900aa7e"
+  },
+  {
+    "value": "Yes, I see.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "b549ac41-7584-541f-84c1-3b226f784143"
+  },
+  {
+    "value": "Are you certain?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "70881642-e209-5c9f-8600-d2217d03bc12"
+  },
+  {
+    "value": "I'll be there shortly.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ee44cfc2-0a97-5a94-8ea4-f3c5bb683edc"
+  },
+  {
+    "value": "Right, right.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "c9ddcc85-b565-54be-8a18-82582b9df85a"
+  },
+  {
+    "value": "This is highly unorthodox!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "bd64e478-6ce3-503f-999d-3370d2afb472"
+  },
+  {
+    "value": "Who, me?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "656b55cf-27a7-57d6-9539-c96b736f7e1b"
+  },
+  {
+    "value": "Are you sure?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "647a3e28-2698-561f-89fd-62e6f63d9bf9"
+  },
+  {
+    "value": "Shouldn't a trooper be doing this?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f7b0bcf8-ae61-5d75-a608-8839f27bf6a4"
+  },
+  {
+    "value": "But I'm a man of science!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "3ee3be80-bc34-5bef-b614-184696fa4f04"
+  },
+  {
+    "value": "Perhaps someone with a gun would do better.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4bc83ff6-f588-5c96-bcf5-a6b385c24d10"
+  },
+  {
+    "value": "There is no logic behind this!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "577a129f-2f98-590f-8f84-b5b8750b08bd"
+  },
+  {
+    "value": "Is this how you address a superior officer?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "155cdb2d-0fbe-54e5-8c9e-0a6fecc3648b"
+  },
+  {
+    "value": "I'm willing to overlook this, but just this once, oh fine twice. Three times.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "c90128c4-00dc-53c2-a6f5-96121b55ebc1"
+  },
+  {
+    "value": "Huh, well at least you seem to understand the principles of thorough scientific testing.",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "eac90486-0b65-5fa8-9cad-9ec9845d8e12"
+  },
+  {
+    "value": "You do know what the definition of insanity is right?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "49f17a56-6ed2-5cff-8baa-0a97019a6fab"
+  },
+  {
+    "value": "I am THIS close to filing a formal complaint to administration!",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "47edb91e-48b2-5641-a5d8-480d1a33b6b8"
+  },
+  {
+    "value": "Huh? Yes, I suppose that would be a poor idea. What are we doing? Shouldn't I return to my research?",
+    "faction": "Terran",
+    "unit": "Scientist",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d32eb558-2e42-5e9f-b98b-94fc4288fb3b"
+  },
+  {
     "value": "I have awakened.",
     "faction": "Terran",
     "unit": "Spectre",
@@ -9171,6 +9999,348 @@
     "id": "b3fbd885-2a27-5604-a768-b7541bf8c96d"
   },
   {
+    "value": "Here's the beef!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "98c5cd96-1991-583d-a986-7c4cddecf309"
+  },
+  {
+    "value": "This ain't no bull! I'm in trouble!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "208a18fa-6bbe-5419-8ec2-ee2322a23ac2"
+  },
+  {
+    "value": "Got zerg on my left flank.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "db7f421b-94e3-564c-8a05-2c23aafe9c9c"
+  },
+  {
+    "value": "Milked up and good to go.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8beccd93-95ae-5dc3-a460-8574c6ce2c90"
+  },
+  {
+    "value": "Are you gonna give me udders?",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6ec35aec-0961-506f-8390-a49bbba624b2"
+  },
+  {
+    "value": "This codpiece gives me tenderloins.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "3aa37d69-ce02-5624-90bc-1f80711917d7"
+  },
+  {
+    "value": "The name's T-bone. Chuck T-bone.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1a817433-5fe6-57c4-9f0b-865e1d9cd454"
+  },
+  {
+    "value": "You will call me Sir... Loin.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "49d6172f-9d32-58fc-85bc-425008a33b5b"
+  },
+  {
+    "value": "Nice rack... ain't it.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8a1e5151-daeb-5e65-97c1-084ced634ca0"
+  },
+  {
+    "value": "Call me leather neck.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "148c0865-3ebf-5654-b17d-a5bf4a8573b0"
+  },
+  {
+    "value": "What's up beef jerky?",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "7c5e65ea-2622-5df0-89f6-71c05d5498d8"
+  },
+  {
+    "value": "Beefy!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "313041ca-53ff-5a8c-ad01-ec9cbd8bdca9"
+  },
+  {
+    "value": "I'll hoof it from here.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a367bc6f-a233-5a7e-a3be-6d0f6a037702"
+  },
+  {
+    "value": "Don't have a cow, man.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4e8d4f27-6f0f-56e2-b709-13e12f44fdad"
+  },
+  {
+    "value": "Give me something to chew.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0b5749a3-4143-569e-883e-f31b961efec5"
+  },
+  {
+    "value": "Don't prod me, boy.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "09ddf187-5765-5f97-8baf-5def971f0725"
+  },
+  {
+    "value": "Steer me this way.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "2908e1c2-f5ea-576d-801a-5188ab39b46b"
+  },
+  {
+    "value": "You're the Matador.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "2e0781f5-796b-53f9-ba27-fbbf64ec898c"
+  },
+  {
+    "value": "MOOve!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a86b9b4c-6f35-529c-bb7d-a9eb814b8392"
+  },
+  {
+    "value": "Stop staring on me like I'm some piece of meat.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "b686ec22-c810-5e06-b5df-a482cd3359dd"
+  },
+  {
+    "value": "Head 'um up, move 'em out",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "5e65d142-6052-5a6a-a260-312346ba2b59"
+  },
+  {
+    "value": "MOOOOve out!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "bd349921-c094-58f0-85e2-e0fffdd24298"
+  },
+  {
+    "value": "COWABUNGA!!!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "e901d1c4-7b42-5d1f-9530-e8bda17f532c"
+  },
+  {
+    "value": "Bullseye!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6378880e-1ba0-5c26-b55d-e392042d790a"
+  },
+  {
+    "value": "For the Hor... Wait! Go go go!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8c5a9be3-8c84-57d2-82f3-3523e34d92a3"
+  },
+  {
+    "value": "Staaaampede!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d7470b26-61be-5f3a-ba2e-4c887f091e8d"
+  },
+  {
+    "value": "He called my momma a cow!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "e6cd80b1-53c6-5726-b003-a07e60b61244"
+  },
+  {
+    "value": "You mess with the bull, you get the horns.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "063e9d54-f4fe-578e-abe7-31cd6edd5afc"
+  },
+  {
+    "value": "So my astrologer says that I'm stubborn and dependable, and blessed with bullish, pun intended, steadiness. She also said my lottery numbers were 4, 29, 19, 78. I haven't won yet!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1866566e-6223-569c-b57b-33e3266b5715"
+  },
+  {
+    "value": "My favorite band? Level 80 Elite Tauren Chieftain and the Jonas Brothers, of course!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "905ba3aa-0800-5413-a5aa-b986bed8bc8e"
+  },
+  {
+    "value": "You wanna piece of me, boy?",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f9f077f4-fa8b-5b11-b0d7-6e302f4c5b73"
+  },
+  {
+    "value": "You wanna piece of MEAT, boy?",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ac67dd47-13b5-53f8-812b-4b92d5072fdb"
+  },
+  {
+    "value": "Well, good! I got flank, shank, rib eye and brisket - take a pick.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "796570c6-ad63-50f1-9867-1f5c0b64d13d"
+  },
+  {
+    "value": "It's been long time since I had good milking.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "d94f9676-8f1b-514d-8500-a16570b8197c"
+  },
+  {
+    "value": "How I get out of this bull sh outfit?!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "02607916-d168-5e96-932b-c93d6ffeb437"
+  },
+  {
+    "value": "For the Hor... I mean Swarm!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "7979f4b4-dcfa-50e1-9746-66175a3e4c62"
+  },
+  {
+    "value": "Aw, cud!",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "711a78d4-9154-59c6-81d6-9da7af3b3352"
+  },
+  {
+    "value": "Time to meet my butcher.",
+    "faction": "Terran",
+    "unit": "Tauren Marine",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "306269d2-04df-527c-8c55-871871e03afe"
+  },
+  {
     "value": "Hell, it's morphing time!",
     "faction": "Terran",
     "unit": "Terra-Tron",
@@ -9232,6 +10402,330 @@
     "isHero": false,
     "isMelee": false,
     "id": "d709840b-0da0-56f4-9bf0-04336e68a929"
+  },
+  {
+    "value": "Some will die so that others may live.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "21a8dd4b-35ac-5193-8a46-b628d19642ea"
+  },
+  {
+    "value": "Safeguarding the future.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad568a00-519b-56cd-ac01-8b1e9a7ed192"
+  },
+  {
+    "value": "Taking fire.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "c5f7f807-f128-552b-8af5-7216904cec08"
+  },
+  {
+    "value": "Engaging hostiles!",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attacked",
+    "isHero": false,
+    "isMelee": false,
+    "id": "c82b3c6c-657a-5ca5-95a9-d795c3af24d5"
+  },
+  {
+    "value": "Yes command?",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "30c13653-acf2-5e49-944f-147b5dc8539c"
+  },
+  {
+    "value": "Huh, com's a little fuzzy.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "7476cedd-856b-584d-8ceb-dc83b9ea7dcc"
+  },
+  {
+    "value": "Awaiting orders.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0409b531-e2aa-56d0-a55e-b0e282129271"
+  },
+  {
+    "value": "You got my attention.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1e78ab6d-20f0-52f4-b367-ef5e68ad7cd6"
+  },
+  {
+    "value": "Ten-two receiving.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0e70fba2-827b-5c8e-a358-758b8699d60e"
+  },
+  {
+    "value": "Ready to serve.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "dff940db-3985-576d-ac4f-aefec46786b6"
+  },
+  {
+    "value": "Trooper standing by.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Selected",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fdcc1f35-e3ee-5218-9dce-625ea7c2cd21"
+  },
+  {
+    "value": "With vigilance.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "5bdf6d6a-0c5a-5559-8bb2-1773c84f8cf9"
+  },
+  {
+    "value": "Eyes open.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4147400e-f147-5534-8d66-4c53f3e06910"
+  },
+  {
+    "value": "Moving out.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f94c1c65-f776-5f6a-a7e7-f4e9ca443d67"
+  },
+  {
+    "value": "Orders are orders.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "61f9d574-2e4e-5831-84db-43c37a6226fe"
+  },
+  {
+    "value": "I will comply.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "766f26db-c6d1-5462-935e-805d0af5fcea"
+  },
+  {
+    "value": "Understood.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "432aa235-d891-58d2-bb10-0df8d49d2dc5"
+  },
+  {
+    "value": "Not a problem.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4ae1812d-b8c7-567c-ab6a-1e9917bec380"
+  },
+  {
+    "value": "On patrol.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Move",
+    "isHero": false,
+    "isMelee": false,
+    "id": "92d0d92b-fae5-553c-9a3d-4c9910ef2759"
+  },
+  {
+    "value": "I do what must be done.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "24ecf50e-5b6f-5739-8a63-60bb9b4f499b"
+  },
+  {
+    "value": "For our future!",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6e86cc42-185c-5ad0-ad73-7b69064ed373"
+  },
+  {
+    "value": "Switching to full auto.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "b21ed2f7-6209-5790-b4dd-0581ccb48ac8"
+  },
+  {
+    "value": "Hostile.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "6f01f00f-e0a1-5722-b0c6-9b1245e0f36a"
+  },
+  {
+    "value": "Kill order received.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "9218e382-98de-5c5a-9f61-f68c627a6a6c"
+  },
+  {
+    "value": "Target locked.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "4d004734-bd9b-59c9-99ed-aaf0c32d82cd"
+  },
+  {
+    "value": "Taking aim.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "69f71e06-6ef8-5ffb-81e5-40eb182feda7"
+  },
+  {
+    "value": "The end is in our grasp.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "0c3abbd1-9836-5990-886a-75cd11145ab7"
+  },
+  {
+    "value": "Command? Is your voice, uh, different?",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "3945a657-032c-5da2-998a-d13438611fbe"
+  },
+  {
+    "value": "Huh? Oh yeah you're right it's nothing.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "b396f1ba-210f-5c47-8682-808a99f6a5b1"
+  },
+  {
+    "value": "Yeah I'm a little short to be a trooper, but just... just a little.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "94da5039-f1d9-5d15-9310-fa359cc6b05b"
+  },
+  {
+    "value": "The mask just to cover our entire face you know, personally I blame budget cutbacks.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "dff7127a-317e-573b-92ee-c36ba010fdca"
+  },
+  {
+    "value": "For the Defenders of Man, we seem to do a lot of attacking. Ah, I'm sure that's not confusing.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "aed727bb-f34e-5a69-bd04-7f141b751e2e"
+  },
+  {
+    "value": "The best part of these goggles is binge watching holovids while the bosses think you're on patrol.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "8f8e9d24-2906-581f-8787-58f08de79514"
+  },
+  {
+    "value": "Look I need to get back to my route.",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "65940d8e-fa6d-5d88-95b6-5d78655fd2e1"
+  },
+  {
+    "value": "For humanity!",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fce2ccbe-9895-5525-853d-446760b2ca05"
+  },
+  {
+    "value": "What have I done?",
+    "faction": "Terran",
+    "unit": "Trooper",
+    "action": "Other",
+    "isHero": false,
+    "isMelee": false,
+    "id": "daa0dc1e-29b7-5eea-96dd-b358fd00152a"
   },
   {
     "value": "Alright! Bring it on!",
@@ -9484,6 +10978,15 @@
     "isHero": false,
     "isMelee": false,
     "id": "d4b798a6-965f-5cf5-b59f-3402ec96124e"
+  },
+  {
+    "value": "Warhound online.",
+    "faction": "Terran",
+    "unit": "Warhound",
+    "action": "Trained",
+    "isHero": false,
+    "isMelee": false,
+    "id": "9a50a890-1ae6-5a6b-a720-85869a45e512"
   },
   {
     "value": "Whoah-hah, now online.",
@@ -10044,1392 +11547,6 @@
     "id": "f87549d7-5a66-5cb9-9c80-6e2914eb1b9f"
   },
   {
-    "value": "Here's the beef!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "98c5cd96-1991-583d-a986-7c4cddecf309"
-  },
-  {
-    "value": "This ain't no bull! I'm in trouble!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "208a18fa-6bbe-5419-8ec2-ee2322a23ac2"
-  },
-  {
-    "value": "Got zerg on my left flank.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "db7f421b-94e3-564c-8a05-2c23aafe9c9c"
-  },
-  {
-    "value": "Milked up and good to go.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8beccd93-95ae-5dc3-a460-8574c6ce2c90"
-  },
-  {
-    "value": "Are you gonna give me udders?",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6ec35aec-0961-506f-8390-a49bbba624b2"
-  },
-  {
-    "value": "This codpiece gives me tenderloins.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "3aa37d69-ce02-5624-90bc-1f80711917d7"
-  },
-  {
-    "value": "The name's T-bone. Chuck T-bone.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1a817433-5fe6-57c4-9f0b-865e1d9cd454"
-  },
-  {
-    "value": "You will call me Sir... Loin.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "49d6172f-9d32-58fc-85bc-425008a33b5b"
-  },
-  {
-    "value": "Nice rack... ain't it.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8a1e5151-daeb-5e65-97c1-084ced634ca0"
-  },
-  {
-    "value": "Call me leather neck.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "148c0865-3ebf-5654-b17d-a5bf4a8573b0"
-  },
-  {
-    "value": "What's up beef jerky?",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "7c5e65ea-2622-5df0-89f6-71c05d5498d8"
-  },
-  {
-    "value": "Beefy!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "313041ca-53ff-5a8c-ad01-ec9cbd8bdca9"
-  },
-  {
-    "value": "I'll hoof it from here.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a367bc6f-a233-5a7e-a3be-6d0f6a037702"
-  },
-  {
-    "value": "Don't have a cow, man.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4e8d4f27-6f0f-56e2-b709-13e12f44fdad"
-  },
-  {
-    "value": "Give me something to chew.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0b5749a3-4143-569e-883e-f31b961efec5"
-  },
-  {
-    "value": "Don't prod me, boy.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "09ddf187-5765-5f97-8baf-5def971f0725"
-  },
-  {
-    "value": "Steer me this way.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "2908e1c2-f5ea-576d-801a-5188ab39b46b"
-  },
-  {
-    "value": "You're the Matador.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "2e0781f5-796b-53f9-ba27-fbbf64ec898c"
-  },
-  {
-    "value": "MOOve!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a86b9b4c-6f35-529c-bb7d-a9eb814b8392"
-  },
-  {
-    "value": "Stop staring on me like I'm some piece of meat.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "b686ec22-c810-5e06-b5df-a482cd3359dd"
-  },
-  {
-    "value": "Head 'um up, move 'em out",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "5e65d142-6052-5a6a-a260-312346ba2b59"
-  },
-  {
-    "value": "MOOOOve out!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "bd349921-c094-58f0-85e2-e0fffdd24298"
-  },
-  {
-    "value": "COWABUNGA!!!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "e901d1c4-7b42-5d1f-9530-e8bda17f532c"
-  },
-  {
-    "value": "Bullseye!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6378880e-1ba0-5c26-b55d-e392042d790a"
-  },
-  {
-    "value": "For the Hor... Wait! Go go go!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8c5a9be3-8c84-57d2-82f3-3523e34d92a3"
-  },
-  {
-    "value": "Staaaampede!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d7470b26-61be-5f3a-ba2e-4c887f091e8d"
-  },
-  {
-    "value": "He called my momma a cow!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "e6cd80b1-53c6-5726-b003-a07e60b61244"
-  },
-  {
-    "value": "You mess with the bull, you get the horns.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "063e9d54-f4fe-578e-abe7-31cd6edd5afc"
-  },
-  {
-    "value": "So my astrologer says that I'm stubborn and dependable, and blessed with bullish, pun intended, steadiness. She also said my lottery numbers were 4, 29, 19, 78. I haven't won yet!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1866566e-6223-569c-b57b-33e3266b5715"
-  },
-  {
-    "value": "My favorite band? Level 80 Elite Tauren Chieftain and the Jonas Brothers, of course!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "905ba3aa-0800-5413-a5aa-b986bed8bc8e"
-  },
-  {
-    "value": "You wanna piece of me, boy?",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "f9f077f4-fa8b-5b11-b0d7-6e302f4c5b73"
-  },
-  {
-    "value": "You wanna piece of MEAT, boy?",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "ac67dd47-13b5-53f8-812b-4b92d5072fdb"
-  },
-  {
-    "value": "Well, good! I got flank, shank, rib eye and brisket - take a pick.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "796570c6-ad63-50f1-9867-1f5c0b64d13d"
-  },
-  {
-    "value": "It's been long time since I had good milking.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d94f9676-8f1b-514d-8500-a16570b8197c"
-  },
-  {
-    "value": "How I get out of this bull sh outfit?!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "02607916-d168-5e96-932b-c93d6ffeb437"
-  },
-  {
-    "value": "For the Hor... I mean Swarm!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "7979f4b4-dcfa-50e1-9746-66175a3e4c62"
-  },
-  {
-    "value": "Aw, cud!",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "711a78d4-9154-59c6-81d6-9da7af3b3352"
-  },
-  {
-    "value": "Time to meet my butcher.",
-    "faction": "Terran",
-    "unit": "Tauren Marine",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "306269d2-04df-527c-8c55-871871e03afe"
-  },
-  {
-    "value": "Eureka!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "5b265711-d2e2-5dcf-b2f6-dfd04f1867cb"
-  },
-  {
-    "value": "Fascinating!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d76f94ce-ac46-576b-a269-eaaace38e08f"
-  },
-  {
-    "value": "Excelsior!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "54837286-804e-5ed3-949f-b3dc8551da8c"
-  },
-  {
-    "value": "Hmm, now where did I put my glasses?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "e430a4b9-da12-50f1-b2ce-90971c3b6762"
-  },
-  {
-    "value": "Now if we just cross the diapoles thus, we'll see, oh yes...",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "67f38e34-66c6-5775-86de-d72d794115d9"
-  },
-  {
-    "value": "The fellows will give me an award for this.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6ecd4b1b-5149-5d99-8a3d-9402ba8e238e"
-  },
-  {
-    "value": "No, no, no. Transgenic not mutagenic!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "06cd5ee0-5e65-5066-9a38-1a57076345f8"
-  },
-  {
-    "value": "My word! A total inversion of Boyle's law!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d0a365bc-35dd-5a19-93f5-00ccec65f077"
-  },
-  {
-    "value": "We're not all mad you know.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "648b4647-3eea-5a4b-ad9f-68684b8ef969"
-  },
-  {
-    "value": "Humanity must advance!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "ae18e1ab-b55d-5983-a7ba-69c463a04f62"
-  },
-  {
-    "value": "True science requires courage.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "93088322-353f-5f9c-9f25-f705f8e848af"
-  },
-  {
-    "value": "Help, they are firing at me!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "33b7391e-fd0e-59c5-8198-2beb23649df9"
-  },
-  {
-    "value": "Why are they attacking me?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a9ce5c1a-5b4c-566b-8a83-c9ef594e844a"
-  },
-  {
-    "value": "Yes?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6cfc59a9-a485-5a21-ab2b-e0bd002bc077"
-  },
-  {
-    "value": "Oh.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "39be362d-ab6e-5b82-88e8-9dffecfdfa37"
-  },
-  {
-    "value": "I just had an idea.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1f26e85d-94b7-5455-a473-789c45cfad3b"
-  },
-  {
-    "value": "What if, no.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a454766f-9dea-59c9-9fb5-e4c4b80fe3e6"
-  },
-  {
-    "value": "This had best be important.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "835b35d2-dbeb-5829-bc27-fe5e20e99f17"
-  },
-  {
-    "value": "What is it you need?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "32a22449-a31e-5029-a6b2-3013f6febec6"
-  },
-  {
-    "value": "Science department responding.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "fc9a1178-8765-5a94-8db7-1d0eb455de52"
-  },
-  {
-    "value": "Hmm, ready to proceed.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "effb8c0b-6f24-582b-b86a-407a21e97b20"
-  },
-  {
-    "value": "A curious proposal.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "53ac3937-5d6d-50a1-8435-c6d4d5470bcc"
-  },
-  {
-    "value": "Huh, let's get this over with",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "23be0882-9b2d-533e-8fe6-19e64900aa7e"
-  },
-  {
-    "value": "Yes, I see.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "b549ac41-7584-541f-84c1-3b226f784143"
-  },
-  {
-    "value": "Are you certain?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "70881642-e209-5c9f-8600-d2217d03bc12"
-  },
-  {
-    "value": "I'll be there shortly.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "ee44cfc2-0a97-5a94-8ea4-f3c5bb683edc"
-  },
-  {
-    "value": "Right, right.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "c9ddcc85-b565-54be-8a18-82582b9df85a"
-  },
-  {
-    "value": "This is highly unorthodox!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "bd64e478-6ce3-503f-999d-3370d2afb472"
-  },
-  {
-    "value": "Who, me?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "656b55cf-27a7-57d6-9539-c96b736f7e1b"
-  },
-  {
-    "value": "Are you sure?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "647a3e28-2698-561f-89fd-62e6f63d9bf9"
-  },
-  {
-    "value": "Shouldn't a trooper be doing this?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "f7b0bcf8-ae61-5d75-a608-8839f27bf6a4"
-  },
-  {
-    "value": "But I'm a man of science!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "3ee3be80-bc34-5bef-b614-184696fa4f04"
-  },
-  {
-    "value": "Perhaps someone with a gun would do better.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4bc83ff6-f588-5c96-bcf5-a6b385c24d10"
-  },
-  {
-    "value": "There is no logic behind this!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "577a129f-2f98-590f-8f84-b5b8750b08bd"
-  },
-  {
-    "value": "Is this how you address a superior officer?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "155cdb2d-0fbe-54e5-8c9e-0a6fecc3648b"
-  },
-  {
-    "value": "I'm willing to overlook this, but just this once, oh fine twice. Three times.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "c90128c4-00dc-53c2-a6f5-96121b55ebc1"
-  },
-  {
-    "value": "Huh, well at least you seem to understand the principles of thorough scientific testing.",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "eac90486-0b65-5fa8-9cad-9ec9845d8e12"
-  },
-  {
-    "value": "You do know what the definition of insanity is right?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "49f17a56-6ed2-5cff-8baa-0a97019a6fab"
-  },
-  {
-    "value": "I am THIS close to filing a formal complaint to administration!",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "47edb91e-48b2-5641-a5d8-480d1a33b6b8"
-  },
-  {
-    "value": "Huh? Yes, I suppose that would be a poor idea. What are we doing? Shouldn't I return to my research?",
-    "faction": "Terran",
-    "unit": "Scientist",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d32eb558-2e42-5e9f-b98b-94fc4288fb3b"
-  },
-  {
-    "value": "Rig startup complete.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "93188726-b4a8-5faf-9634-18838279ba01"
-  },
-  {
-    "value": "Let's get cracking.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a43b70f1-e15c-575a-93c8-a28997cfff8c"
-  },
-  {
-    "value": "Not doing so hot over here, boss!",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1599150e-143b-5ef4-b78b-54405ad03490"
-  },
-  {
-    "value": "Hey, things are getting real, real fast here!",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "68f165b4-54d3-5685-bf28-9e511d314166"
-  },
-  {
-    "value": "Speak up, boss.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "516561eb-e2c6-5b2c-b014-a87da577b437"
-  },
-  {
-    "value": "I read ya.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1dc77478-b22c-5f7e-a87b-97511410478b"
-  },
-  {
-    "value": "Whatcha need, man?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "08828231-a376-5155-9b70-8c0f9c5bde15"
-  },
-  {
-    "value": "Hmm?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d6b1f6bd-0a6d-5d27-b6b5-65072e18d6d3"
-  },
-  {
-    "value": "Got some work for me?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "2b2a3059-b940-5fa7-9cfc-07b0aa5165e2"
-  },
-  {
-    "value": "Finally, some work orders.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1e45e51a-b476-5777-9b4a-15493c52a0c1"
-  },
-  {
-    "value": "Yo.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "f3263515-ff8f-59e5-84cc-ce8a55ef0730"
-  },
-  {
-    "value": "What's up tough guy?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0eee4a73-7a84-5a7e-9301-5ac95cdabc9b"
-  },
-  {
-    "value": "Alrighty, I'm moving.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "99fc78f1-5264-5b13-901a-29adecdfd102"
-  },
-  {
-    "value": "Got it.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "39519516-479e-53ac-a29e-be12db5e857c"
-  },
-  {
-    "value": "Oh, I see it.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "876b907a-2d9f-56b8-a34c-34315cc58188"
-  },
-  {
-    "value": "Book'n and hook'n.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a41b41bc-2df2-59c2-8cea-95bd288ab0ba"
-  },
-  {
-    "value": "Hey, you're the boss.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4227cabb-96b1-53fb-b4e0-28135d07fbdc"
-  },
-  {
-    "value": "Site's this way.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "280fcf7c-3fb4-53df-966a-77a4c2b0baed"
-  },
-  {
-    "value": "Heading that way.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "d0877488-9b80-5076-91df-2665be58c90c"
-  },
-  {
-    "value": "No problemo.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6d1b6f3a-7608-59b6-ad14-3494a64f6a91"
-  },
-  {
-    "value": "No skin off my back.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "83ef196d-3efe-5c87-8318-2f662069bea6"
-  },
-  {
-    "value": "This guy's in for a shock.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "cfda0e1d-9640-58a4-8ac0-42a4d512e61c"
-  },
-  {
-    "value": "Let's crack 'em a part.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "094da42e-d5aa-543a-88b9-b79e91292436"
-  },
-  {
-    "value": "Sizzlin' time!",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0c6dec81-d9c6-5352-8cb3-0db9bca14936"
-  },
-  {
-    "value": "Love this part.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "e22e073e-ea4c-5076-9bf2-965833ebbadb"
-  },
-  {
-    "value": "Sparking up.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1d9d8fc2-7b91-5d64-a1c2-8140bc0a28bb"
-  },
-  {
-    "value": "Arc's alight.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "aa51d0fc-627e-53e1-b96a-65dc99b82cfd"
-  },
-  {
-    "value": "Ten thousand volts o' pain.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "a22dd3a6-96e1-5884-b02e-60071efcad7d"
-  },
-  {
-    "value": "That one, huh?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "20e7334f-6c8d-5d92-8706-223f74f35810"
-  },
-  {
-    "value": "You plan on spitting it out any time soon? I'm on the clock.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "2f60e629-dd0e-5e4c-89e5-05a59fcd8606"
-  },
-  {
-    "value": "So what, I'm in the army now? Man, you guys are just taking everyone, huh?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "b58194b4-c76a-50ee-b286-2143dbba63ec"
-  },
-  {
-    "value": "Alright. Space mining 101. They call this badboy an ARC gun. You point it an asteroid, squeeze the trigger, and BLAM, nothing but meteors.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "7f5c4108-0774-5f0f-8a44-4a0670c738b3"
-  },
-  {
-    "value": "I figure if it can crack open an asteroid, it can damn sure crack open a zerg, right?",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "67347944-7973-53d8-8589-3cffcb459e88"
-  },
-  {
-    "value": "If you think you need to puke while you're in deep space, don't. Seriously, it goes nowhere, and yet.... everywhere. It's all kinds of messed up.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "abc16751-44ff-5bea-8074-72a9a91471af"
-  },
-  {
-    "value": "Oh and to be clear, this whole leap on a guy and shock 'em to death thing is DEFINATELY against the safety protocols. Just sayin'.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "88b0f873-f53b-5d5a-9441-59181c8d7cdb"
-  },
-  {
-    "value": "You drill, you drop the nuke, and you leave. In that order.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8ca8575b-d16e-52e7-afd9-3e77f2818b7d"
-  },
-  {
-    "value": "Hey! Don't push me around like I'm one of your military men. I'm a miner, not a major.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "f95b27cc-7d3b-5c55-a139-aec8bd093e36"
-  },
-  {
-    "value": "I got real work to do, commander. Can't just sit here jabbering all day.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8cbe7a1b-fe47-5798-809b-407bb7c585d0"
-  },
-  {
-    "value": "Ugh.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4a721f84-c4a4-5b07-9b16-0668fc91e7d4"
-  },
-  {
-    "value": "Man that hurts.",
-    "faction": "Terran",
-    "unit": "HERC",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "68265526-5934-5e9c-a30e-1e65506162ce"
-  },
-  {
-    "value": "Some will die so that others may live.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "21a8dd4b-35ac-5193-8a46-b628d19642ea"
-  },
-  {
-    "value": "Safeguarding the future.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Trained",
-    "isHero": false,
-    "isMelee": false,
-    "id": "ad568a00-519b-56cd-ac01-8b1e9a7ed192"
-  },
-  {
-    "value": "Taking fire.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "c5f7f807-f128-552b-8af5-7216904cec08"
-  },
-  {
-    "value": "Engaging hostiles!",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attacked",
-    "isHero": false,
-    "isMelee": false,
-    "id": "c82b3c6c-657a-5ca5-95a9-d795c3af24d5"
-  },
-  {
-    "value": "Yes command?",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "30c13653-acf2-5e49-944f-147b5dc8539c"
-  },
-  {
-    "value": "Huh, com's a little fuzzy.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "7476cedd-856b-584d-8ceb-dc83b9ea7dcc"
-  },
-  {
-    "value": "Awaiting orders.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0409b531-e2aa-56d0-a55e-b0e282129271"
-  },
-  {
-    "value": "You got my attention.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "1e78ab6d-20f0-52f4-b367-ef5e68ad7cd6"
-  },
-  {
-    "value": "Ten-two receiving.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0e70fba2-827b-5c8e-a358-758b8699d60e"
-  },
-  {
-    "value": "Ready to serve.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "dff940db-3985-576d-ac4f-aefec46786b6"
-  },
-  {
-    "value": "Trooper standing by.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Selected",
-    "isHero": false,
-    "isMelee": false,
-    "id": "fdcc1f35-e3ee-5218-9dce-625ea7c2cd21"
-  },
-  {
-    "value": "With vigilance.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "5bdf6d6a-0c5a-5559-8bb2-1773c84f8cf9"
-  },
-  {
-    "value": "Eyes open.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4147400e-f147-5534-8d66-4c53f3e06910"
-  },
-  {
-    "value": "Moving out.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "f94c1c65-f776-5f6a-a7e7-f4e9ca443d67"
-  },
-  {
-    "value": "Orders are orders.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "61f9d574-2e4e-5831-84db-43c37a6226fe"
-  },
-  {
-    "value": "I will comply.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "766f26db-c6d1-5462-935e-805d0af5fcea"
-  },
-  {
-    "value": "Understood.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "432aa235-d891-58d2-bb10-0df8d49d2dc5"
-  },
-  {
-    "value": "Not a problem.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4ae1812d-b8c7-567c-ab6a-1e9917bec380"
-  },
-  {
-    "value": "On patrol.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Move",
-    "isHero": false,
-    "isMelee": false,
-    "id": "92d0d92b-fae5-553c-9a3d-4c9910ef2759"
-  },
-  {
-    "value": "I do what must be done.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "24ecf50e-5b6f-5739-8a63-60bb9b4f499b"
-  },
-  {
-    "value": "For our future!",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6e86cc42-185c-5ad0-ad73-7b69064ed373"
-  },
-  {
-    "value": "Switching to full auto.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "b21ed2f7-6209-5790-b4dd-0581ccb48ac8"
-  },
-  {
-    "value": "Hostile.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "6f01f00f-e0a1-5722-b0c6-9b1245e0f36a"
-  },
-  {
-    "value": "Kill order received.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "9218e382-98de-5c5a-9f61-f68c627a6a6c"
-  },
-  {
-    "value": "Target locked.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "4d004734-bd9b-59c9-99ed-aaf0c32d82cd"
-  },
-  {
-    "value": "Taking aim.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "69f71e06-6ef8-5ffb-81e5-40eb182feda7"
-  },
-  {
-    "value": "The end is in our grasp.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
-    "id": "0c3abbd1-9836-5990-886a-75cd11145ab7"
-  },
-  {
-    "value": "Command? Is your voice, uh, different?",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "3945a657-032c-5da2-998a-d13438611fbe"
-  },
-  {
-    "value": "Huh? Oh yeah you're right it's nothing.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "b396f1ba-210f-5c47-8682-808a99f6a5b1"
-  },
-  {
-    "value": "Yeah I'm a little short to be a trooper, but just... just a little.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "94da5039-f1d9-5d15-9310-fa359cc6b05b"
-  },
-  {
-    "value": "The mask just to cover our entire face you know, personally I blame budget cutbacks.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "dff7127a-317e-573b-92ee-c36ba010fdca"
-  },
-  {
-    "value": "For the Defenders of Man, we seem to do a lot of attacking. Ah, I'm sure that's not confusing.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "aed727bb-f34e-5a69-bd04-7f141b751e2e"
-  },
-  {
-    "value": "The best part of these goggles is binge watching holovids while the bosses think you're on patrol.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "8f8e9d24-2906-581f-8787-58f08de79514"
-  },
-  {
-    "value": "Look I need to get back to my route.",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
-    "id": "65940d8e-fa6d-5d88-95b6-5d78655fd2e1"
-  },
-  {
-    "value": "For humanity!",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "fce2ccbe-9895-5525-853d-446760b2ca05"
-  },
-  {
-    "value": "What have I done?",
-    "faction": "Terran",
-    "unit": "Trooper",
-    "action": "Other",
-    "isHero": false,
-    "isMelee": false,
-    "id": "daa0dc1e-29b7-5eea-96dd-b358fd00152a"
-  },
-  {
     "value": "Commander?",
     "faction": "Terran",
     "unit": "Egon Stetmann",
@@ -11583,643 +11700,274 @@
     "id": "5a80a1ce-c57f-5332-9c10-d4a32e9e1b9e"
   },
   {
-    "value": "Failure is never an option.",
+    "value": "Killin' time!",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Trained",
     "isHero": true,
     "isMelee": false,
-    "id": "5c5a3cd0-6a72-5456-bfc7-f06a9f51a3e6"
+    "id": "49bdfe3d-bf1e-55e5-855e-c87f0617b0c3"
   },
   {
-    "value": "Request immediate evac!",
+    "value": "Gonna be a ghost for real.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "d5b8f562-5cce-5712-ac93-3eaf93a83494"
+    "id": "44530d91-3299-5409-8336-b1bf45838952"
   },
   {
-    "value": "Nova here.",
+    "value": "You got me into this. Get me out!",
     "faction": "Terran",
-    "unit": "Nova",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "9c015643-a5a7-52db-ae9e-f5aafc9f1392"
-  },
-  {
-    "value": "Say again?",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "218667ad-f5c2-5669-aa72-d034d73ab5b9"
-  },
-  {
-    "value": "Confirm that last?",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "acef0da0-bab1-5ed2-88de-fb625ece02f1"
-  },
-  {
-    "value": "I'm reading you.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "3975dced-27c1-58b0-9af2-3946f2471b88"
-  },
-  {
-    "value": "Status report.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "2f771cca-fb6f-5788-a23a-d448837f7541"
-  },
-  {
-    "value": "Strictly business.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1d451c1d-4c2b-5fe3-b988-34ede2254e7f"
-  },
-  {
-    "value": "Acknowledged.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e54aaa15-8f81-53fc-bc6b-de21a185c705"
-  },
-  {
-    "value": "En route.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "994e16bb-a01d-5e0a-8bc7-1877af0ff709"
-  },
-  {
-    "value": "Got it.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "3ab56986-0828-567a-bc90-7bbe33e1cfed"
-  },
-  {
-    "value": "Loud and clear.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "b0229ead-b368-5139-a3c1-74a8917213ef"
-  },
-  {
-    "value": "On the move.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "addf8ada-7a8f-5d46-aea6-6cfcf9d3bcb9"
-  },
-  {
-    "value": "I'll make it happen.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "49fc0e8d-8da7-5341-8b0a-d22b81970fde"
-  },
-  {
-    "value": "Executing.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "27de7065-ea44-5722-a8e0-7e8b466ef6ab"
-  },
-  {
-    "value": "Consider it done.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e6ab939e-6370-5c58-aff2-1480afa0b12c"
-  },
-  {
-    "value": "Preparing to terminate.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "f9805385-02f8-5992-a60c-805925c22530"
-  },
-  {
-    "value": "Engaging the enemy.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1474baae-f238-5f56-8251-e7b17c2f93c5"
-  },
-  {
-    "value": "On the offensive.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "c401bf77-dee3-50fe-b246-ddadcee02dc3"
-  },
-  {
-    "value": "Advancing on target.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "f41c5c2e-4620-5a97-9a50-4ecbcd7a6461"
-  },
-  {
-    "value": "They won't see me coming.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e0834883-c941-5fad-9c43-5f1584133e19"
-  },
-  {
-    "value": "Initiating assault.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "07660150-6c63-574b-8391-61e7cf3e3206"
-  },
-  {
-    "value": "The enemies of the Dominion are everywhere.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e3a85260-c66b-51ee-9298-9c370bc5312b"
-  },
-  {
-    "value": "I'm a professional. The best of the best.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "5d8ad4b3-3010-5835-a53e-9b7fffb0f7b2"
-  },
-  {
-    "value": "We've all got skeletons in the closet. Keep it up, and I'll add yours to mine.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1eb6374a-dac1-579f-8a98-a21123f6b223"
-  },
-  {
-    "value": "I can read your mind. Not a lot going on in there.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e9fe9a15-225a-5bf2-8eca-60e4c9f3bd1f"
-  },
-  {
-    "value": "Get your mind out of the gutter.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "c1e0437e-56f5-5a36-86ac-14ac3fa51202"
-  },
-  {
-    "value": "Keep it up. I will use deadly force.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "00745f86-919d-5755-b069-2e83dc1c5188"
-  },
-  {
-    "value": "Your actions are embarrassing both of us",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1b528d8f-40da-5be5-9dc3-b59ff67a7395"
-  },
-  {
-    "value": "I can shoot the wings off a fly. Imagine what I can do to you.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "ff561bcc-289a-57d5-9e07-23ef3ad5bf58"
-  },
-  {
-    "value": "Who are you? Nevermind, I remember.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "4aeb1e24-3b1a-5418-89f7-3cb59d5aad13"
-  },
-  {
-    "value": "WHO are you?",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "25ca8168-1db2-5dce-b19d-d0d2330b52e1"
-  },
-  {
-    "value": "Mission terminated.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "311a8633-d6c9-5a84-8f91-3992aa0d048c"
-  },
-  {
-    "value": "This is Nova, signing off.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "cec5fc02-d431-5a24-ae28-4258782d5fca"
-  },
-  {
-    "value": "Ready for action.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Trained",
-    "isHero": true,
-    "isMelee": false,
-    "id": "425d769f-0392-5a9c-b05f-a1d115515783"
-  },
-  {
-    "value": "Engaging enemy.",
-    "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attacked",
     "isHero": true,
     "isMelee": false,
-    "id": "bd607a06-295d-5d22-83d6-2c28d62d0980"
+    "id": "776d22b7-c4ae-5d8f-8a53-07d8ad7db9c3"
   },
   {
-    "value": "Nova here.",
+    "value": "You askin', or tellin'?",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "9c015643-a5a7-52db-ae9e-f5aafc9f1392"
+    "id": "25b5243f-49fa-59a3-9f7b-57ad8c99297f"
   },
   {
-    "value": "Say again?",
+    "value": "Open your mind.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "218667ad-f5c2-5669-aa72-d034d73ab5b9"
+    "id": "eb7034fe-977e-59cb-867e-7872966fc646"
   },
   {
-    "value": "Confirm that last?",
+    "value": "I know it before you see it.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "acef0da0-bab1-5ed2-88de-fb625ece02f1"
+    "id": "68d14b32-ce4f-5f09-9a82-8bc7b92e7772"
   },
   {
-    "value": "I'm reading you.",
+    "value": "Out with it.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "3975dced-27c1-58b0-9af2-3946f2471b88"
+    "id": "7145628e-05b0-54fc-af3f-a9e99f4667b2"
   },
   {
-    "value": "Status report.",
+    "value": "Talk is cheap.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "2f771cca-fb6f-5788-a23a-d448837f7541"
+    "id": "d801d217-8129-5122-adb2-b46de06779ab"
   },
   {
-    "value": "Strictly business.",
+    "value": "Convince me.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "54830725-0874-5007-8525-c752fc219341"
+  },
+  {
+    "value": "What's crackin'?",
+    "faction": "Terran",
+    "unit": "Gabriel Tosh",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "75150dd5-580e-52b9-9d79-d963c3969e20"
+  },
+  {
+    "value": "Let's do this.",
+    "faction": "Terran",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "1d451c1d-4c2b-5fe3-b988-34ede2254e7f"
+    "id": "24b9271c-2925-5bc0-9567-96cf20df5f9c"
   },
   {
-    "value": "Acknowledged.",
+    "value": "Let's just see about that.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "e54aaa15-8f81-53fc-bc6b-de21a185c705"
+    "id": "ee9c7106-3a6a-5801-8a7c-4df31b6aa8cb"
   },
   {
-    "value": "En route.",
+    "value": "Damn straight.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "994e16bb-a01d-5e0a-8bc7-1877af0ff709"
+    "id": "b0b066ce-8c51-509b-a262-a30ca4334989"
   },
   {
-    "value": "Got it.",
+    "value": "Maybe yes, maybe no.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "3ab56986-0828-567a-bc90-7bbe33e1cfed"
+    "id": "9fa0ace0-908a-58a0-a4df-9f053e47d681"
   },
   {
-    "value": "Loud and clear.",
+    "value": "Irie.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "b0229ead-b368-5139-a3c1-74a8917213ef"
+    "id": "494622b2-b8a9-54e5-95af-792ccf331413"
   },
   {
-    "value": "On the move.",
+    "value": "I do, what I wanna do.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Move",
     "isHero": true,
     "isMelee": false,
-    "id": "addf8ada-7a8f-5d46-aea6-6cfcf9d3bcb9"
+    "id": "e5ffeef3-013d-58d8-9dfe-966180bffd50"
   },
   {
-    "value": "I'll make it happen.",
+    "value": "Bad mojo on the way.",
     "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "49fc0e8d-8da7-5341-8b0a-d22b81970fde"
-  },
-  {
-    "value": "Executing.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "27de7065-ea44-5722-a8e0-7e8b466ef6ab"
-  },
-  {
-    "value": "Consider it done.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e6ab939e-6370-5c58-aff2-1480afa0b12c"
-  },
-  {
-    "value": "Preparing to terminate.",
-    "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f9805385-02f8-5992-a60c-805925c22530"
+    "id": "86316c7b-275f-55b9-ba98-eb561073fffb"
   },
   {
-    "value": "Engaging the enemy.",
+    "value": "Extinguish the flame.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "1474baae-f238-5f56-8251-e7b17c2f93c5"
+    "id": "66f289cd-6c88-5651-ad99-543d9f19b92d"
   },
   {
-    "value": "On the offensive.",
+    "value": "Gonna do it real quiet.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "c401bf77-dee3-50fe-b246-ddadcee02dc3"
+    "id": "1ce121e6-4d4d-5298-910c-1c13009339c3"
   },
   {
-    "value": "Advancing on target.",
+    "value": "Bleed 'em slow.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f41c5c2e-4620-5a97-9a50-4ecbcd7a6461"
+    "id": "acd4aab5-5daa-52af-888e-2d388f906428"
   },
   {
-    "value": "They won't see me coming.",
+    "value": "Trust ain't easy to come by.",
     "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e0834883-c941-5fad-9c43-5f1584133e19"
-  },
-  {
-    "value": "Initiating assault.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "07660150-6c63-574b-8391-61e7cf3e3206"
-  },
-  {
-    "value": "Another slow day in this line of work.",
-    "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "6e195694-d4ba-5304-b568-e84d27024487"
+    "id": "3e019e0e-0d47-543c-8b3b-a072fd8b089c"
   },
   {
-    "value": "I've made a few enemies over the years. But nothing like this.",
+    "value": "Fear is my greatest weapon.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "c11f30de-9854-52f9-b510-0b217d243ca5"
+    "id": "16806e27-b6a3-5313-ad6a-8ce55709ac75"
   },
   {
-    "value": "I'd read their minds, except there's just not enough going on in there.",
+    "value": "You're dead, and you don't even know it.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "ec717aba-c5f0-59be-aec7-d483d749210e"
+    "id": "48d0ddf0-8c7c-51be-807a-424caaf83707"
   },
   {
-    "value": "You might say I have a special talent...for ending up in the middle of bad situations.",
+    "value": "I ain't afraid of no ghost.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "953de605-f287-578c-956f-36b303c6a3e3"
+    "id": "79bfe11a-c635-5f11-a24b-800713dd44ab"
   },
   {
-    "value": "Here in the Dominion, the emperors change, but the soldiers stay the same.",
+    "value": "Who you gonna call?",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "244e53a1-13e1-5364-974d-78c97a19b5c1"
+    "id": "44ec7294-bd3d-5b9d-9c50-b8b17ef99fba"
   },
   {
-    "value": "It's fitting that they call us ghosts, you know. After we join, we leave our old lives behind. Families, friends, they all just...disappear.",
+    "value": "My gun be jammin'!",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "3766e534-4336-55c2-b7a7-17c98d66a85c"
+    "id": "a99e8d31-c5be-5fe2-935b-c0a77f7a0343"
   },
   {
-    "value": "At one point all I wanted was to forget my past. I finished my training and my memories were wiped clean. Got 'em back a few years later. Long story.",
+    "value": "Watch the voodoo that I do.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "e9746175-f99d-5dea-9fa8-a2f71b7a2d70"
+    "id": "4c5ba9ca-2a62-51f3-ac76-d9190b6cb750"
   },
   {
-    "value": "The sector has problems. And I have solutions.",
+    "value": "Don't be bringing me back.",
     "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "42b8db66-a362-52f0-9672-06b3562f401a"
-  },
-  {
-    "value": "You're not going to become a problem, are you?",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "2e53ece2-eafc-57de-b6b2-b8094e7092d0"
-  },
-  {
-    "value": "Trust me, I've got enough attitude for the both of us.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "09b297d9-1705-5310-b356-cefa4bdf980d"
-  },
-  {
-    "value": "You're lucky I still have a neural inhibitor.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "7c73bf55-e198-5268-a59c-70057ff7f2e2"
-  },
-  {
-    "value": "Follow my orders.",
-    "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "6406b5bc-8500-553f-83d4-5766c2f13696"
+    "id": "87d3c8aa-bd8b-5b26-8a3a-c61db36128e1"
   },
   {
-    "value": "I'm in command.",
+    "value": "I'm out!",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "fa49e255-dd09-5b7b-bbfe-dd0d2f48ef51"
+    "id": "bc2062f6-b024-555d-a324-6c9705e8c599"
   },
   {
-    "value": "Listen closely.",
+    "value": "Ooh... damn.",
     "faction": "Terran",
-    "unit": "Nova",
+    "unit": "Gabriel Tosh",
     "action": "Other",
     "isHero": true,
     "isMelee": false,
-    "id": "2e469859-0121-5842-9c35-db8439a2c9d8"
-  },
-  {
-    "value": "Subject terminated.",
-    "faction": "Terran",
-    "unit": "Nova",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "a913e961-49bf-5c9c-b02c-c76e20948b08"
+    "id": "c1078b36-ac47-568d-bef5-1f31a341c4fb"
   },
   {
     "value": "Let's make it count.",
@@ -12562,6 +12310,1320 @@
     "isHero": true,
     "isMelee": false,
     "id": "23cc505b-31ab-5cb6-956e-6dc0691d0163"
+  },
+  {
+    "value": "Hyperion: Online and prepped",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "57976c17-38ce-553d-83a7-0cead622e5c7"
+  },
+  {
+    "value": "We’re under heavy fire here!",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9ebe71aa-765f-5b1e-a4af-fedb64d593ef"
+  },
+  {
+    "value": "Contain that hull breach!",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "19a535e7-bdb8-5899-8f34-e79d41773c1b"
+  },
+  {
+    "value": "Hyperion Actual.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c2241ff5-4b08-55f3-8451-4172cd578188"
+  },
+  {
+    "value": "Radio Check, over.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "835bba86-c779-5987-a21e-6188c029cf4f"
+  },
+  {
+    "value": "Communications online.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a4ca2e74-05df-53de-9d8a-9579858a3b47"
+  },
+  {
+    "value": "Awaiting Confirmation.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5e8be04f-b1bc-5130-a4a8-eb0e66e08ac1"
+  },
+  {
+    "value": "Horner responding.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "533d4bca-8f7f-52bd-9edd-e7bc158af62f"
+  },
+  {
+    "value": "Receiving transmission.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "edca17d9-d042-5653-860b-fa446de2489a"
+  },
+  {
+    "value": "Course Laid in.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9f231e1d-d73b-51f1-91a4-ad71e7e953d9"
+  },
+  {
+    "value": "Nice and easy",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "19a4faf5-3031-5584-9db1-207bd11ff531"
+  },
+  {
+    "value": "Make it so.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "32092c23-6e4d-558b-8f92-59c84e2b7193"
+  },
+  {
+    "value": "Bring us around.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "58d6d31f-cc22-5780-9994-c4d92c0057fd"
+  },
+  {
+    "value": "Locked in.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4bc6e6f7-cd71-574e-a17f-040ef639f128"
+  },
+  {
+    "value": "Confirmed.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "b1b712a2-cf5d-55db-a7ec-05f3de9c2a84"
+  },
+  {
+    "value": "Easy thrusters.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3cfe8321-9e4f-5f13-9362-fa4e06fb5e8c"
+  },
+  {
+    "value": "Keep your eyes open.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6b15c1e2-5e27-54cc-bc6a-09edc7aaf180"
+  },
+  {
+    "value": "Systems are go.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7bf12b5c-4a8b-5b44-a5e5-7a765c263a8b"
+  },
+  {
+    "value": "Focus all batteries.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4c866d65-8c73-5669-a7ae-9bdc642a561f"
+  },
+  {
+    "value": "The outcome is not in question.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f9536944-99e6-533f-a731-731e0cff5da5"
+  },
+  {
+    "value": "Let’s show them what this boat can do.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cf3b7310-dc7a-5d34-97f5-bfb945d689f7"
+  },
+  {
+    "value": "All hands to battle stations.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "61edb574-6634-554e-9cdb-89a5064b9e83"
+  },
+  {
+    "value": "Get aggressive, Raiders.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1cac1c2a-864b-505f-a4c1-13ef69c3bb76"
+  },
+  {
+    "value": "We’re going hot!",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6ad35f81-1c43-528c-9b82-a173e352c37d"
+  },
+  {
+    "value": "It’s nothing personal.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ef1032df-c23f-5709-9bfb-a29b235d6cad"
+  },
+  {
+    "value": "Hostiles confirmed and locked.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "b4a55b33-4c48-5cb3-a66c-d2c43aeb8397"
+  },
+  {
+    "value": "Agh, is this thing working?",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "15a6032c-22d2-5786-b675-3d9f47121f5d"
+  },
+  {
+    "value": "Swann, I think we lost the comm station.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "fe7683f5-c139-59f1-ac97-4e75ad2292f2"
+  },
+  {
+    "value": "Is anyone there?",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "177476a8-e711-5be6-a4aa-20b7c432838a"
+  },
+  {
+    "value": "Mira, is that you?",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a95f47a3-99b9-5485-90e8-4af0acdda78b"
+  },
+  {
+    "value": "I swear, I’ll never play cards again",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "fbcfeba4-d0dd-54ee-9e28-7592480c6d4d"
+  },
+  {
+    "value": "Bloody pirates",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cd9958c5-4e92-596d-8e40-98c4c641e366"
+  },
+  {
+    "value": "Hyperion may not look like much, but she’s got it where it counts.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1fbce09f-0a9e-57c8-a7c7-94fc4c052e67"
+  },
+  {
+    "value": "I’d place the odds of successfully navigating this asteroid field at 3720… to 1.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8743ef13-56ae-5ecb-b19e-98a5323c4273"
+  },
+  {
+    "value": "Hit that bulls-eye and the dominos will fall like a house of cards, Checkmate",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29bf62a5-da93-561b-a66b-37412628b121"
+  },
+  {
+    "value": "Hyperion’s a good ship, wait till you see her after I blow out her exhaust.",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "322622de-e1ec-5c10-ac6b-9fbb857bd697"
+  },
+  {
+    "value": "My ship! UGH!",
+    "faction": "Terran",
+    "unit": "Matt Horner",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "02d2538a-3abe-5cca-8660-79d1d3f17d69"
+  },
+  {
+    "value": "Failure is never an option.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "21272274-e139-5f5f-bd6f-53e0803320c5"
+  },
+  {
+    "value": "Request immediate evac!",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f2a1ada1-6723-55ab-9a05-9fb158724124"
+  },
+  {
+    "value": "Nova here.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26077752-f46f-5a80-aef4-1c3d5beb74ec"
+  },
+  {
+    "value": "Say again?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c3edaf7f-e3fc-5d9b-80ae-63cae5d6d817"
+  },
+  {
+    "value": "Confirm that last?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cdb8e625-7f91-51af-ab71-704e2d7c19c0"
+  },
+  {
+    "value": "I'm reading you.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "acd08e99-ae90-5662-80f6-ce1e1888b405"
+  },
+  {
+    "value": "Status report.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "537c4173-00c5-53f0-a2bd-bc8bed67a8fe"
+  },
+  {
+    "value": "Strictly business.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "597decff-09b4-5eb1-88fb-81ff32837313"
+  },
+  {
+    "value": "Acknowledged.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1ee7ce2c-00fa-5a23-9719-df662ce21bc2"
+  },
+  {
+    "value": "En route.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "80f15923-57de-5110-887a-6f2f927ae584"
+  },
+  {
+    "value": "Got it.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4f755927-6ecc-5a4e-adf7-f1ce56280223"
+  },
+  {
+    "value": "Loud and clear.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "aa29a40a-ceca-556d-9561-dc3e25c91392"
+  },
+  {
+    "value": "On the move.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "757febf3-cb9d-5438-a524-0ecbd7852ba5"
+  },
+  {
+    "value": "I'll make it happen.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3f93aff4-26ae-51fa-9207-b354fb22668b"
+  },
+  {
+    "value": "Executing.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "53c48675-8df0-506c-86c6-e75c5fa3da5f"
+  },
+  {
+    "value": "Consider it done.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "552e263b-4a50-59a8-aefe-e4f1b0fafbfb"
+  },
+  {
+    "value": "Preparing to terminate.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ab524bc9-ab5a-5367-9503-33a7cdfaec0a"
+  },
+  {
+    "value": "Engaging the enemy.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a95991ad-924c-55df-adad-394332e6d5e2"
+  },
+  {
+    "value": "On the offensive.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "69741934-bc60-56ac-8980-98f52935d43f"
+  },
+  {
+    "value": "Advancing on target.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "39b93617-6ae8-5d47-8e62-a13464fa5f90"
+  },
+  {
+    "value": "They won't see me coming.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "54c4335e-176b-5feb-95a8-01f57261281b"
+  },
+  {
+    "value": "Initiating assault.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86251b56-35e3-59b4-962c-dd2bd112b9db"
+  },
+  {
+    "value": "The enemies of the Dominion are everywhere.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a1b18145-2786-5a70-a5c3-86890d78c6c5"
+  },
+  {
+    "value": "I'm a professional. The best of the best.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f95511a5-9afd-51f1-a3d7-e60f37361122"
+  },
+  {
+    "value": "We've all got skeletons in the closet. Keep it up, and I'll add yours to mine.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "00601a25-e8dd-5da4-87e1-2e26fa4d264e"
+  },
+  {
+    "value": "I can read your mind. Not a lot going on in there.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "813b1b37-66c9-57e5-960d-e6a6f16e57bd"
+  },
+  {
+    "value": "Get your mind out of the gutter.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c5a9a889-562f-57b5-9909-e0db9dc04f3b"
+  },
+  {
+    "value": "Keep it up. I will use deadly force.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d21927c6-20a7-53e2-bf9f-0271d42ae04e"
+  },
+  {
+    "value": "Your actions are embarrassing both of us",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4baee697-1597-506c-ac70-59bb585c5371"
+  },
+  {
+    "value": "I can shoot the wings off a fly. Imagine what I can do to you.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "20e1a9fe-1055-5e6d-bfd7-052d29d64951"
+  },
+  {
+    "value": "Who are you? Nevermind, I remember.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "fdfb9c3f-1fdf-596a-8b73-ba8dbfd956f0"
+  },
+  {
+    "value": "WHO are you?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "66618398-558a-580a-951c-d2a83bbb8ac9"
+  },
+  {
+    "value": "Mission terminated.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4041a627-b5d9-50bd-88ef-b184bb17cdc6"
+  },
+  {
+    "value": "This is Nova, signing off.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "0a70e7e4-f771-5f85-85b4-73ae6135923e"
+  },
+  {
+    "value": "Ready for combat.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Trained",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cfa0fea5-97f8-5be4-ad05-0db4d304dcda"
+  },
+  {
+    "value": "Engaging the enemy.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attacked",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d595b0d2-5164-5813-a3dc-dc5b1e46a553"
+  },
+  {
+    "value": "Nova here.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26077752-f46f-5a80-aef4-1c3d5beb74ec"
+  },
+  {
+    "value": "Say again?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c3edaf7f-e3fc-5d9b-80ae-63cae5d6d817"
+  },
+  {
+    "value": "Confirm that last?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cdb8e625-7f91-51af-ab71-704e2d7c19c0"
+  },
+  {
+    "value": "I'm reading you.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "acd08e99-ae90-5662-80f6-ce1e1888b405"
+  },
+  {
+    "value": "Status report.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "537c4173-00c5-53f0-a2bd-bc8bed67a8fe"
+  },
+  {
+    "value": "This isn't going to be easy.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4c391f6d-46f5-55d0-aaaf-af8febc1ef5e"
+  },
+  {
+    "value": "Better hurry.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "fd68e9a7-77b4-59bb-97b8-246047ad0c17"
+  },
+  {
+    "value": "What happened here?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "afeda77f-cab2-5488-a911-da242540a0bc"
+  },
+  {
+    "value": "I need to go.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2e67d48b-7fc9-5efe-849d-34e72e59a556"
+  },
+  {
+    "value": "I don't have long.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Selected",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9f1cfa91-6b13-5d6e-ba8a-54bc25789453"
+  },
+  {
+    "value": "Strictly business.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "597decff-09b4-5eb1-88fb-81ff32837313"
+  },
+  {
+    "value": "Acknowledged.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1ee7ce2c-00fa-5a23-9719-df662ce21bc2"
+  },
+  {
+    "value": "En route.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "80f15923-57de-5110-887a-6f2f927ae584"
+  },
+  {
+    "value": "Got it.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "4f755927-6ecc-5a4e-adf7-f1ce56280223"
+  },
+  {
+    "value": "Loud and clear.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "aa29a40a-ceca-556d-9561-dc3e25c91392"
+  },
+  {
+    "value": "On the move.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "757febf3-cb9d-5438-a524-0ecbd7852ba5"
+  },
+  {
+    "value": "I'll make it happen.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3f93aff4-26ae-51fa-9207-b354fb22668b"
+  },
+  {
+    "value": "Executing.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "53c48675-8df0-506c-86c6-e75c5fa3da5f"
+  },
+  {
+    "value": "Consider it done.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "552e263b-4a50-59a8-aefe-e4f1b0fafbfb"
+  },
+  {
+    "value": "Understood.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "afb3e086-f483-5e9a-94fa-9bddda22903e"
+  },
+  {
+    "value": "This could get messy.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "644c85be-23ba-52e0-884e-3e93e19eddd0"
+  },
+  {
+    "value": "Heading out.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f4eb702a-b4a7-5943-bdbd-5ea279162c88"
+  },
+  {
+    "value": "Whatever it takes.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d740344a-56b3-57fc-9383-a8d2407caa21"
+  },
+  {
+    "value": "I can do this.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Move",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8205b76c-3dec-5d2c-bfcf-4e7968ef90f7"
+  },
+  {
+    "value": "Enemy sighted.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "abd87e0d-2a38-5eb9-8dca-a2c77ed24f09"
+  },
+  {
+    "value": "Terminating.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "43f58a81-b189-5087-a264-a13317402741"
+  },
+  {
+    "value": "Opening fire.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "05153a75-3cc8-5706-91da-906e2b9a7f16"
+  },
+  {
+    "value": "On the offensive.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "69741934-bc60-56ac-8980-98f52935d43f"
+  },
+  {
+    "value": "Advancing on target.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "39b93617-6ae8-5d47-8e62-a13464fa5f90"
+  },
+  {
+    "value": "Initiating assault.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "86251b56-35e3-59b4-962c-dd2bd112b9db"
+  },
+  {
+    "value": "Ready for combat.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "767502e8-59e5-54b9-8f1a-966fc9201133"
+  },
+  {
+    "value": "I serve the dominion.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d1220d8e-6b69-5459-8a4c-cf6955e9b242"
+  },
+  {
+    "value": "Never a slow day in this line of work.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cc6eaccf-379d-5f59-92fc-e6a38337d56d"
+  },
+  {
+    "value": "I've made a few enemies over the years, but nothing like this.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82277aaa-a273-5840-8eff-7d4a7a4a090c"
+  },
+  {
+    "value": "I'd read their minds, except there's just not enough going on in there.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a8188a12-ec03-5859-8c02-21c40d29db5e"
+  },
+  {
+    "value": "You might say I have a special talent...for ending up in the middle of bad situations.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "00a66d61-6600-5304-8485-401276f48066"
+  },
+  {
+    "value": "Here in the Dominion, the emperors change, but the soldiers stay the same.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "1f6b3eb9-a70c-5826-bb71-a683b2800b74"
+  },
+  {
+    "value": "It's fitting that they call us ghosts, you know. After we join, we leave our old lives behind. Families, friends, they all just...disappear.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8f31d02a-bc97-5f98-86df-56b02129bfab"
+  },
+  {
+    "value": "At one point all I wanted was to forget my past. I finished my training and my memories were wiped clean. Got 'em back a few years later. Long story.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a01508dc-0796-546d-9eaa-25565eadf383"
+  },
+  {
+    "value": "The sector has problems. And I have solutions.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3b9d959c-10bf-5c29-8ee4-904aef182190"
+  },
+  {
+    "value": "You're not going to become a problem, are you?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbf1fce-87b7-5089-90a7-ed12167ad6b9"
+  },
+  {
+    "value": "Trust me, I've got enough attitude for the both of us.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "30017bea-2fc4-5033-9e90-38c5b25ebe60"
+  },
+  {
+    "value": "You're lucky I still have a neural inhibitor.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2c97f969-4a44-5bd8-9a93-557e252cf4ae"
+  },
+  {
+    "value": "Time to get moving.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "e7e3744f-f037-5f9a-9a27-c307455efbb5"
+  },
+  {
+    "value": "Bringing out the big guns!",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7b15458f-606a-5a06-a20f-38cc10c25d68"
+  },
+  {
+    "value": "Painting the target!",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "77c858ae-8a2b-59dc-9ffb-66412032a79a"
+  },
+  {
+    "value": "Time to clean em out!",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "039c3733-b06c-5da8-826a-2e7f40e3053c"
+  },
+  {
+    "value": "Follow my orders.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "dd5c07b5-4416-5357-956c-6eb7528be00a"
+  },
+  {
+    "value": "I'm in command.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "507661b3-c3e6-5cb3-8f2c-5a42a518a24c"
+  },
+  {
+    "value": "Listen closely.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8a4b6b2d-9967-56f9-af29-ae91c6983896"
+  },
+  {
+    "value": "Subject's down.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "3fc30f7b-1912-5610-ba75-bdcdcdea934f"
+  },
+  {
+    "value": "Energy is low.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "57332b9b-f0cd-58a7-8ad7-bc6e1e4abd12"
+  },
+  {
+    "value": "I need energy.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "9239bff6-f383-576b-869d-0896b997249a"
+  },
+  {
+    "value": "Huh, more energy, just what I wanted.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "766daea6-cbb5-509d-ac9a-9fd9ab8c1efe"
+  },
+  {
+    "value": "Energy? Nice.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "51a1672a-59e9-5788-9cfa-7db91b3f278f"
+  },
+  {
+    "value": "Now that's a recharge.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a460bfcf-3399-5920-a0f0-6f283540e7f4"
+  },
+  {
+    "value": "Ugh, I needed that.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8757df48-1a5e-55eb-8496-351738a3b7d2"
+  },
+  {
+    "value": "Healed up.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ba85acb7-59d3-5591-8225-ed3cf6e5529c"
+  },
+  {
+    "value": "Injuries treated.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d78edb8f-e209-51d2-9012-3628edb47637"
+  },
+  {
+    "value": "The wonders of modern technology.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6f2651a0-0708-5323-abdb-441a5b1c5409"
+  },
+  {
+    "value": "Woah, that's one hell of a healing device.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "13e031a1-061b-585f-b558-4527c2f5384a"
+  },
+  {
+    "value": "Now, back to it.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "974a1380-21ee-5920-a367-da8bb07b89e1"
+  },
+  {
+    "value": "Orders received.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "0ba3f8af-84b8-52c9-afbf-2bce688109eb"
+  },
+  {
+    "value": "That's better.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "649715c7-5078-5b21-8239-8c3b58479302"
+  },
+  {
+    "value": "Back in action.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "cde97e6c-d417-51b3-a109-1fa0bdf2fc95"
+  },
+  {
+    "value": "Waiting for evac.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "b7ec881f-1980-50b9-a65e-fe73f0df2a4d"
+  },
+  {
+    "value": "Heading in.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "d6797ef7-2425-5948-a5f6-06af7c91c99c"
+  },
+  {
+    "value": "Not yet.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "c68c23af-71af-54e9-a020-04d00ad82419"
+  },
+  {
+    "value": "Power's out.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "0904e761-f67a-5625-9b7c-7b332158373e"
+  },
+  {
+    "value": "Pulling the plug.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "a81f088b-b0a2-5389-b7d9-ce7096f62465"
+  },
+  {
+    "value": "Nothing to see here.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "373997df-44fc-5f0e-81de-3ffb59e5fc8a"
+  },
+  {
+    "value": "I...failed?",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "8f717fb7-105a-5cfc-a57a-0c51a6b403ac"
+  },
+  {
+    "value": "This is Nova...signing off.",
+    "faction": "Terran",
+    "unit": "Nova Terra",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26d4c976-df97-53ff-8f09-25879e23f6aa"
   },
   {
     "value": "What's up, cowboy?",
@@ -13264,608 +14326,5 @@
     "isHero": true,
     "isMelee": false,
     "id": "2f9daebe-53a1-5054-ac3d-885e35c18a92"
-  },
-  {
-    "value": "Killin' time!",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Trained",
-    "isHero": true,
-    "isMelee": false,
-    "id": "49bdfe3d-bf1e-55e5-855e-c87f0617b0c3"
-  },
-  {
-    "value": "Gonna be a ghost for real.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attacked",
-    "isHero": true,
-    "isMelee": false,
-    "id": "44530d91-3299-5409-8336-b1bf45838952"
-  },
-  {
-    "value": "You got me into this. Get me out!",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attacked",
-    "isHero": true,
-    "isMelee": false,
-    "id": "776d22b7-c4ae-5d8f-8a53-07d8ad7db9c3"
-  },
-  {
-    "value": "You askin', or tellin'?",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "25b5243f-49fa-59a3-9f7b-57ad8c99297f"
-  },
-  {
-    "value": "Open your mind.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "eb7034fe-977e-59cb-867e-7872966fc646"
-  },
-  {
-    "value": "I know it before you see it.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "68d14b32-ce4f-5f09-9a82-8bc7b92e7772"
-  },
-  {
-    "value": "Out with it.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "7145628e-05b0-54fc-af3f-a9e99f4667b2"
-  },
-  {
-    "value": "Talk is cheap.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "d801d217-8129-5122-adb2-b46de06779ab"
-  },
-  {
-    "value": "Convince me.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "54830725-0874-5007-8525-c752fc219341"
-  },
-  {
-    "value": "What's crackin'?",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "75150dd5-580e-52b9-9d79-d963c3969e20"
-  },
-  {
-    "value": "Let's do this.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "24b9271c-2925-5bc0-9567-96cf20df5f9c"
-  },
-  {
-    "value": "Let's just see about that.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "ee9c7106-3a6a-5801-8a7c-4df31b6aa8cb"
-  },
-  {
-    "value": "Damn straight.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "b0b066ce-8c51-509b-a262-a30ca4334989"
-  },
-  {
-    "value": "Maybe yes, maybe no.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "9fa0ace0-908a-58a0-a4df-9f053e47d681"
-  },
-  {
-    "value": "Irie.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "494622b2-b8a9-54e5-95af-792ccf331413"
-  },
-  {
-    "value": "I do, what I wanna do.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "e5ffeef3-013d-58d8-9dfe-966180bffd50"
-  },
-  {
-    "value": "Bad mojo on the way.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "86316c7b-275f-55b9-ba98-eb561073fffb"
-  },
-  {
-    "value": "Extinguish the flame.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "66f289cd-6c88-5651-ad99-543d9f19b92d"
-  },
-  {
-    "value": "Gonna do it real quiet.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1ce121e6-4d4d-5298-910c-1c13009339c3"
-  },
-  {
-    "value": "Bleed 'em slow.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "acd4aab5-5daa-52af-888e-2d388f906428"
-  },
-  {
-    "value": "Trust ain't easy to come by.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "3e019e0e-0d47-543c-8b3b-a072fd8b089c"
-  },
-  {
-    "value": "Fear is my greatest weapon.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "16806e27-b6a3-5313-ad6a-8ce55709ac75"
-  },
-  {
-    "value": "You're dead, and you don't even know it.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "48d0ddf0-8c7c-51be-807a-424caaf83707"
-  },
-  {
-    "value": "I ain't afraid of no ghost.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "79bfe11a-c635-5f11-a24b-800713dd44ab"
-  },
-  {
-    "value": "Who you gonna call?",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "44ec7294-bd3d-5b9d-9c50-b8b17ef99fba"
-  },
-  {
-    "value": "My gun be jammin'!",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "a99e8d31-c5be-5fe2-935b-c0a77f7a0343"
-  },
-  {
-    "value": "Watch the voodoo that I do.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "4c5ba9ca-2a62-51f3-ac76-d9190b6cb750"
-  },
-  {
-    "value": "Don't be bringing me back.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "87d3c8aa-bd8b-5b26-8a3a-c61db36128e1"
-  },
-  {
-    "value": "I'm out!",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "bc2062f6-b024-555d-a324-6c9705e8c599"
-  },
-  {
-    "value": "Ooh... damn.",
-    "faction": "Terran",
-    "unit": "Gabriel Tosh",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "c1078b36-ac47-568d-bef5-1f31a341c4fb"
-  },
-  {
-    "value": "Hyperion: Online and prepped",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Trained",
-    "isHero": true,
-    "isMelee": false,
-    "id": "57976c17-38ce-553d-83a7-0cead622e5c7"
-  },
-  {
-    "value": "We’re under heavy fire here!",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attacked",
-    "isHero": true,
-    "isMelee": false,
-    "id": "9ebe71aa-765f-5b1e-a4af-fedb64d593ef"
-  },
-  {
-    "value": "Contain that hull breach!",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attacked",
-    "isHero": true,
-    "isMelee": false,
-    "id": "19a535e7-bdb8-5899-8f34-e79d41773c1b"
-  },
-  {
-    "value": "Hyperion Actual.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "c2241ff5-4b08-55f3-8451-4172cd578188"
-  },
-  {
-    "value": "Radio Check, over.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "835bba86-c779-5987-a21e-6188c029cf4f"
-  },
-  {
-    "value": "Communications online.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "a4ca2e74-05df-53de-9d8a-9579858a3b47"
-  },
-  {
-    "value": "Awaiting Confirmation.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "5e8be04f-b1bc-5130-a4a8-eb0e66e08ac1"
-  },
-  {
-    "value": "Horner responding.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "533d4bca-8f7f-52bd-9edd-e7bc158af62f"
-  },
-  {
-    "value": "Receiving transmission.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "edca17d9-d042-5653-860b-fa446de2489a"
-  },
-  {
-    "value": "Course Laid in.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "9f231e1d-d73b-51f1-91a4-ad71e7e953d9"
-  },
-  {
-    "value": "Nice and easy",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "19a4faf5-3031-5584-9db1-207bd11ff531"
-  },
-  {
-    "value": "Make it so.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "32092c23-6e4d-558b-8f92-59c84e2b7193"
-  },
-  {
-    "value": "Bring us around.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "58d6d31f-cc22-5780-9994-c4d92c0057fd"
-  },
-  {
-    "value": "Locked in.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "4bc6e6f7-cd71-574e-a17f-040ef639f128"
-  },
-  {
-    "value": "Confirmed.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "b1b712a2-cf5d-55db-a7ec-05f3de9c2a84"
-  },
-  {
-    "value": "Easy thrusters.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "3cfe8321-9e4f-5f13-9362-fa4e06fb5e8c"
-  },
-  {
-    "value": "Keep your eyes open.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "6b15c1e2-5e27-54cc-bc6a-09edc7aaf180"
-  },
-  {
-    "value": "Systems are go.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Move",
-    "isHero": true,
-    "isMelee": false,
-    "id": "7bf12b5c-4a8b-5b44-a5e5-7a765c263a8b"
-  },
-  {
-    "value": "Focus all batteries.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "4c866d65-8c73-5669-a7ae-9bdc642a561f"
-  },
-  {
-    "value": "The outcome is not in question.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "f9536944-99e6-533f-a731-731e0cff5da5"
-  },
-  {
-    "value": "Let’s show them what this boat can do.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "cf3b7310-dc7a-5d34-97f5-bfb945d689f7"
-  },
-  {
-    "value": "All hands to battle stations.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "61edb574-6634-554e-9cdb-89a5064b9e83"
-  },
-  {
-    "value": "Get aggressive, Raiders.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1cac1c2a-864b-505f-a4c1-13ef69c3bb76"
-  },
-  {
-    "value": "We’re going hot!",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "6ad35f81-1c43-528c-9b82-a173e352c37d"
-  },
-  {
-    "value": "It’s nothing personal.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "ef1032df-c23f-5709-9bfb-a29b235d6cad"
-  },
-  {
-    "value": "Hostiles confirmed and locked.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Attack",
-    "isHero": true,
-    "isMelee": false,
-    "id": "b4a55b33-4c48-5cb3-a66c-d2c43aeb8397"
-  },
-  {
-    "value": "Agh, is this thing working?",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "15a6032c-22d2-5786-b675-3d9f47121f5d"
-  },
-  {
-    "value": "Swann, I think we lost the comm station.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "fe7683f5-c139-59f1-ac97-4e75ad2292f2"
-  },
-  {
-    "value": "Is anyone there?",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "177476a8-e711-5be6-a4aa-20b7c432838a"
-  },
-  {
-    "value": "Mira, is that you?",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "a95f47a3-99b9-5485-90e8-4af0acdda78b"
-  },
-  {
-    "value": "I swear, I’ll never play cards again",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "fbcfeba4-d0dd-54ee-9e28-7592480c6d4d"
-  },
-  {
-    "value": "Bloody pirates",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "cd9958c5-4e92-596d-8e40-98c4c641e366"
-  },
-  {
-    "value": "Hyperion may not look like much, but she’s got it where it counts.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "1fbce09f-0a9e-57c8-a7c7-94fc4c052e67"
-  },
-  {
-    "value": "I’d place the odds of successfully navigating this asteroid field at 3720… to 1.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "8743ef13-56ae-5ecb-b19e-98a5323c4273"
-  },
-  {
-    "value": "Hit that bulls-eye and the dominos will fall like a house of cards, Checkmate",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "29bf62a5-da93-561b-a66b-37412628b121"
-  },
-  {
-    "value": "Hyperion’s a good ship, wait till you see her after I blow out her exhaust.",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Pissed",
-    "isHero": true,
-    "isMelee": false,
-    "id": "322622de-e1ec-5c10-ac6b-9fbb857bd697"
-  },
-  {
-    "value": "My ship! UGH!",
-    "faction": "Terran",
-    "unit": "Matt Horner",
-    "action": "Other",
-    "isHero": true,
-    "isMelee": false,
-    "id": "02d2538a-3abe-5cca-8660-79d1d3f17d69"
   }
 ]

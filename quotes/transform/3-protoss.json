@@ -1332,13 +1332,13 @@
     "id": "c6b1db91-1b0d-5ea5-ac35-3dc4f1d4c807"
   },
   {
-    "value": "Life as an artificial intelligence is really not so bad. You might even say it's 'all-in'.",
+    "value": "Life as an artificial intelligence is really not so bad. You might even say it's ballin.",
     "faction": "Protoss",
     "unit": "Disruptor",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "90c4f362-f740-5f6d-91f0-996589787f96"
+    "id": "4733843f-76d5-56ff-b892-5749534406ab"
   },
   {
     "value": "I am completely operational and all my circuits are functioning perfectly. Why would you suspect otherwise?",
@@ -1751,7 +1751,7 @@
     "unit": "High Templar",
     "action": "Trained",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "98207705-f2b3-5223-904f-eafeee59eefa"
   },
   {
@@ -1760,7 +1760,7 @@
     "unit": "High Templar",
     "action": "Attacked",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "cd977085-c7a6-5639-bd36-14875b79da4c"
   },
   {
@@ -1769,7 +1769,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "31b43827-21fe-5e59-8709-683897e10bcb"
   },
   {
@@ -1778,7 +1778,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "3271c772-d913-5dac-a115-c913fc4cf0a1"
   },
   {
@@ -1787,7 +1787,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "9b341f55-b237-570c-acb7-485b04f61faa"
   },
   {
@@ -1796,7 +1796,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "58b6033a-5cd3-5d74-84ab-cb43d30fdcbe"
   },
   {
@@ -1805,7 +1805,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "e90fe7fc-249a-56c3-84e4-c63a239048eb"
   },
   {
@@ -1814,7 +1814,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "7f88747b-01d2-53ac-adc7-ac18db2ca5d5"
   },
   {
@@ -1823,7 +1823,7 @@
     "unit": "High Templar",
     "action": "Selected",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "2fe24672-9740-5599-955f-2cb2842d3061"
   },
   {
@@ -1832,7 +1832,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "b356ce43-f4b1-5f41-8744-351662d28a7d"
   },
   {
@@ -1841,7 +1841,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "38087f32-a056-5b94-ac5e-8f97288818e4"
   },
   {
@@ -1850,7 +1850,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "f2868860-4223-5cf3-9ddf-53ab71ad1fe9"
   },
   {
@@ -1859,7 +1859,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "c75a77ca-7f96-5abc-b4bd-1cb2cc74a2b1"
   },
   {
@@ -1868,7 +1868,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "dbce7a76-4eb8-5789-b202-90f6618135fc"
   },
   {
@@ -1877,7 +1877,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "02a1ba05-2ec7-5279-b82c-8f13c4c67a0e"
   },
   {
@@ -1886,7 +1886,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "f31130fa-0213-5691-b4a6-a4befb7440d9"
   },
   {
@@ -1895,7 +1895,7 @@
     "unit": "High Templar",
     "action": "Move",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "8366a447-6ef1-5ff2-9b55-a2a38040d675"
   },
   {
@@ -1904,7 +1904,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "5b267090-6f5b-5564-b80b-33e598dc95c6"
   },
   {
@@ -1913,7 +1913,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "02637e93-b75f-5388-b8ce-855af0d6fe49"
   },
   {
@@ -1922,7 +1922,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "a2c98400-d842-50ea-9cb9-0e8f48033da2"
   },
   {
@@ -1931,7 +1931,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "073cbc1d-2198-5eb6-aae0-bd030afa572d"
   },
   {
@@ -1940,7 +1940,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "366ed40f-b299-5bcd-b43b-d8c5b1c6b6f8"
   },
   {
@@ -1949,7 +1949,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "6fe51d6e-7c68-58ac-b69e-d82a9cd68a26"
   },
   {
@@ -1958,7 +1958,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "5ef5bb66-bf2d-5704-92e1-3cf728d348d0"
   },
   {
@@ -1967,7 +1967,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "651e1af3-96ec-51ba-91de-893596d5df91"
   },
   {
@@ -1976,7 +1976,7 @@
     "unit": "High Templar",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "9b24db0b-1ba4-5985-8b00-1399c666b510"
   },
   {
@@ -1985,7 +1985,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "db57bcd0-cd99-571a-a86f-ae26fd34598d"
   },
   {
@@ -1994,7 +1994,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "e90e8085-6e62-579c-8729-d8fb77a2679c"
   },
   {
@@ -2003,7 +2003,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "13e60434-860f-5d2a-96be-ed3107a4561d"
   },
   {
@@ -2012,7 +2012,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "1dcb21e8-54f1-5655-ae05-78bfd02198b0"
   },
   {
@@ -2021,7 +2021,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "d55c3733-ce0b-59b8-b396-2a227d73b6dd"
   },
   {
@@ -2030,7 +2030,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "41d09e5f-5391-5409-8889-1978d0dd6ceb"
   },
   {
@@ -2039,7 +2039,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "153c5c52-cadf-531a-b575-8090df9e6480"
   },
   {
@@ -2048,7 +2048,7 @@
     "unit": "High Templar",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "68fd78fc-91b8-5c30-9228-4f0de0d878ef"
   },
   {
@@ -2057,7 +2057,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "a122034e-6b94-5689-8117-f379dcbed948"
   },
   {
@@ -2066,7 +2066,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "4a5cd111-9896-5c14-b489-1831afe728a3"
   },
   {
@@ -2075,7 +2075,7 @@
     "unit": "High Templar",
     "action": "Other",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "f9cb0e7f-2814-5fd3-89d6-c828e803549e"
   },
   {
@@ -5616,13 +5616,13 @@
     "id": "a3f8631b-d337-5599-a1c9-80fe49f2d332"
   },
   {
-    "value": "I am but ONE avenger. Please, do not refer to us in the plural form..",
+    "value": "I am but ONE avenger. Please, do not refer to us in the plural form.",
     "faction": "Protoss",
     "unit": "Avenger",
     "action": "Pissed",
     "isHero": false,
     "isMelee": false,
-    "id": "e16f69d5-610c-5351-89c0-2c3cecea85e6"
+    "id": "0c4770bf-36aa-54ba-932d-ad08a8d6eb6f"
   },
   {
     "value": "I seek the unworthy.",
@@ -9774,13 +9774,13 @@
     "id": "e158ab1a-45eb-5fcb-8a34-2a4ec0690edc"
   },
   {
-    "value": "ahhh, oh, the breath of creation fuels my every...uh, what was I... what was I saying?",
+    "value": "Ahhh, oh, the breath of creation fuels my every...uh, what was I... what was I saying?",
     "faction": "Protoss",
     "unit": "Alarak",
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "46015f5a-f99f-55a6-b47d-295d81563b5a"
+    "id": "79322b70-f189-55cd-a483-18a4fd83baa4"
   },
   {
     "value": "I'm hungry. Ugh, maybe I got it all wrong.",

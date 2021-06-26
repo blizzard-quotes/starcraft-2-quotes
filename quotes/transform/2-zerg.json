@@ -2,110 +2,110 @@
   {
     "value": "Metamorphosis completed.",
     "faction": "Zerg",
-    "unit": "Changeling Marine",
+    "unit": "Changeling/Marine",
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "d9507684-d303-5c6d-b537-0674136ec279"
+    "id": "e3a8150e-1344-5304-abaf-631be06128f5"
   },
   {
     "value": "Orders?",
     "faction": "Zerg",
-    "unit": "Changeling Marine",
+    "unit": "Changeling/Marine",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "0b98b157-f1b8-54e9-a46c-d58d8be547e6"
+    "id": "34ec9944-d99a-5f28-aff8-53531fa2d204"
   },
   {
     "value": "Yours to command.",
     "faction": "Zerg",
-    "unit": "Changeling Marine",
+    "unit": "Changeling/Marine",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "3b9c064f-70f8-56c4-a42f-de4b70c3188c"
+    "id": "45aaa6cb-6596-5ffe-87e1-8e435e373ea4"
   },
   {
     "value": "Engaging.",
     "faction": "Zerg",
-    "unit": "Changeling Marine",
+    "unit": "Changeling/Marine",
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "0830e66c-8989-5a28-8552-faea30a063d1"
+    "id": "64136e36-a7e5-582a-a491-a5608ff7d3ab"
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.",
     "faction": "Zerg",
-    "unit": "Changeling Marine",
+    "unit": "Changeling/Marine",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "a3a5760c-d321-5daf-a9cf-8628435565d7"
+    "id": "f91d4f1b-1c0b-5e70-a050-b8f3972b8953"
   },
   {
     "value": "Metamorphosis complete.",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Trained",
     "isHero": false,
     "isMelee": true,
-    "id": "254b6ccf-8284-563c-ba9f-7b0c2fd2f138"
+    "id": "895c3c59-4ee8-5725-9fb0-552ba55bffa8"
   },
   {
     "value": "Orders?",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "bbc7dd3f-1d5f-551f-bebe-1bbaadc5fe77"
+    "id": "ae3914c4-28d2-58dd-8757-3b44c3785935"
   },
   {
     "value": "Yours to command.",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Selected",
     "isHero": false,
     "isMelee": true,
-    "id": "64fdb2c1-a842-5519-8c5b-b97c4e889109"
+    "id": "b2b36d6b-d7ef-57c8-a9d4-b82ccd992c71"
   },
   {
     "value": "Engaging.",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "c0ec0149-74dd-531e-bad6-c80dcf46c06a"
+    "id": "e1fce2f0-97f0-5bd4-896c-becac990b187"
   },
   {
     "value": "It will be done.",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Move",
     "isHero": false,
     "isMelee": true,
-    "id": "6cfaf3c6-91ec-5d36-aabd-d80c464f9e40"
+    "id": "2e76cd54-c674-5b6a-aafb-e3d8b18deed0"
   },
   {
     "value": "Kill them all, let Kerrigan sort them out.",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "f9c19149-0e21-55a4-a997-356532ddb783"
+    "id": "76d5a45d-405f-548b-8c9e-95f7598ab265"
   },
   {
-    "value": "I'm looking for a cat. Means world to me!",
+    "value": "I'm looking for a cat. Means worlds to me!",
     "faction": "Zerg",
-    "unit": "Changeling Zealot",
+    "unit": "Changeling/Zealot",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "77059837-88b5-538f-973d-868a1450d279"
+    "id": "4bd421f3-4de3-5e9f-9f10-039e2f207407"
   },
   {
     "value": "I serve.",
@@ -504,6 +504,24 @@
     "id": "5ff84ba1-09f0-5ba6-a9c2-215a5ab6ba1a"
   },
   {
+    "value": "До свидания...",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7be2b662-ab4c-5899-b5d3-3fd36e10841e"
+  },
+  {
+    "value": "Not again",
+    "faction": "Zerg",
+    "unit": "Alexei Stukov",
+    "action": "Other",
+    "isHero": true,
+    "isMelee": false,
+    "id": "99dcd162-ecb3-5a2b-a232-2348e8ae4d07"
+  },
+  {
     "value": "I live.",
     "faction": "Zerg",
     "unit": "Dehaka",
@@ -529,15 +547,6 @@
     "isHero": true,
     "isMelee": false,
     "id": "c6711f53-dbb0-5d71-8d9f-75d921dcb13f"
-  },
-  {
-    "value": "There is no need for formality",
-    "faction": "Zerg",
-    "unit": "Dehaka",
-    "action": "Selected",
-    "isHero": true,
-    "isMelee": false,
-    "id": "fdc1d6d5-e61c-57c1-9300-a76f9028a4cb"
   },
   {
     "value": "I listen.",
@@ -567,13 +576,13 @@
     "id": "4ef87a6e-965f-5375-80c0-091a737233d6"
   },
   {
-    "value": "growls",
+    "value": "Growls",
     "faction": "Zerg",
     "unit": "Dehaka",
     "action": "Selected",
     "isHero": true,
     "isMelee": false,
-    "id": "a795eeb1-107a-5e3f-9e79-7ebab51b6ff7"
+    "id": "c04e3d0e-7f73-5b90-87ca-d2581cb333fa"
   },
   {
     "value": "I will take essence.",

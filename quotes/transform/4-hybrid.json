@@ -54,13 +54,13 @@
     "id": "1b7f67f4-a60c-503b-a396-57a02b1afbe5"
   },
   {
-    "value": "DEATH comes to you.",
+    "value": "DEATH comes for you.",
     "faction": "Hybrid",
     "unit": "Maar",
     "action": "Move",
     "isHero": false,
     "isMelee": false,
-    "id": "e053992c-064a-5afb-ad1b-27ce724902f8"
+    "id": "2554b7fc-950c-57e7-962a-709998352a52"
   },
   {
     "value": "NONE shall stand.",
