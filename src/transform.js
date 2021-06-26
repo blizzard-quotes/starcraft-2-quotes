@@ -11,6 +11,15 @@ const pathOutput = path.join(__dirname, '../quotes/transform');
 const pathQuotes = path.join(__dirname, '../quotes/starcraft-2-quotes.json');
 
 /**
+ * Ensure first char is capitalized
+ * @param {string} value - string to ensure first char is capitalized
+ */
+function capitalizeFirstChar(value) {
+  if (typeof value !== 'string') return '';
+  return value.charAt(0).toUpperCase() + value.slice(1);
+}
+
+/**
  * Ensure strings are clean / neat for .json file
  * @param {string} value - string to make 'clean'
  */
@@ -90,7 +99,7 @@ function cleanQuoteFaction(faction) {
  * @param {string} value - the actual quote to 'clean'
  */
 function cleanQuoteValue(value) {
-  return cleanString(value);
+  return capitalizeFirstChar(cleanString(value));
 }
 
 /**
@@ -107,7 +116,7 @@ function quoteTransformer(input, output) {
   let rawData = fs.readFileSync(input);
   let quotes = JSON.parse(rawData);
 
-  quotes.forEach(function(quote) {
+  quotes.forEach(function (quote) {
     let cleanUnit = cleanQuoteUnit(quote['unit']);
     let cleanValue = cleanQuoteValue(quote['value']);
     let cleanFaction = cleanQuoteFaction(quote['faction']);
@@ -123,7 +132,7 @@ function quoteTransformer(input, output) {
       id: uuidv5(
         `${cleanValue} ${cleanFaction} ${cleanUnit} ${cleanAction}`,
         uuidv5.URL
-      )
+      ),
     };
 
     if (cleanQuote['value'] !== '') {
@@ -140,14 +149,14 @@ function quoteTransformer(input, output) {
   return cleanQuotes;
 }
 
-fs.mkdir(pathOutput, { recursive: true }, err => {
+fs.mkdir(pathOutput, { recursive: true }, (err) => {
   if (err) throw err;
 });
 
 let files = fs.readdirSync(pathInput);
 let quotes = [];
 
-files.forEach(function(file) {
+files.forEach(function (file) {
   quotes = quotes.concat(
     quoteTransformer(`${pathInput}/${file}`, `${pathOutput}/${file}`)
   );
